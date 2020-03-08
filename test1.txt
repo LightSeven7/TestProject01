@@ -12,11 +12,16 @@ jjjjj
 【Git でユーザー名とメールアドレスを設定する方法（全体用とプロジェクト用） | ラボラジアン】
 https://laboradian.com/set-git-user-and-email/
 ---------------------------------------------------------
-
 【Git commit 取り消したい - Qiita】
 https://qiita.com/maejimayuto/items/30bfab250186a00ae884
 ---------------------------------------------------------
 これで完璧! 図解でわかるgit rebaseの2つの使い方
 https://www.sejuku.net/blog/71919
+---------------------------------------------------------
+【【git stash】コミットはせずに変更を退避したいとき - Qiita】
+https://qiita.com/chihiro/items/f373873d5c2dfbd03250
+---------------------------------------------------------
+【git branch コマンド - Qiita】
+https://qiita.com/chihiro/items/e178e45a7fd5a2fb4599
 ---------------------------------------------------------
 
