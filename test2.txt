@@ -1,8 +1,5 @@
-kajklfajkfjaljfa
-iuigajlobufa
-ckjdagakluut
-kdddiidkklj
-test2.txtを更新しました。
-aaaaa
-kajkajfakjfa
+Gitの要調査内容
+
+１．追跡ブランチとは
+２．リモート・ローカルの違い
 
