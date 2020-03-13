@@ -10,3 +10,10 @@
 かかか
 ききき
 
+
+指定したパスの画像ファイルをバイト型で取得し、DataSet項目へセットする方法
+string imgFilePath = @"c:\work\hogehoge.png";
+System.Drawing.Image img = System.Drawing.Image.FromFile(imgFilePath);
+ImageConverter imgcv = new ImageConverter();
+dt.Rows[0]["Image_Path"] = (byte[])imgcv.ConvertTo(img, typeof(byte[]));
+
