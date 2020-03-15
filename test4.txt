@@ -17,3 +17,4 @@ System.Drawing.Image img = System.Drawing.Image.FromFile(imgFilePath);
 ImageConverter imgcv = new ImageConverter();
 dt.Rows[0]["Image_Path"] = (byte[])imgcv.ConvertTo(img, typeof(byte[]));
 
+aaaaaabbbbbbb2
