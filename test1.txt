@@ -37,4 +37,10 @@ https://qiita.com/maejimayuto/items/30bfab250186a00ae884
 Gitコマンド一覧 - Qiita
 https://qiita.com/fukumone/items/73e1a9a62c5e4454263b
 ------------------------------------------------------------------
+【git :: bash プロンプトにブランチ名と作業ツリーの状態を表示する [Tipsというかメモ]】
+http://tm.root-n.com/unix:command:git:bash_prompt
+---------------------------------------------------------
+【Gitに慣れていない人がよくハマるパターンと対処法まとめ - Qiita】
+https://qiita.com/terry_6518/items/44ce2419a78d4121569a?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=3bda734c3f-Qiita_newsletter_403_03_11_2020&utm_medium=email&utm_term=0_e44feaa081-3bda734c3f-35487089
+---------------------------------------------------------
 
