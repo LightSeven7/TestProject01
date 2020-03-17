@@ -6,7 +6,10 @@ Gitの要調査内容
 bbbbbb
 dddddd
 
-
 uuuuuu
 eeeeee
+
+追加
+あああ
+いいい
 
