@@ -53,3 +53,14 @@ GIT_PS1_SHOWUNTRACKEDFILES=true
 GIT_PS1_SHOWSTASHSTATE=true
 GIT_PS1_SHOWUPSTREAM=auto
 
+
+------------------------------------------------------------------
+チュートリアル: コマンドラインでの C プログラムのコンパイル | Microsoft Docs
+https://docs.microsoft.com/ja-jp/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=vs-2019
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+【VSCode】デバッグ機能を使ってC/C++のデバッグをする 
+https://mattyan1053.hatenablog.com/entry/2018/12/08/155228
+------------------------------------------------------------------
+
