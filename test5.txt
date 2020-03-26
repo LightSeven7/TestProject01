@@ -1,6 +1,6 @@
 {
 	"editor.fontSize": 12,
-	"editor.fontFamily": "\"Source Han Code JP\", ŸàƒSƒVƒbƒN, Inconsolata",
+	"editor.fontFamily": "\"Source Han Code JP\", æ¸¸ã‚´ã‚·ãƒƒã‚¯, Inconsolata",
 	"editor.quickSuggestionsDelay": 5,
 	"editor.suggest.maxVisibleSuggestions": 15,
 	"editor.insertSpaces": false,
@@ -25,36 +25,36 @@
 	"workbench.startupEditor": "newUntitledFile",
 	"workbench.editor.enablePreview": false,
 	"workbench.editor.enablePreviewFromQuickOpen": false,
-// !‚±‚±‚©‚ç‰º‚ğíœ
+// !ã“ã“ã‹ã‚‰ä¸‹ã‚’å‰Šé™¤
 	"workbench.colorCustomizations": {
 
-		// #ƒJ[ƒ\ƒ‹s‚Ìİ’è
+		// #ã‚«ãƒ¼ã‚½ãƒ«è¡Œã®è¨­å®š
 		"editor.lineHighlightBorder": "#00ffc8",
 		// "editor.lineHighlightBackground": "#0051ff",
 		// "editor.lineHighlightBackground": "#0fe6e683",
 
-		// #‘I‘ğó‘Ô‚Ì”ÍˆÍ“àİ’è
+		// #é¸æŠçŠ¶æ…‹ã®ç¯„å›²å†…è¨­å®š
 		"editor.selectionHighlightBorder": "#cbdf17",
 		"editor.selectionBackground": "#0051ff",
 
-		// #ŒŸõŒ‹‰Êİ’è
+		// #æ¤œç´¢çµæœè¨­å®š
 		"editor.findMatchBorder": "#f50b1e",
 		"editor.findMatchBackground": "#0463a1e1",
 		"editor.findMatchHighlightBackground": "#02d5fa7a",
 		"editor.findMatchHighlightBorder": "#35fa04",
 
-		// #ƒGƒfƒBƒ^ŠOŠÏİ’è
+		// #ã‚¨ãƒ‡ã‚£ã‚¿å¤–è¦³è¨­å®š
 		"editorGroup.border": "#ff0000",
 		"editorGroupHeader.tabsBackground": "#1f2946",
 		"editorIndentGuide.background": "#00d9ff",
 		"editorLineNumber.foreground": "#1990fffd",
 		"editorLineNumber.activeForeground": "#19f7ff",
 
-		// #ƒXƒNƒ[ƒ‹ƒo[İ’è
+		// #ã‚¹ã‚¯ãƒ­ãƒ¼ãƒ«ãƒãƒ¼è¨­å®š
 		"scrollbarSlider.background": "#19f7ff69",
 		"scrollbarSlider.hoverBackground": "#19f7ffb9",
 
-		// #ƒ^ƒuŠOŠÏİ’è
+		// #ã‚¿ãƒ–å¤–è¦³è¨­å®š
 		"tab.border": "#ffffff",
 		"tab.activeBorder": "#fffb19",
 		"tab.activeForeground": "#fffb19",
@@ -62,11 +62,11 @@
 		"tab.inactiveForeground": "#ffffff",
 		//"tab.inactiveBackground": "#03256e",
 
-		// #ƒXƒe[ƒ^ƒXƒo[ŠOŠÏİ’è
+		// #ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ãƒãƒ¼å¤–è¦³è¨­å®š
 		"statusBar.border": "#00d9ff",
 		"statusBar.debuggingBackground": "#ff0000",
 
-		// #Diffİ’è
+		// #Diffè¨­å®š
 		"diffEditor.insertedTextBackground": "#0474f541",
 		// "diffEditor.insertedTextBackground": "#04f5992f",
 		"diffEditor.insertedTextBorder": "#001afff1",
@@ -75,32 +75,32 @@
 		"diffEditor.removedTextBorder": "#ff0055a9",
 	},
 	"editor.tokenColorCustomizations": {
-		// #ƒRƒƒ“ƒgsİ’è
+		// #ã‚³ãƒ¡ãƒ³ãƒˆè¡Œè¨­å®š
 		"comments": "#00d41c",
 	},
-	// #mƒGƒNƒXƒvƒ[ƒ‰[nƒrƒ…[‚É•\¦‚µ‚È‚¢ƒtƒHƒ‹ƒ_‚Æƒtƒ@ƒCƒ‹‚ğw’è
+	// #ï¼»ã‚¨ã‚¯ã‚¹ãƒ—ãƒ­ãƒ¼ãƒ©ãƒ¼ï¼½ãƒ“ãƒ¥ãƒ¼ã«è¡¨ç¤ºã—ãªã„ãƒ•ã‚©ãƒ«ãƒ€ã¨ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æŒ‡å®š
 	"files.exclude": {
 		"**/.svn": true,
 		"**/img/**": true,
 		"**/bin/**": true,
 		"**/*.bak": true,
 	},
-	// ƒtƒ@ƒCƒ‹ŠÄ‹‚©‚çœŠO‚·‚éƒtƒ@ƒCƒ‹
+	// ãƒ•ã‚¡ã‚¤ãƒ«ç›£è¦–ã‹ã‚‰é™¤å¤–ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«
 	"files.watcherExclude": {
 		"**/bin": true,
 		"**/img/**": true,
 	},
-	// #ŒŸõ‚Åƒtƒ@ƒCƒ‹‚ÆƒtƒHƒ‹ƒ_[‚ğœŠO‚·‚é‚½‚ß‚É glob ƒpƒ^[ƒ“‚ğ\¬
-	// #files.exclude İ’è‚©‚ç‚·‚×‚Ä‚Ì glob ƒpƒ^[ƒ“‚ğŒp³
+	// #æ¤œç´¢ã§ãƒ•ã‚¡ã‚¤ãƒ«ã¨ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼ã‚’é™¤å¤–ã™ã‚‹ãŸã‚ã« glob ãƒ‘ã‚¿ãƒ¼ãƒ³ã‚’æ§‹æˆ
+	// #files.exclude è¨­å®šã‹ã‚‰ã™ã¹ã¦ã® glob ãƒ‘ã‚¿ãƒ¼ãƒ³ã‚’ç¶™æ‰¿
 	"search.exclude": {
 		"**/bin": true,
 		"**/img/**": true,
 	},
-	// #ŒŸõİ’è
+	// #æ¤œç´¢è¨­å®š
 	"search.useIgnoreFiles": false,
 	"search.useGlobalIgnoreFiles": false,
 	"search.useReplacePreview": true,
-	// #ƒ^[ƒ~ƒiƒ‹İ’è
+	// #ã‚¿ãƒ¼ãƒŸãƒŠãƒ«è¨­å®š
 	"terminal.integrated.copyOnSelection": true,
 	"terminal.integrated.fontSize": 12,
 	"terminal.integrated.lineHeight": 1,
@@ -108,7 +108,7 @@
 	"terminal.integrated.cursorBlinking": true,
 	"terminal.integrated.cursorStyle": "underline",
 	"terminal.integrated.scrollback": 30000,
-	// #Emmetİ’è
+	// #Emmetè¨­å®š
 	// "emmet.triggerExpansionOnTab": true,
 	"eslint.alwaysShowStatus": true,
 	"liveServer.settings.CustomBrowser": "chrome",
@@ -116,9 +116,9 @@
 	"explorer.": 15,
 	"svn.enableProposedApi": "product",
 	"svn.default.encoding": "shiftjis",
-	// #Better Comments Tagsİ’è(Šg’£‹@”\)
+	// #Better Comments Tagsè¨­å®š(æ‹¡å¼µæ©Ÿèƒ½)
 	"better-comments.tags": [
-		// ! İ’è‚ğ’Ç‰ÁE•ÏX‚µ‚½ê‡AVSCode‚ğÄ‹N“®
+		// ! è¨­å®šã‚’è¿½åŠ ãƒ»å¤‰æ›´ã—ãŸå ´åˆã€VSCodeã‚’å†èµ·å‹•
 		{
 			"tag": "!",
 			"color": "#FF2D00",
@@ -156,7 +156,7 @@
 			"backgroundColor": "transparent"
 		}
 	],
-	// #Peacockİ’è(Šg’£‹@”\)
+	// #Peacockè¨­å®š(æ‹¡å¼µæ©Ÿèƒ½)
 	"peacock.favoriteColors": [
 		{
 			"name": "Angular Red",
@@ -222,7 +222,7 @@
 	"[asp]": {
 		"files.encoding": "shiftjis"
 	},
-	// #VSNotesİ’è(Šg’£‹@”\)
+	// #VSNotesè¨­å®š(æ‹¡å¼µæ©Ÿèƒ½)
 	"vsnotes.defaultNotePath": "e:\\kubota_work\\VSNote",
 	"vsnotes.defaultNoteTitle": "{title}.{ext}",
 	"vsnotes.tokens": [
@@ -252,7 +252,7 @@
 			"description": "Insert formatted datetime."
 		}
 	],
-	// #Markdown All in One ‚Ìİ’è(Šg’£‹@”\)
+	// #Markdown All in One ã®è¨­å®š(æ‹¡å¼µæ©Ÿèƒ½)
 	"markdown.extension.list.indentationSize": "inherit",
 	"[markdown]": {
 		"editor.tabSize": 4,
@@ -266,10 +266,10 @@
 	"markdown.extension.orderedList.autoRenumber": false,
 	"markdown.extension.syntax.decorations": false,
 	"markdown.extension.tableFormatter.enabled": false,
-	// #Shortcuts ‚Ìİ’è(Šg’£‹@”\)
+	// #Shortcuts ã®è¨­å®š(æ‹¡å¼µæ©Ÿèƒ½)
 	"shortcuts.buttons": [
-		// ! İ’è‚ğ’Ç‰ÁE•ÏX‚µ‚½ê‡AVSCode‚ğÄ‹N“®
-		// ! •\¦ƒAƒCƒRƒ“‚Í‰E‹LULRQÆuhttps://octicons.github.com/v
+		// ! è¨­å®šã‚’è¿½åŠ ãƒ»å¤‰æ›´ã—ãŸå ´åˆã€VSCodeã‚’å†èµ·å‹•
+		// ! è¡¨ç¤ºã‚¢ã‚¤ã‚³ãƒ³ã¯å³è¨˜ULRå‚ç…§ã€Œhttps://octicons.github.com/ã€
 		// "file-binary , workbench.action.tasks.build , Run build task",
 		// "beaker , workbench.action.tasks.test , Run test task",
 		"telescope , workbench.action.showCommands , Command Palette",

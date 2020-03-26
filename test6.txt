@@ -1,19 +1,19 @@
-// #Šù’è’l‚ğã‘‚«‚·‚é‚É‚ÍA‚±‚Ìƒtƒ@ƒCƒ‹“à‚ÉƒL[ ƒoƒCƒ“ƒh‚ğ‘}“ü‚µ‚Ü‚·auto[]
+// #æ—¢å®šå€¤ã‚’ä¸Šæ›¸ãã™ã‚‹ã«ã¯ã€ã“ã®ãƒ•ã‚¡ã‚¤ãƒ«å†…ã«ã‚­ãƒ¼ ãƒã‚¤ãƒ³ãƒ‰ã‚’æŒ¿å…¥ã—ã¾ã™auto[]
 [
 	{
-		// ##‘å•¶š•ÏŠ·
+		// ##å¤§æ–‡å­—å¤‰æ›
 		"key": "alt+c u",
 		"command": "editor.action.transformToUppercase",
 		"when": "editorHasSelection && editorTextFocus"
 	},
 	{
-		// #¬•¶š•ÏŠ·
+		// #å°æ–‡å­—å¤‰æ›
 		"key": "alt+c l",
 		"command": "editor.action.transformToLowercase",
 		"when": "editorHasSelection && editorTextFocus"
 	},
 	{
-		// #‘I‘ğ‚µ‚Ä‚¢‚éƒtƒ@ƒCƒ‹‚Ìâ‘ÎƒpƒX‚ğæ“¾
+		// #é¸æŠã—ã¦ã„ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã®çµ¶å¯¾ãƒ‘ã‚¹ã‚’å–å¾—
 		"key": "shift+alt+p",
 		"command": "copyFilePath",
 		"when": "editorFocus"
@@ -24,7 +24,7 @@
 		"when": "!editorFocus"
 	},
 	{
-		// #‘I‘ğ‚µ‚Ä‚¢‚éƒtƒ@ƒCƒ‹‚Ì‘Š‘ÎƒpƒX‚ğæ“¾
+		// #é¸æŠã—ã¦ã„ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã®ç›¸å¯¾ãƒ‘ã‚¹ã‚’å–å¾—
 		"key": "shift+alt+n",
 		"command": "copyRelativeFilePath",
 		"when": "editorFocus"
@@ -35,7 +35,7 @@
 		"when": "!editorFocus"
 	},
 	{
-		// #‘I‘ğ‚µ‚Ä‚¢‚éƒtƒ@ƒCƒ‹‚ÌƒtƒHƒ‹ƒ_‚ğƒGƒNƒXƒvƒ[ƒ‰[‚ÅŠJ‚­
+		// #é¸æŠã—ã¦ã„ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒ•ã‚©ãƒ«ãƒ€ã‚’ã‚¨ã‚¯ã‚¹ãƒ—ãƒ­ãƒ¼ãƒ©ãƒ¼ã§é–‹ã
 		"key": "shift+alt+r",
 		"command": "revealFileInOS",
 		"when": "editorFocus"
