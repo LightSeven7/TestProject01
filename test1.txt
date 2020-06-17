@@ -77,3 +77,7 @@ https://qiita.com/oruponu/items/ae9c720d4522c1606daf
 https://www.webprofessional.jp/frame-by-frame-animation-css-javascript/
 ------------------------------------------------------------------
 
+【CentOS 7 : インストール : Server World】
+https://www.server-world.info/query?os=CentOS_7&p=install
+---------------------------------------------------------
+
