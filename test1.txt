@@ -81,3 +81,9 @@ https://www.webprofessional.jp/frame-by-frame-animation-css-javascript/
 https://www.server-world.info/query?os=CentOS_7&p=install
 ---------------------------------------------------------
 
+タイトル：【いまさらまとめるブックマークレットの作り方 〜 2016年版 〜 - 無駄と文化】
+アドレス：https://blog.mudatobunka.org/entry/2016/02/29/030633
+
+タイトル：【JavaScript / Css 圧縮・軽量化（Minify）：ファイルを圧縮して表示速度を上げる | ラッコツールズ🔧】
+アドレス：https://rakko.tools/tools/33/
+
