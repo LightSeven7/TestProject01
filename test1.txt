@@ -81,6 +81,10 @@ https://www.webprofessional.jp/frame-by-frame-animation-css-javascript/
 https://www.server-world.info/query?os=CentOS_7&p=install
 ---------------------------------------------------------
 
+タイトル：【Visula Studio Code で超簡単・拡張機能の必要最小限のデバッグ環境を構築してみる(JavaScript編) : OFF-SOFT.net】
+アドレス：https://www.off-soft.net/ja/software/develop2/visula-studio-code-simple-extension2.html#javascript_extension_3
+---------------------------------------------------------
+
 タイトル：【いまさらまとめるブックマークレットの作り方 〜 2016年版 〜 - 無駄と文化】
 アドレス：https://blog.mudatobunka.org/entry/2016/02/29/030633
 
