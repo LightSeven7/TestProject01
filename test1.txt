@@ -91,3 +91,7 @@ https://www.server-world.info/query?os=CentOS_7&p=install
 タイトル：【JavaScript / Css 圧縮・軽量化（Minify）：ファイルを圧縮して表示速度を上げる | ラッコツールズ🔧】
 アドレス：https://rakko.tools/tools/33/
 
+タイトル：【K'confが選ぶ30個のブックマークレット - K'conf】
+アドレス：http://kenz0.s201.xrea.com/weblog/2007/12/post_95.html
+---------------------------------------------------------
+
