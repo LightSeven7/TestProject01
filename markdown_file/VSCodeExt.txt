@@ -1,0 +1,35 @@
+
+---------------------------------------------------------
+タイトル：【jumpy - Visual Studio Marketplace】
+アドレス：https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy
+
+	{
+		"key": "shift+enter",
+		"command": "extension.jumpy-word",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "Escape",
+		"command": "extension.jumpy-exit",
+		"when": "editorTextFocus && jumpy.isJumpyMode"
+	}
+
+---------------------------------------------------------
+タイトル：【【VSCode】よく使ってる拡張機能をまとめてみた - WGGの活動log】
+アドレス：http://wgg.hatenablog.jp/entry/20180824/1535037445
+---------------------------------------------------------
+タイトル：【VSCodeの拡張機能、なに使ってますか？ はてなエンジニア世論調査 #2 - Hatena Developer Blog】
+アドレス：https://developer.hatenastaff.com/entry/2020/08/14/093000
+---------------------------------------------------------
+タイトル：【Visual Studio Code拡張機能 14選 | Hypertext Candy】
+アドレス：https://www.hypertextcandy.com/visual-studio-code-extensions
+---------------------------------------------------------
+タイトル：【絶対にオススメできるVisual Studio code拡張機能 10連発 ← kannart WEB HACKS】
+アドレス：https://blog.kannart.co.jp/coding/1875/
+---------------------------------------------------------
+タイトル：【これだけは使うVSCodeの拡張機能 | （仮）】
+アドレス：https://kkkr.netlify.app/blog/vscode.html#code-spell-checker
+---------------------------------------------------------
+タイトル：【なぜVSCodeはHTML初心者におすすめのエディタなのか】
+アドレス：https://b1tblog.com/2019/10/23/vscode-html/
+
