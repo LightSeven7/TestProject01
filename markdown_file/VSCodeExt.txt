@@ -50,6 +50,13 @@
 タイトル：【QuickTabSwitch - Google Chromeのタブを素早く切り替える MOONGIFT】
 アドレス：https://www.moongift.jp/2019/02/quicktabswitch-google-chrome%e3%81%ae%e3%82%bf%e3%83%96%e3%82%92%e7%b4%a0%e6%97%a9%e3%81%8f%e5%88%87%e3%82%8a%e6%9b%bf%e3%81%88%e3%82%8b/
 ---------------------------------------------------------
+タイトル：【Chrome拡張機能の開発 その1-1：概要編 - Qiita】
+アドレス：https://qiita.com/gtracker64/items/4a6b0ffca3935a90d4d3
+---------------------------------------------------------
+タイトル：【chrome拡張機能 > background.jsからcontentscript.jsにメッセージを送る方法 · For myself tomorrow】
+アドレス：https://tigawa.github.io/blog/2013/10/13/chrome-extensions-message/
+---------------------------------------------------------
+
 ※Super Reloader
 ※タブリローダー
 
