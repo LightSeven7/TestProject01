@@ -1,4 +1,5 @@
 
+■VSCode拡張機能
 ---------------------------------------------------------
 タイトル：【jumpy - Visual Studio Marketplace】
 アドレス：https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy
@@ -32,4 +33,39 @@
 ---------------------------------------------------------
 タイトル：【なぜVSCodeはHTML初心者におすすめのエディタなのか】
 アドレス：https://b1tblog.com/2019/10/23/vscode-html/
+---------------------------------------------------------
+タイトル：【「Visual Studio Code」で“Markdown”テーブルを扱う際は必携「Text Tables」【レビュー】 - 窓の杜】
+アドレス：https://forest.watch.impress.co.jp/docs/review/1154742.html
+---------------------------------------------------------
+タイトル：【VSCodeのガントチャート拡張を作った - No Regrets in Bathing】
+アドレス：https://hashrock.hatenablog.com/entry/2019/12/25/023522
+---------------------------------------------------------
 
+
+■Chrome拡張機能
+---------------------------------------------------------
+タイトル：【DeepL Chrome Extension - Google ChromeからDeepLを使って簡単に翻訳 MOONGIFT】
+アドレス：https://www.moongift.jp/2020/06/deepl-chrome-extension-google-chrome%E3%81%8B%E3%82%89deepl%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%B0%A1%E5%8D%98%E3%81%AB%E7%BF%BB%E8%A8%B3/
+---------------------------------------------------------
+タイトル：【QuickTabSwitch - Google Chromeのタブを素早く切り替える MOONGIFT】
+アドレス：https://www.moongift.jp/2019/02/quicktabswitch-google-chrome%e3%81%ae%e3%82%bf%e3%83%96%e3%82%92%e7%b4%a0%e6%97%a9%e3%81%8f%e5%88%87%e3%82%8a%e6%9b%bf%e3%81%88%e3%82%8b/
+---------------------------------------------------------
+※Super Reloader
+※タブリローダー
+
+
+■ツール
+---------------------------------------------------------
+タイトル：【Q-Dir 8.71 Download - The Quad Explorer】
+アドレス：https://www.softwareok.com/?Download=Q-Dir
+---------------------------------------------------------
+
+
+■ブックマークレット
+---------------------------------------------------------
+タイトル：【いまさらまとめるブックマークレットの作り方 〜 2016年版 〜 - 無駄と文化】
+アドレス：https://blog.mudatobunka.org/entry/2016/02/29/030633
+---------------------------------------------------------
+タイトル：【K'confが選ぶ30個のブックマークレット - K'conf】
+アドレス：http://kenz0.s201.xrea.com/weblog/2007/12/post_95.html
+---------------------------------------------------------
