@@ -1,0 +1,231 @@
+// 既定値を上書きするには、このファイル内にキー バインドを挿入しますauto[]
+[
+	{
+		"key": "alt+c u",
+		"command": "editor.action.transformToUppercase",
+		"when": "editorHasSelection && editorTextFocus"
+	},
+	{
+		"key": "alt+c l",
+		"command": "editor.action.transformToLowercase",
+		"when": "editorHasSelection && editorTextFocus"
+	},
+	{
+		"key": "shift+alt+p",
+		"command": "copyFilePath",
+		"when": "editorFocus"
+	},
+	{
+		"key": "shift+alt+c",
+		"command": "-copyFilePath",
+		"when": "!editorFocus"
+	},
+	{
+		"key": "shift+alt+n",
+		"command": "copyRelativeFilePath",
+		"when": "editorFocus"
+	},
+	{
+		"key": "ctrl+k ctrl+shift+c",
+		"command": "-copyRelativeFilePath",
+		"when": "!editorFocus",
+	},
+	{
+		"key": "shift+alt+r",
+		"command": "revealFileInOS",
+		"when": "editorFocus"
+	},
+	{
+		"key": "shift+alt+r",
+		"command": "-revealFileInOS",
+		"when": "!editorFocus"
+	},
+	{
+		"key": "ctrl+alt+s",
+		"command": "shellLauncher.launch"
+	},
+	{
+		"key": "ctrl+k v",
+		"command": "-markdown.extension.togglePreviewToSide",
+		"when": "!terminalFocus"
+	},
+	{
+		"key": "ctrl+k ctrl+n",
+		"command": "vsnotes.focus"
+	},
+	{
+		"key": "ctrl+alt+c",
+		"command": "bookmarks.clear"
+	},
+	{
+		"key": "ctrl+alt+a ctrl+alt+c",
+		"command": "bookmarks.clearFromAllFiles"
+	},
+	{
+		"key": "ctrl+k ctrl+b",
+		"command": "bookmarksExplorer.focus"
+	},
+	{
+		"key": "ctrl+k ctrl+h",
+		"command": "vsnotes.refreshVSNotesView"
+	},
+	{
+		"key": "alt+oem_comma",
+		"command": "workbench.action.openSettings"
+	},
+	{
+		"key": "ctrl+oem_comma",
+		"command": "-workbench.action.openSettings"
+	},
+	{
+		"key": "alt+oem_period",
+		"command": "editor.action.quickFix",
+		"when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+oem_period",
+		"command": "-editor.action.quickFix",
+		"when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+oem_comma",
+		"command": "workbench.action.previousEditor"
+	},
+	{
+		"key": "ctrl+pageup",
+		"command": "-workbench.action.previousEditor"
+	},
+	{
+		"key": "ctrl+oem_period",
+		"command": "workbench.action.nextEditor"
+	},
+	{
+		"key": "ctrl+pagedown",
+		"command": "-workbench.action.nextEditor"
+	},
+	{
+		"key": "ctrl+shift+oem_comma",
+		"command": "workbench.action.moveEditorLeftInGroup",
+		"when": "editorIsOpen && editorTextFocus"
+	},
+	{
+		"key": "ctrl+shift+pageup",
+		"command": "-workbench.action.moveEditorLeftInGroup"
+	},
+	{
+		"key": "ctrl+shift+oem_period",
+		"command": "workbench.action.moveEditorRightInGroup",
+		"when": "editorIsOpen && editorTextFocus"
+	},
+	{
+		"key": "ctrl+shift+pagedown",
+		"command": "-workbench.action.moveEditorRightInGroup"
+	},
+	{
+		"key": "ctrl+w",
+		"command": "workbench.action.closeActiveEditor",
+		"when": "editorIsOpen && editorTextFocus"
+	},
+	{
+		"key": "ctrl+w",
+		"command": "-workbench.action.closeActiveEditor"
+	},
+	{
+		"key": "ctrl+w",
+		"command": "workbench.action.closeActiveEditor"
+	},
+	{
+		"key": "ctrl+f4",
+		"command": "-workbench.action.closeActiveEditor"
+	},
+	{
+		"key": "ctrl+alt+oem_comma",
+		"command": "workbench.action.moveEditorToPreviousGroup"
+	},
+	{
+		"key": "ctrl+alt+left",
+		"command": "-workbench.action.moveEditorToPreviousGroup"
+	},
+	{
+		"key": "ctrl+alt+oem_period",
+		"command": "workbench.action.moveEditorToNextGroup"
+	},
+	{
+		"key": "ctrl+alt+right",
+		"command": "-workbench.action.moveEditorToNextGroup"
+	},
+	{
+		"key": "ctrl+shift+oem_comma",
+		"command": "-editor.action.inPlaceReplace.up",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+k ctrl+oem_comma",
+		"command": "cursorLineStart"
+	},
+	{
+		"key": "ctrl+k ctrl+shift+oem_comma",
+		"command": "cursorHomeSelect"
+	},	{
+		"key": "ctrl+k ctrl+oem_period",
+		"command": "cursorLineEnd"
+	},
+	{
+		"key": "ctrl+k ctrl+shift+oem_period",
+		"command": "cursorEndSelect"
+	},
+	{
+		"key": "ctrl+alt+i",
+		"command": "editor.action.indentationToSpaces"
+	},
+	{
+		"key": "shift+enter",
+		"command": "extension.jumpy-word",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "Escape",
+		"command": "extension.jumpy-exit",
+		"when": "editorTextFocus && jumpy.isJumpyMode"
+	},
+	{
+		"key": "ctrl+w",
+		"command": "-workbench.action.closeWindow",
+		"when": "!editorIsOpen && !multipleEditorGroups"
+	},
+	{
+		"key": "ctrl+w",
+		"command": "-workbench.action.closeGroup",
+		"when": "activeEditorGroupEmpty && multipleEditorGroups"
+	},
+	{
+		"key": "ctrl+alt+b",
+		"command": "bookmarks.jumpToPrevious",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+alt+j",
+		"command": "-bookmarks.jumpToPrevious",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+alt+n",
+		"command": "bookmarks.jumpToNext",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+alt+l",
+		"command": "-bookmarks.jumpToNext",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+i",
+		"command": "search-in-current-file.searchInCurrentFile",
+		"when": "editorFocus && findInputFocussed"
+	},
+	{
+		"key": "ctrl+shift+i",
+		"command": "search-in-current-file.searchInCurrentFile",
+		"when": "editorFocus"
+	}
+]
