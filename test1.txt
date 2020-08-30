@@ -95,3 +95,13 @@ https://www.server-world.info/query?os=CentOS_7&p=install
 アドレス：http://kenz0.s201.xrea.com/weblog/2007/12/post_95.html
 ---------------------------------------------------------
 
+2020/08/30 add
+--------------------------------------------------------------
+fzf（fuzzy finder）の便利な使い方をREADME, Wikiを読んで学ぶ - もた日記
+https://wonderwall.hatenablog.com/entry/2017/10/06/063000
+
+--------------------------------------------------------------
+tmuxメモ : Tmux copycatとTmux Yankで検索、コピペを便利にする - もた日記
+https://wonderwall.hatenablog.com/entry/2016/06/29/230105
+
+
