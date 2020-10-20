@@ -104,4 +104,9 @@ https://wonderwall.hatenablog.com/entry/2017/10/06/063000
 tmuxメモ : Tmux copycatとTmux Yankで検索、コピペを便利にする - もた日記
 https://wonderwall.hatenablog.com/entry/2016/06/29/230105
 
-aaaa
+タイトル：【tonsky/FiraCode: Free monospaced font with programming ligatures】
+アドレス：https://github.com/tonsky/FiraCode
+
+タイトル：【VSCodeに筆記体を導入 - Qiita】
+アドレス：https://qiita.com/KMim/items/927007d1567f74e06cea
+
