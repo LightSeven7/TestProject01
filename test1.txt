@@ -110,3 +110,29 @@ https://wonderwall.hatenablog.com/entry/2016/06/29/230105
 タイトル：【VSCodeに筆記体を導入 - Qiita】
 アドレス：https://qiita.com/KMim/items/927007d1567f74e06cea
 
+
+Azure
+HttpTrigger1 - Microsoft Azure
+https://gti.page.link/KvdYgH6dDtXTcLgw7
+=============================================
+
+Azure Portal で初めての関数を作成する | Microsoft Docs
+https://gti.page.link/gKYcfpZJgXGqYHEx5
+=============================================
+
+Azure Functions チュートリアル - Google 検索
+https://gti.page.link/5QadB1mNc2RvJxE69
+=============================================
+
+azure app service チュートリアル - Google 検索
+https://gti.page.link/UugkGgQangkEFrT39
+=============================================
+
+Azure App Service のドキュメント - Azure App Service | Microsoft Docs
+https://gti.page.link/V77dt3mBYscrkbNK9
+=============================================
+
+クイック スタート:C# ASP.NET Core アプリを作成する - Azure App Service | Microsoft Docs
+https://gti.page.link/PkrZanzkmsTmHa2JA
+=============================================
+
