@@ -111,7 +111,7 @@ https://wonderwall.hatenablog.com/entry/2016/06/29/230105
 アドレス：https://qiita.com/KMim/items/927007d1567f74e06cea
 
 
-Azure
+■Azure
 HttpTrigger1 - Microsoft Azure
 https://gti.page.link/KvdYgH6dDtXTcLgw7
 =============================================
