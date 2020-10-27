@@ -143,3 +143,71 @@ Peacock Settigs
 
 test
 
+
+■2020/10/28
+const CreateTitle = () => {
+
+    const holidayDates = ['2020/8/10','2020/8/11','2020/9/21','2020/9/22','2020/11/3','2020/11/23'];
+    let dt = new Date();
+    let month, date, next = '';
+    let day;
+    let dateT = ['日','月','火','水','木','金','土'];
+    let businessDay = 3;
+
+    let workHoliday = '';
+
+    // ※「Day」は曜日が入っている
+    dt.setDate(dt.getDate() + 1);
+
+    // ※「businessDay」→ 営業日(現在は１NextCは基本３営業日)
+    for (let i = 0; i < businessDay; i++) {
+
+        day = dateT[dt.getDay()];
+
+        // ３営業日後が休日であれば、日付を＋１
+        if (day === '土') dt.setDate(dt.getDate() + 1);
+
+        if (day === '日') dt.setDate(dt.getDate() + 1);
+
+        for (let holiday of holidayDates) {
+            workHoliday += holiday + ',';
+
+            // if (holiday == ConvDateToStr(dt)) {
+            //     dt.setDate(dt.getDate() + 1);
+            // }
+        }
+
+        dt.setDate(dt.getDate() + 1);
+    }
+
+    // workHoliday += ConvDateToStr(dt);
+
+    // ３営業日後の日付を取得
+    month = dt.getMonth() + 1;
+    date = dt.getDate();
+    day = dateT[dt.getDay()];
+    next = countNum(month) + countNum(date);
+
+    var li_first;
+    li_first = $('.widget-antennaList-title:first').text();
+
+    return 'Next ' + next + '(' + day + ')' + '\n' + li_first + '\n' + workHoliday;
+};
+
+// 日付から文字列に変換する関数
+const ConvDateToStr = (varDate) => {
+
+    var year_str = varDate.getFullYear();
+    //月だけ+1すること
+    var month_str = varDate.getMonth() + 1;
+    var day_str = varDate.getDate();
+    format_str = 'YYYY/MM/DD';
+
+    format_str = format_str.replace(/YYYY/g, year_str);
+    format_str = format_str.replace(/MM/g, month_str);
+    format_str = format_str.replace(/DD/g, day_str);
+
+    return format_str;
+
+};
+
