@@ -136,3 +136,29 @@ https://gti.page.link/V77dt3mBYscrkbNK9
 https://gti.page.link/PkrZanzkmsTmHa2JA
 =============================================
 
+
+New URL
+Azure Portal で初めての関数を作成する | Microsoft Docs
+https://gti.page.link/WDX1oXSa4p3ZDJCN8
+=============================================
+
+Azure App Service のドキュメント - Azure App Service | Microsoft Docs
+https://gti.page.link/o11xrifVeU4WcxMLA
+=============================================
+
+クイック スタート:C# ASP.NET Core アプリを作成する - Azure App Service | Microsoft Docs
+https://gti.page.link/79x8mjWZh8C3afcTA
+=============================================
+
+クイック スタート:Node.js Web アプリを作成する - Azure App Service | Microsoft Docs
+https://gti.page.link/cfsQzhfTkKbpxs476
+=============================================
+
+Build Node.js Apps with Visual Studio Code
+https://gti.page.link/YVYNYdkVXF2c54a17
+=============================================
+
+Visual Studio Code を使用して Azure で初めての関数を作成する | Microsoft Docs
+https://gti.page.link/66y7m97GRVbsaGKs6
+=============================================
+
