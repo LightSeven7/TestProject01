@@ -162,3 +162,7 @@ Visual Studio Code を使用して Azure で初めての関数を作成する | 
 https://gti.page.link/66y7m97GRVbsaGKs6
 =============================================
 
+
+タイトル：【Azure Private Link を使用した Azure Cache for Redis (プレビュー) | Microsoft Docs】
+アドレス：https://docs.microsoft.com/ja-jp/azure/azure-cache-for-redis/cache-private-link
+
