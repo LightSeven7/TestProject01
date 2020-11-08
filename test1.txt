@@ -236,3 +236,5 @@ Azure Private Link を使用した Azure Cache for Redis (プレビュー) | Mic
 https://gti.page.link/HWJcgcHtnfrJ3b6E9
 =============================================
 
+aaa
+
