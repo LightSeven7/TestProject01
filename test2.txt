@@ -1,10 +1,10 @@
 Gitの要調査内容
 
-１．追跡ブランチとは
-２．リモート・ローカルの違い
+    １．追跡ブランチとは
+        ２．リモート・ローカルの違い
 
 bbbbbb
-dddddd
+            dddddd
 
 uuuuuu
 eeeeee
@@ -13,7 +13,7 @@ eeeeee
 あああ
 いいい
 
-aaaaaaa
+        aaaaaaa
 
 iioiiii
 
