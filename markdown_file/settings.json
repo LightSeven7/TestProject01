@@ -415,5 +415,12 @@
     "dateTime.monthsBefore": 1,
     "dateTime.monthsAfter": 8,
     "dateTime.customFormat": "MM/DD HH:mm:ss dddd",
-    "editor.snippetSuggestions": "top"
+    "editor.snippetSuggestions": "top",
+    "python.languageServer": "Microsoft",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ]
 }
