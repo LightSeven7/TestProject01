@@ -1,0 +1,439 @@
+{
+    "editor.fontFamily": "\"Source Han Code JP\", 游ゴシック, Inconsolata",
+    "editor.fontSize": 12,
+    "editor.letterSpacing": -0.5,
+    "editor.lineHeight": 14,
+    "editor.cursorWidth": 3,
+    "editor.quickSuggestionsDelay": 5,
+    "editor.mouseWheelZoom": true,
+    "editor.renderControlCharacters": true,
+    "editor.minimap.enabled":false,
+    "editor.autoClosingBrackets":"never",
+    "editor.linkedEditing": true,
+
+    // "editor.insertSpaces": true,
+    // #タブを入力した際、タブをそのまま入力するようにします。
+    "[html]": {
+        "editor.insertSpaces": false
+    },
+
+    // #半角空白を全て表示します。
+    // "all" : 表示
+    // "none" : 非表示
+    // "boundary" : 単語間の単一スペースのみ非表示、以外はすべて表示
+    "editor.renderWhitespace": "all",
+
+    // #現在のカーソル行の表示を行番号表示のみへ変更します。
+    // 'none' : 表示しない
+    // 'gutter' : 行番号エリアのみ表示
+    // 'line' : エディタ内のカーソール行のみ表示
+    // 'all' : 全てカーソール行で強調表示
+    "editor.renderLineHighlight": "gutter",
+
+    "editor.roundedSelection": false,
+    "editor.autoIndent": "full",
+    "editor.find.autoFindInSelection": "multiline",
+    "editor.occurrencesHighlight": false,
+    "editor.suggestSelection": "first",
+    "editor.wordBasedSuggestions": false,
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?、。「」（）；：・？＜＞＋－＊／｛｝｜～＆％＄＃”！’　にをはがのとも",
+    "explorer.openEditors.visible": 50,
+    "explorer.autoReveal": false,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "breadcrumbs.enabled": true,
+    "window.zoomLevel": 1,
+    "window.titleBarStyle": "native",
+//    "window.titleBarStyle": "custom",
+
+    "workbench.list.openMode": "doubleClick",
+    "workbench.editor.closeEmptyGroups": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Night Owl Black",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+
+    "workbench.colorCustomizations": {
+
+        // #カーソルの色
+        "editorCursor.foreground": "#00ffc8",
+
+        // #カーソル行の設定
+        "editor.lineHighlightBorder": "#00ffc8d7",
+        "editor.lineHighlightBackground": "#00c3ff3a",
+        // "editor.lineHighlightBackground": "#c1d12e46",
+
+        // #空白の色
+        "editorWhitespace.foreground": "#00ffffd8",
+
+        // #選択状態の範囲内設定
+        "editor.selectionHighlightBorder": "#cbdf17",
+        "editor.selectionHighlightBackground": "#114a6b",
+        "editor.selectionBackground": "#00ffff54",
+        // "editor.selectionBackground": "#0051ff",
+        // "editor.selectionBackground": "#0b48f1ad",
+
+        // #検索結果設定
+        "editor.findMatchBorder": "#f50b1e",
+        "editor.findMatchBackground": "#0463a1e1",
+        "editor.findMatchHighlightBackground": "#02d5fa7a",
+        "editor.findMatchHighlightBorder": "#35fa04",
+
+        // #エディタ外観設定
+        "editorGroup.border": "#ff0000",
+        "editorGroupHeader.tabsBackground": "#1f2946",
+        "editorIndentGuide.background": "#00d9ff",
+        "editorLineNumber.foreground": "#1990fffd",
+        "editorLineNumber.activeForeground": "#19f7ff",
+
+        // #スクロールバー設定
+        "scrollbarSlider.background": "#19f7ff69",
+        "scrollbarSlider.hoverBackground": "#19f7ffb9",
+
+        // #タブ外観設定
+        "tab.border": "#ffffff",
+        "tab.activeBorder": "#fffb19",
+        "tab.activeForeground": "#fffb19",
+        //"tab.activeBackground": "#0767d4",
+        "tab.inactiveForeground": "#ffffff",
+        //"tab.inactiveBackground": "#03256e",
+
+        // #ステータスバー外観設定
+        "statusBar.border": "#00ff88",
+        "statusBar.debuggingBackground": "#ff0000",
+
+        // #Diff設定
+        "diffEditor.insertedTextBackground": "#04f59933",
+        "diffEditor.insertedTextBorder": "#00ffc8",
+        "diffEditor.removedTextBackground": "#ff005549",
+        "diffEditor.removedTextBorder": "#ff0055d8",
+
+        "window.activeBorder": "#04ff64",
+        "window.inactiveBorder": "#0f9281"
+    },
+
+    "editor.tokenColorCustomizations": {
+        // #コメント行設定
+        "comments": "#00d41c",
+    },
+    // #［エクスプローラー］ビューに表示しないフォルダとファイルを指定
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    // #ファイル監視から除外するファイル
+    "files.watcherExclude": {
+        //"**/img/**": true,
+    },
+    // #検索でファイルとフォルダーを除外するために glob パターンを構成
+    // #files.exclude 設定からすべての glob パターンを継承
+    "search.exclude": {
+    },
+
+    // #検索設定
+    "search.useIgnoreFiles": false,
+    "search.useGlobalIgnoreFiles": false,
+    "search.useReplacePreview": true,
+
+    // #ターミナル設定
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.lineHeight": 1,
+    "terminal.integrated.fontWeightBold": "normal",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.scrollback": 30000,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    //"terminal.integrated.shellArgs.windows": ["/bin/xhere", "/bin/bash"],
+
+    // #Emmet設定
+    "emmet.triggerExpansionOnTab": true,
+    "vsicons.dontShowNewVersionMessage": true,
+
+    // #LiveServer設定(拡張機能)
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.donotShowInfoMsg": true,
+
+    // #C/C++設定(拡張機能)
+    "C_Cpp.updateChannel": "Insiders",
+
+    // #シェルランチャー設定(拡張機能)
+    "shellLauncher.shells.windows": [
+        {
+            "shell": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "label": "Git bash"
+        },
+        {
+            "shell": "D:\\cygwin64\\bin\\bash.exe",
+            "args": ["/bin/xhere", "/bin/bash"],
+            "label": "Mintty"
+        },
+        {
+            "shell": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "label": "PowerShell"
+        },
+        {
+            //"shell": "powershell start-process C:\\Windows\\System32\\cmd.exe -verb runas",
+            "shell": "C:\\Windows\\System32\\cmd.exe",
+            "label": "cmd"
+        },
+    ],
+
+    // #Better Comments Tags設定(拡張機能)
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "#",
+            "color": "#00D9FF",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        }
+    ],
+
+    // #Peacock設定(拡張機能)
+    "peacock.favoriteColors": [
+        {
+            "name": "Angular Red",
+            "value": "#b52e31"
+        },
+        {
+            "name": "Auth0 Orange",
+            "value": "#eb5424"
+        },
+        {
+            "name": "Azure Blue",
+            "value": "#021c64"
+            //"value": "#007fff" #default_color
+        },
+        {
+            "name": "C# Purple",
+            "value": "#68217A"
+        },
+        {
+            "name": "Gatsby Purple",
+            "value": "#639"
+        },
+        {
+            "name": "Go Cyan",
+            "value": "#5dc9e2"
+        },
+        {
+            "name": "Java Blue-Gray",
+            "value": "#557c9b"
+        },
+        {
+            "name": "JavaScript Yellow",
+            "value": "#f9e64f"
+        },
+        {
+            "name": "Mandalorian Blue",
+            "value": "#1857a4"
+        },
+        {
+            "name": "Node Green",
+            "value": "#215732"
+        },
+        {
+            "name": "React Blue",
+            "value": "#00b3e6"
+        },
+        {
+            "name": "Something Different",
+            "value": "#832561"
+        },
+        {
+            "name": "Vue Green",
+            "value": "#42b883"
+        },
+        {
+            "name": "Vue_Test",
+            "value": "#0072e6"
+        },
+        {
+            "name": "Night Owl Black",
+            "value": "#1f2946"
+        },
+        {
+            "name": "Local",
+            "value": "#021c64"
+            // "value": "#01042583"
+        },
+        {
+            "name": "Local2",
+            "value": "#7EE5EA"
+            // "value": "#87F5C1"
+            // "value": "#2C47E8"
+        }
+    ],
+
+    // #VSNotes設定(拡張機能)
+    "vsnotes.defaultNotePath": "d:\\Local_Development\\VSNotes",
+    "vsnotes.defaultNoteTitle": "{title}_{day}.{ext}",
+    "vsnotes.tokens": [
+        {
+            "type": "datetime",
+            "token": "{dt}",
+            "format": "YYYY-MM-DD_HH-mm",
+            "description": "Insert formatted datetime."
+        },
+        {
+            "type": "title",
+            "token": "{title}",
+            "description": "Insert note title from input box.",
+            "format": "Untitled"
+        },
+        {
+            "type": "extension",
+            "token": "{ext}",
+            "description": "Insert file vsnotes.",
+            "format": "md"
+        },
+        {
+            "type": "datetime",
+            "token": "{day}",
+            "format": "YYYY_MM_DD",
+            "description": "Insert formatted datetime."
+        },
+    ],
+
+    // #Prettier設定(拡張機能)
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    // #Markdown All in One の設定(拡張機能)
+    "markdown-preview-enhanced.enableExtendedTableSyntax": true,
+    "markdown-preview-enhanced.enableScriptExecution": true,
+    "markdown-preview-enhanced.singlePreview": false,
+    "markdown-preview-enhanced.previewTheme": "github-light.css",
+    "markdown.preview.breaks": true,
+    "markdown.extension.orderedList.marker": "one",
+    "markdown.extension.orderedList.autoRenumber": false,
+    "markdown.extension.syntax.decorations": false,
+    "markdown.extension.tableFormatter.enabled": false,
+
+    // #Shortcuts の設定(拡張機能)
+    "shortcuts.buttons": [
+        // "file-binary , workbench.action.tasks.build , Run build task",
+        // "beaker , workbench.action.tasks.test , Run test task",
+        "telescope , workbench.action.showCommands , Command Palette",
+        "terminal , workbench.action.terminal.toggleTerminal , Terminal",
+        "bug, workbench.action.debug.start, Debug",
+        "bookmark, bookmarks.toggle, Toggle Bookmark",
+        "arrow-left, bookmarks.jumpToPrevious, Bookmark Jump To Previous",
+        "arrow-right, bookmarks.jumpToNext, Bookmark Jump To Next",
+        "file, workbench.action.files.save, Save",
+    ],
+
+    // #HighLight の設定(拡張機能)
+    "highlight.decorations": {
+        "rangeBehavior": 3
+    },
+    "highlight.regexFlags": "gi",
+    "highlight.regexes": {
+        "(https?|ftp)(:\/\/[-_.!~*\\'()a-zA-Z0-9;\/?:\\@&=+\\$,%#]+)": [
+            {
+                "color": "#2cc3ff"
+            },
+            {
+                "color": "#2cc3ff"
+            }
+        ],
+        // "(h2■\\S+)": [
+        //     {
+        //     "color": "#d9ad00"
+        //     }
+        // ],
+        // "(仕様|至|。。|、、)": [
+        //     {
+        //         "color": "red",
+        //         // "backgroundColor": "#fffb0065",
+        //     }
+        // ],
+        "(といった|という|など|基本的に|なんて|のような)": [
+            {
+                "color": "yellow",
+                // "backgroundColor": "#fffb0065",
+            },
+        ],
+        // "([-~｡-ﾟa-zA-Z0-9;:,.+*^=@!\"'_/|?#$%&])": [
+        //     {
+        //         "backgroundColor": "#c1d12e46"
+        //     }
+        // ],
+        // "(\\s)": [
+        //     {
+        //         "backgroundColor": "#c1d12e46"
+        //     }
+        // ],
+
+        // "([^ -~｡-ﾟ][^\\s]+[-~｡-ﾟ][^ -~｡-ﾟ]*?)": [
+        // "([^ -~｡-ﾟ]+[^ \\s]+[-~｡-ﾟa-z0-9][^ \\s]+)": [
+        //     {
+        //         "backgroundColor": "#c1d12e46"
+        //     }
+        // ],
+        // "([-~｡-ﾟa-z0-9][^\\s]+[^ -~｡-ﾟ])": [
+        //     {
+        //         "backgroundColor": "#c1d12e46"
+        //     }
+        // ]
+    },
+    "highlight.maxMatches": 5000,
+    "dateTime.padDays": true,
+    "dateTime.showMonth": true,
+    "dateTime.showDayOfMonth": true,
+    "dateTime.showDayOfWeek": true,
+    "dateTime.showSeconds": true,
+    "dateTime.monthsBefore": 1,
+    "dateTime.monthsAfter": 8,
+    "dateTime.customFormat": "MM/DD HH:mm:ss dddd",
+    "editor.snippetSuggestions": "inline",
+    "python.languageServer": "Default",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.ignoreLegacyWarning": true,
+    "gitlens.advanced.messages": {
+        "suppressGitVersionWarning": true
+    },
+    "remote.SSH.remotePlatform": {
+        "192.168.52.129": "linux"
+    },
+    "remote.SSH.path": "Development/Sources",
+    "hediet.vscode-drawio.codeLinkActivated": false
+}
