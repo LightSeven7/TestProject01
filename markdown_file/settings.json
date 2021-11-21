@@ -1,12 +1,15 @@
 {
-    "editor.fontSize": 12,
     "editor.fontFamily": "\"Source Han Code JP\", 游ゴシック, Inconsolata",
+    "editor.fontSize": 12,
+    "editor.letterSpacing": -0.5,
+    "editor.lineHeight": 14,
     "editor.cursorWidth": 3,
     "editor.quickSuggestionsDelay": 5,
-    "editor.suggest.maxVisibleSuggestions": 15,
     "editor.mouseWheelZoom": true,
     "editor.renderControlCharacters": true,
     "editor.minimap.enabled":false,
+    "editor.autoClosingBrackets":"never",
+    "editor.linkedEditing": true,
 
     // "editor.insertSpaces": true,
     // #タブを入力した際、タブをそのまま入力するようにします。
@@ -30,17 +33,18 @@
     "editor.roundedSelection": false,
     "editor.autoIndent": "full",
     "editor.find.autoFindInSelection": "multiline",
-    "editor.renderIndentGuides": true,
     "editor.occurrencesHighlight": false,
     "editor.suggestSelection": "first",
     "editor.wordBasedSuggestions": false,
     "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?、。「」（）；：・？＜＞＋－＊／｛｝｜～＆％＄＃”！’　にをはがのとも",
     "explorer.openEditors.visible": 50,
     "explorer.autoReveal": false,
-    "window.zoomLevel": 0,
-    "window.titleBarStyle": "custom",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "breadcrumbs.enabled": true,
+    "window.zoomLevel": 1,
+    "window.titleBarStyle": "native",
+//    "window.titleBarStyle": "custom",
+
     "workbench.list.openMode": "doubleClick",
     "workbench.editor.closeEmptyGroups": true,
     "workbench.iconTheme": "vscode-icons",
@@ -48,6 +52,7 @@
     "workbench.startupEditor": "newUntitledFile",
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
+
     "workbench.colorCustomizations": {
 
         // #カーソルの色
@@ -94,7 +99,7 @@
         //"tab.inactiveBackground": "#03256e",
 
         // #ステータスバー外観設定
-        "statusBar.border": "#00d9ff",
+        "statusBar.border": "#00ff88",
         "statusBar.debuggingBackground": "#ff0000",
 
         // #Diff設定
@@ -102,7 +107,11 @@
         "diffEditor.insertedTextBorder": "#00ffc8",
         "diffEditor.removedTextBackground": "#ff005549",
         "diffEditor.removedTextBorder": "#ff0055d8",
+
+        "window.activeBorder": "#04ff64",
+        "window.inactiveBorder": "#0f9281"
     },
+
     "editor.tokenColorCustomizations": {
         // #コメント行設定
         "comments": "#00d41c",
@@ -280,6 +289,12 @@
             "name": "Local",
             "value": "#021c64"
             // "value": "#01042583"
+        },
+        {
+            "name": "Local2",
+            "value": "#7EE5EA"
+            // "value": "#87F5C1"
+            // "value": "#2C47E8"
         }
     ],
 
@@ -362,12 +377,12 @@
         //     "color": "#d9ad00"
         //     }
         // ],
-        "(仕様|至|。。|、、)": [
-            {
-                "color": "red",
-                // "backgroundColor": "#fffb0065",
-            }
-        ],
+        // "(仕様|至|。。|、、)": [
+        //     {
+        //         "color": "red",
+        //         // "backgroundColor": "#fffb0065",
+        //     }
+        // ],
         "(といった|という|など|基本的に|なんて|のような)": [
             {
                 "color": "yellow",
@@ -398,15 +413,6 @@
         // ]
     },
     "highlight.maxMatches": 5000,
-
-    "todo-tree.tree.showScanModeButton": false,
-    "azure.tenant": "604c1504-c6a3-4080-81aa-b33091104187",
-    "japanese-proofreading.textlint.ハイフン(-)": false,
-    "japanese-proofreading.textlint.ダッシュ(-)": false,
-    "japanese-proofreading.textlint.かっこ類と隣接する文字の間のスペースの有無": false,
-    "japanese-proofreading.textlint.算用数字": false,
-    "japanese-proofreading.textlint.全角文字と半角文字の間": false,
-    "clock.dateFormat": "yyyy/mm/dd  HH:MM:ss  dddd",
     "dateTime.padDays": true,
     "dateTime.showMonth": true,
     "dateTime.showDayOfMonth": true,
@@ -415,12 +421,19 @@
     "dateTime.monthsBefore": 1,
     "dateTime.monthsAfter": 8,
     "dateTime.customFormat": "MM/DD HH:mm:ss dddd",
-    "editor.snippetSuggestions": "top",
-    "python.languageServer": "Microsoft",
-    "workbench.editorAssociations": [
-        {
-            "viewType": "jupyter.notebook.ipynb",
-            "filenamePattern": "*.ipynb"
-        }
-    ]
+    "editor.snippetSuggestions": "inline",
+    "python.languageServer": "Default",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.ignoreLegacyWarning": true,
+    "gitlens.advanced.messages": {
+        "suppressGitVersionWarning": true
+    },
+    "remote.SSH.remotePlatform": {
+        "192.168.52.129": "linux"
+    },
+    "remote.SSH.path": "Development/Sources",
+    "hediet.vscode-drawio.codeLinkActivated": false
 }
