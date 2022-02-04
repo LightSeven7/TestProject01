@@ -236,5 +236,16 @@ Azure Private Link を使用した Azure Cache for Redis (プレビュー) | Mic
 https://gti.page.link/HWJcgcHtnfrJ3b6E9
 =============================================
 
-aaa
-bbb
+
+【2022/02/04】
+fzf（fuzzy finder）の便利な使い方をREADME, Wikiを読んで学ぶ - もた日記
+https://wonderwall.hatenablog.com/entry/2017/10/06/063000
+------------------------------------
+
+ChromeでVimのようなキー操作をする「Vimium」アドオン - もた日記
+https://wonderwall.hatenablog.com/entry/2016/04/03/235007
+------------------------------------
+
+Vimメモ : Neovimで開発環境を段階的に構築する（1）インストールとcheckhealth - もた日記
+https://wonderwall.hatenablog.com/entry/2019/07/28/230000
+------------------------------------
