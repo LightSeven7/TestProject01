@@ -249,3 +249,11 @@ https://wonderwall.hatenablog.com/entry/2016/04/03/235007
 Vimメモ : Neovimで開発環境を段階的に構築する（1）インストールとcheckhealth - もた日記
 https://wonderwall.hatenablog.com/entry/2019/07/28/230000
 ------------------------------------
+
+【キラーアプリ】VSCodeの新たなVim拡張はNeoVimがおすすめ！ │ wonwon eater
+https://wonwon-eater.com/vscode-nvim/#outline__2
+------------------------------------
+
+VSCodeの新たなVim拡張 Neo Vim(VSCode)を試してみた | 株式会社エムケイシステム TECH BLOG
+https://blog.mksc.jp/contents/vscode-neovim/
+------------------------------------
