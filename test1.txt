@@ -237,11 +237,8 @@ https://gti.page.link/HWJcgcHtnfrJ3b6E9
 =============================================
 
 
-【2022/02/04】
-fzf（fuzzy finder）の便利な使い方をREADME, Wikiを読んで学ぶ - もた日記
-https://wonderwall.hatenablog.com/entry/2017/10/06/063000
-------------------------------------
 
+■【2022/02/04】
 ChromeでVimのようなキー操作をする「Vimium」アドオン - もた日記
 https://wonderwall.hatenablog.com/entry/2016/04/03/235007
 ------------------------------------
@@ -272,4 +269,38 @@ https://ascii.jp/elem/000/004/036/4036471/#eid3129188
 
 超融合!時空を越えた絆 Neo Vim(VSCode)を試してみた
 https://zenn.dev/yutakatay/articles/vscode-neovim
+------------------------------------
+
+
+■【2022/02/09】
+fzf - Google 検索
+https://www.google.com/search?q=fzf
+------------------------------------
+
+fzf（fuzzy finder）の便利な使い方をREADME, Wikiを読んで学ぶ - もた日記
+https://wonderwall.hatenablog.com/entry/2017/10/06/063000
+------------------------------------
+
+fzfを活用してTerminalの作業効率を高める - Qiita
+https://qiita.com/kamykn/items/aa9920f07487559c0c7e
+------------------------------------
+
+fzfを使おう - Qiita
+https://qiita.com/kompiro/items/a09c0b44e7c741724c80
+------------------------------------
+
+fzfを用いてssh先を簡単指定
+https://zenn.dev/antyuntyun/articles/ssh-fzf-function
+------------------------------------
+
+windows fzf - Google 検索
+https://www.google.com/search?q=windows+fzf&sxsrf=APq-WBsUMLX6ozJ-7CkXHFVRO68OGJuU8A%3A1644378866491&ei=8joDYr-tHeuN2roPg7ukgAQ&ved=0ahUKEwi_7tnR3PH1AhXrhlYBHYMdCUAQ4dUDCA4&uact=5&oq=windows+fzf&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgQIABAeMgQIABAeMgQIABAeMgQIABAeMgQIABAeMggIABAIEAoQHjIGCAAQCBAeOgQIIxAnOg0IABCABBCxAxCDARAEOgoIABCABBCxAxAEOgcIABCABBAESgQIQRgASgQIRhgAUABYsgZg8QloAHABeACAAY0BiAHMA5IBAzAuNJgBAKABAcABAQ&sclient=gws-wiz
+------------------------------------
+
+【Windows】コマンド操作で超効率【fzf/ff】 - unrealMan’s blog
+https://unrealman.hatenablog.com/entry/fzf-ff
+------------------------------------
+
+Vim/プラグイン/fzf/インストール - Windows - yanor.net/wiki
+https://yanor.net/wiki/?Vim/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/fzf/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB+-+Windows
 ------------------------------------
