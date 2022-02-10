@@ -243,6 +243,9 @@ ChromeでVimのようなキー操作をする「Vimium」アドオン - もた�
 https://wonderwall.hatenablog.com/entry/2016/04/03/235007
 ------------------------------------
 
+■公式Neo Vim
+Releases · neovim/neovim https://github.com/neovim/neovim/releases
+
 Vimメモ : Neovimで開発環境を段階的に構築する（1）インストールとcheckhealth - もた日記
 https://wonderwall.hatenablog.com/entry/2019/07/28/230000
 ------------------------------------
