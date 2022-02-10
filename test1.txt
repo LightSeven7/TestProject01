@@ -304,3 +304,11 @@ https://unrealman.hatenablog.com/entry/fzf-ff
 Vim/プラグイン/fzf/インストール - Windows - yanor.net/wiki
 https://yanor.net/wiki/?Vim/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/fzf/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB+-+Windows
 ------------------------------------
+
+iTerm2+NeoVimに定住するためにやったこと - かみのメモ
+https://kamino.hatenablog.com/entry/iterm2_neovim
+------------------------------------
+
+NeoVimユーザーがvscodeにも定住するためにやったこと - かみのメモ
+https://kamino.hatenablog.com/entry/vscode_alike_neovim
+------------------------------------
