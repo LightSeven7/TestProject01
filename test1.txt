@@ -312,3 +312,21 @@ https://kamino.hatenablog.com/entry/iterm2_neovim
 NeoVimユーザーがvscodeにも定住するためにやったこと - かみのメモ
 https://kamino.hatenablog.com/entry/vscode_alike_neovim
 ------------------------------------
+
+
+■2022/02/16
+Generate a CSS Color Gradient - Maker, and Background
+https://hexcolor.co/generate-color-gradient
+------------------------------------
+
+VS Codeの拡張機能でPythonの仮想環境構築からコード整形、Lintまでを体験してみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） - ＠IT
+https://atmarkit.itmedia.co.jp/ait/articles/2106/25/news028.html
+------------------------------------
+
+【2022年最新版】【プラグイン】VSCodeをPython超特化型にする、最高の拡張機能20選まとめ。 【VisualStudio Code】【プラグイン】 | ゆるプロ日記
+https://yurupro.cloud/767/#toc10
+------------------------------------
+
+Visual Studio Codeのインストール: Visual Studio Code でPython入門 【Windows編】 - python.jp
+https://www.python.jp/python_vscode/windows/setup/install_vscode.html#Python%E9%96%A2%E9%80%A3%E3%81%AE%E8%A8%AD%E5%AE%9A
+------------------------------------
