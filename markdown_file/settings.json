@@ -1,9 +1,9 @@
 {
     "editor.fontFamily": "\"Source Han Code JP\", 游ゴシック, Inconsolata",
-    "editor.fontSize": 12,
-    "editor.letterSpacing": -0.5,
+    "editor.fontSize": 13,
+    "editor.letterSpacing": -0.9,
     "editor.lineHeight": 14,
-    "editor.cursorWidth": 3,
+    "editor.cursorWidth": 4,
     "editor.quickSuggestionsDelay": 5,
     "editor.mouseWheelZoom": true,
     "editor.renderControlCharacters": true,
@@ -15,6 +15,14 @@
     // #タブを入力した際、タブをそのまま入力するようにします。
     "[html]": {
         "editor.insertSpaces": false
+    },
+    "[js]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true
+    },
+    "[txt]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
     },
 
     // #半角空白を全て表示します。
@@ -41,14 +49,12 @@
     "explorer.autoReveal": false,
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "breadcrumbs.enabled": true,
-    "window.zoomLevel": 1,
     "window.titleBarStyle": "native",
-//    "window.titleBarStyle": "custom",
 
     "workbench.list.openMode": "doubleClick",
     "workbench.editor.closeEmptyGroups": true,
     "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Night Owl Black",
+    "workbench.colorTheme": "Night Owlet (No Italics)",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
@@ -116,6 +122,7 @@
         // #コメント行設定
         "comments": "#00d41c",
     },
+
     // #［エクスプローラー］ビューに表示しないフォルダとファイルを指定
     "files.exclude": {
         "**/.git": true,
@@ -139,48 +146,19 @@
     "search.useReplacePreview": true,
 
     // #ターミナル設定
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+
     "terminal.integrated.copyOnSelection": true,
-    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontSize": 11,
     "terminal.integrated.lineHeight": 1,
     "terminal.integrated.fontWeightBold": "normal",
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.scrollback": 30000,
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-    //"terminal.integrated.shellArgs.windows": ["/bin/xhere", "/bin/bash"],
 
     // #Emmet設定
     "emmet.triggerExpansionOnTab": true,
     "vsicons.dontShowNewVersionMessage": true,
-
-    // #LiveServer設定(拡張機能)
-    "liveServer.settings.CustomBrowser": "chrome",
-    "liveServer.settings.donotShowInfoMsg": true,
-
-    // #C/C++設定(拡張機能)
-    "C_Cpp.updateChannel": "Insiders",
-
-    // #シェルランチャー設定(拡張機能)
-    "shellLauncher.shells.windows": [
-        {
-            "shell": "C:\\Program Files\\Git\\bin\\bash.exe",
-            "label": "Git bash"
-        },
-        {
-            "shell": "D:\\cygwin64\\bin\\bash.exe",
-            "args": ["/bin/xhere", "/bin/bash"],
-            "label": "Mintty"
-        },
-        {
-            "shell": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-            "label": "PowerShell"
-        },
-        {
-            //"shell": "powershell start-process C:\\Windows\\System32\\cmd.exe -verb runas",
-            "shell": "C:\\Windows\\System32\\cmd.exe",
-            "label": "cmd"
-        },
-    ],
 
     // #Better Comments Tags設定(拡張機能)
     "better-comments.tags": [
@@ -286,46 +264,26 @@
             "value": "#1f2946"
         },
         {
-            "name": "Local",
+            "name": "Local1",
             "value": "#021c64"
-            // "value": "#01042583"
         },
         {
             "name": "Local2",
-            "value": "#7EE5EA"
             // "value": "#87F5C1"
-            // "value": "#2C47E8"
+            "value": "#2C47E8"
+        },
+        {
+            "name": "Local3",
+            "value": "#40E49A"
+        },
+        {
+            "name": "Local4",
+            "value": "#3099EA"
+        },
+        {
+            "name": "Local5",
+            "value": "#7EE5EA"
         }
-    ],
-
-    // #VSNotes設定(拡張機能)
-    "vsnotes.defaultNotePath": "d:\\Local_Development\\VSNotes",
-    "vsnotes.defaultNoteTitle": "{title}_{day}.{ext}",
-    "vsnotes.tokens": [
-        {
-            "type": "datetime",
-            "token": "{dt}",
-            "format": "YYYY-MM-DD_HH-mm",
-            "description": "Insert formatted datetime."
-        },
-        {
-            "type": "title",
-            "token": "{title}",
-            "description": "Insert note title from input box.",
-            "format": "Untitled"
-        },
-        {
-            "type": "extension",
-            "token": "{ext}",
-            "description": "Insert file vsnotes.",
-            "format": "md"
-        },
-        {
-            "type": "datetime",
-            "token": "{day}",
-            "format": "YYYY_MM_DD",
-            "description": "Insert formatted datetime."
-        },
     ],
 
     // #Prettier設定(拡張機能)
@@ -333,17 +291,6 @@
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-
-    // #Markdown All in One の設定(拡張機能)
-    "markdown-preview-enhanced.enableExtendedTableSyntax": true,
-    "markdown-preview-enhanced.enableScriptExecution": true,
-    "markdown-preview-enhanced.singlePreview": false,
-    "markdown-preview-enhanced.previewTheme": "github-light.css",
-    "markdown.preview.breaks": true,
-    "markdown.extension.orderedList.marker": "one",
-    "markdown.extension.orderedList.autoRenumber": false,
-    "markdown.extension.syntax.decorations": false,
-    "markdown.extension.tableFormatter.enabled": false,
 
     // #Shortcuts の設定(拡張機能)
     "shortcuts.buttons": [
@@ -380,15 +327,15 @@
         // "(仕様|至|。。|、、)": [
         //     {
         //         "color": "red",
-        //         // "backgroundColor": "#fffb0065",
+        //         "backgroundColor": "#fffb0065",
         //     }
         // ],
-        "(といった|という|など|基本的に|なんて|のような)": [
-            {
-                "color": "yellow",
-                // "backgroundColor": "#fffb0065",
-            },
-        ],
+        // "(といった|という|など|基本的に|なんて|のような)": [
+        //     {
+        //         "color": "yellow",
+        //         "backgroundColor": "#fffb0065",
+        //     },
+        // ],
         // "([-~｡-ﾟa-zA-Z0-9;:,.+*^=@!\"'_/|?#$%&])": [
         //     {
         //         "backgroundColor": "#c1d12e46"
@@ -399,7 +346,6 @@
         //         "backgroundColor": "#c1d12e46"
         //     }
         // ],
-
         // "([^ -~｡-ﾟ][^\\s]+[-~｡-ﾟ][^ -~｡-ﾟ]*?)": [
         // "([^ -~｡-ﾟ]+[^ \\s]+[-~｡-ﾟa-z0-9][^ \\s]+)": [
         //     {
@@ -412,6 +358,7 @@
         //     }
         // ]
     },
+
     "highlight.maxMatches": 5000,
     "dateTime.padDays": true,
     "dateTime.showMonth": true,
@@ -422,7 +369,7 @@
     "dateTime.monthsAfter": 8,
     "dateTime.customFormat": "MM/DD HH:mm:ss dddd",
     "editor.snippetSuggestions": "inline",
-    "python.languageServer": "Default",
+    // "python.languageServer": "Default",
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter.notebook.ipynb"
     },
@@ -431,9 +378,19 @@
     "gitlens.advanced.messages": {
         "suppressGitVersionWarning": true
     },
-    "remote.SSH.remotePlatform": {
-        "192.168.52.129": "linux"
+    "hediet.vscode-drawio.codeLinkActivated": false,
+    "liveServer.settings.https": {
+        "enable": true,
+        "cert": "C:\\cert\\localhost+2.pem",
+        "key": "C:\\cert\\localhost+2-key.pem",
+        "passphrase": ""
     },
-    "remote.SSH.path": "Development/Sources",
-    "hediet.vscode-drawio.codeLinkActivated": false
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "python.linting.enabled": false,
+    "tabnine.experimentalAutoImports": true,
+    "code-runner.runInTerminal": true,
+    "explorer.confirmDelete": false
+
 }

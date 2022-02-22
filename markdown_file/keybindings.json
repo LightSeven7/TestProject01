@@ -227,5 +227,19 @@
 		"key": "ctrl+shift+i",
 		"command": "search-in-current-file.searchInCurrentFile",
 		"when": "editorFocus"
+	},
+	{
+		"key": "ctrl+shift+enter",
+		"command": "-editor.action.insertLineBefore",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+shift+enter",
+		"command": "extension.jumpy-line",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+alt+k",
+		"command": "-code-runner.runCustomCommand"
 	}
 ]
