@@ -362,3 +362,6 @@ https://zenn.dev/umi_mori/articles/dd121abf2a2f77
 https://webdesign-trends.net/entry/11846
 ------------------------------------
 
+エンジニアのための十徳ナイフ「DevToys」が便利すぎる - Qiita
+https://qiita.com/danishi/items/2de6a4ab028d27a8f4ab?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=030423296b-Qiita_newsletter_500_02_02_2022&utm_medium=email&utm_term=0_e44feaa081-030423296b-35487089
+------------------------------------
