@@ -357,3 +357,8 @@ https://zenn.dev/ymasaoka/articles/10-extensions-useful-to-start-using-vscode
 【エンジニア必見】VS Code拡張機能まとめ25選!!
 https://zenn.dev/umi_mori/articles/dd121abf2a2f77
 ------------------------------------
+
+【2021年版】おしゃれな配色パターンが見つかる！カラーパレット人気ツール20個まとめ | Web Design Trends
+https://webdesign-trends.net/entry/11846
+------------------------------------
+
