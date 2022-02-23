@@ -1,0 +1,18 @@
+
+■■ 資料作り ■■
+
+【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る - Qiita
+https://qiita.com/tomo_makes/items/aafae4021986553ae1d8?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=18c953da4b-Qiita_newsletter_418_07_08_2020&utm_medium=email&utm_term=0_e44feaa081-18c953da4b-35487089#drawio
+------------------------------------
+
+プレゼンテーションに使う画像の探し方 - Qiita
+https://qiita.com/TAKAKING22/items/20c006206d2ce23a5608
+------------------------------------
+
+【2021年版】おしゃれな配色パターンが見つかる！カラーパレット人気ツール20個まとめ | Web Design Trends
+https://webdesign-trends.net/entry/11846
+------------------------------------
+
+
+■■ 開発用 ■■
+

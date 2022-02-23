@@ -18,7 +18,7 @@ function dispLineThrough() {
  * [引数]   numVal: 入力値
  * [返却値] true:  数値、false: 数値以外
  */
-function isNumber (numVal) {
+function isNumber(numVal) {
     // チェック条件パターン
     var pattern = /^[-]?([1-9]\d*|0)(\.\d+)?$/;
     // 数値チェック
@@ -32,7 +32,7 @@ const TestAAA = (valA) => {
 }
 
 const TestBBB = () => {
-    alert(TestAAA("Call to TestAAA" /* func test */));
+    alert(TestAAA("Call to TestAAA" /* func test */ ));
 }
 
 
@@ -73,10 +73,16 @@ const PromiseTest01 = () => {
     // 関数呼び出し
     console.log("method start");
     let val_retVal;
-    a().then(result => {val_retVal = result});
+    a().then(result => {
+        val_retVal = result
+    });
     // resultには「b」の戻り値が入っていて、それを「c」・「d」の引数へセットしている。
     // rejectが返される場合、catchへ飛ぶ（多分。。。）
-    b(val_retVal).then(result => {c(result)}).catch(result => {d(result)});
+    b(val_retVal).then(result => {
+        c(result)
+    }).catch(result => {
+        d(result)
+    });
     alert("Call To PromiseTest01");
 }
 
@@ -100,7 +106,7 @@ async function exec() {
 }
 
 // async・awaitを使用した非同期処理
-function PromiseTest03 (flg, next_word=``) {
+function PromiseTest03(flg, next_word = ``) {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
             let arg = `Success`;
@@ -118,7 +124,7 @@ async function funcA() {
         a = await PromiseTest03(true, "1st:");
         // 処理２
         b = await PromiseTest03(false, "2nd:");
-    } catch(e) {
+    } catch (e) {
         // 処理３（処理２で失敗すると呼ばれる）
         // eには処理２の結果(b)が入っている
         a += `, ${e}, ${await PromiseTest03(true, 'Re:')}`;
@@ -144,7 +150,16 @@ const TestCCC = () => {
 // 分割代入
 const TestDDD = () => {
     let a, b, c, d, rest;
-    ({a, b, ...rest} = {a: 10, b: 20, c: 30, d: 40});
+    ({
+        a,
+        b,
+        ...rest
+    } = {
+        a: 10,
+        b: 20,
+        c: 30,
+        d: 40
+    });
     console.log(`a:${a}`);
     console.log(`b:${b}`);
     console.log("rest:" + rest.c); // {c: 30, d: 40}
@@ -163,13 +178,15 @@ const TestDDD = () => {
     };
     // const {name="AAAAAA", mind, reason} = thinking;
     // console.log(`${name}だけど${reason} ${mind}理由の一つです`);
-    const {name="AAAAAA", mind} = thinking;
+    const {
+        name = "AAAAAA", mind
+    } = thinking;
     console.log(`${name}だけど${mind}理由の一つです`);
 }
 
 // 辞書・ハッシュ使用方法
 const TestMap = () => {
-    const map = new Map ([
+    const map = new Map([
         ["埼玉県", 12],
         ["東京都", 13],
         ["神奈川県", 14]
@@ -199,7 +216,9 @@ const TestObjectCopy = () => {
     Object.assign(destObj, srcObj);
 
     // パターン２
-    const destObj2 = {...srcObj};
+    const destObj2 = {
+        ...srcObj
+    };
 
     console.log(`destObj2.id:${destObj2.id}`);
     console.log(`destObj2.name:${destObj2.name}`);
@@ -207,23 +226,25 @@ const TestObjectCopy = () => {
 
 var person = {
     name: {
-        first :'Bob',
+        first: 'Bob',
         last: 'Smith'
     },
     age: 32,
     gender: 'male',
     interests: ['music', 'skiing'],
-    bio: function() {
-      alert(this.name[0] + ' ' + this.name[1] + ' is ' + this.age + ' years old. He likes ' + this.interests[0] + ' and ' + this.interests[1] + '.');
+    bio: function () {
+        alert(this.name[0] + ' ' + this.name[1] + ' is ' + this.age + ' years old. He likes ' + this.interests[0] + ' and ' + this.interests[1] + '.');
     },
-    greeting: function() {
-      alert('Hi! I\'m ' + this.name[0] + '.');
+    greeting: function () {
+        alert('Hi! I\'m ' + this.name[0] + '.');
     }
 };
 
 $(function () {
     $('#jstest1').on('click', function () {
-        person.firewall = function () { alert("dddzzz"); }
+        person.firewall = function () {
+            alert("dddzzz");
+        }
         person.firewall();
         //alert("person:" + person['name']['last']);
         //alert("person:" + person['name']['last']);
