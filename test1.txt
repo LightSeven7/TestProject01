@@ -366,3 +366,14 @@ VSCodeのDebugger for ChromeにおけるsourceMapPathOverrides設定メモ - Qii
 https://qiita.com/beeeyan/items/9b0def365d64d11a4a1c
 ------------------------------------
 
+挫折した人のための ESLint + Prettier 環境構築 on VSCode ロードマップ01 | 教えて！おねだーりん
+https://onedarling.site/programming/javascript/eslint-prettier-vscode-01/
+------------------------------------
+
+VSCode の拡張機能 Prettier でソースコードを整形する - bnote
+https://www.bnote.net/front-end/vscode_prettier.html
+------------------------------------
+
+[VSCode] Prettierをアップデートしたら言語単位でのフォーマット無効設定が動作しなくなったので対処した話 | DevelopersIO
+https://dev.classmethod.jp/articles/the-setting-to-disable-formatting-for-certain-languages-does-not-work-after-updating-prettier-in-vscode/
+------------------------------------
