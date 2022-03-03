@@ -377,3 +377,16 @@ https://www.bnote.net/front-end/vscode_prettier.html
 [VSCode] Prettierをアップデートしたら言語単位でのフォーマット無効設定が動作しなくなったので対処した話 | DevelopersIO
 https://dev.classmethod.jp/articles/the-setting-to-disable-formatting-for-certain-languages-does-not-work-after-updating-prettier-in-vscode/
 ------------------------------------
+
+Gitメモ : 「GRV(Git Repository Viewer)」ターミナルベースのリポジトリビューア - もた日記
+https://wonderwall.hatenablog.com/entry/2018/02/07/233000
+------------------------------------
+
+コマンドの使い方を簡単に調べる方法「tldr, cheat, howdoi, how2」 - もた日記
+https://wonderwall.hatenablog.com/entry/2016/10/01/194215
+------------------------------------
+
+Vimメモ : fzf（fuzzy finder）と連携するfzf.vimの使い方 - もた日記
+https://wonderwall.hatenablog.com/entry/2017/10/07/220000
+------------------------------------
+
