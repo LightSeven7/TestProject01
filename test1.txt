@@ -390,3 +390,6 @@ Vimメモ : fzf（fuzzy finder）と連携するfzf.vimの使い方 - もた日�
 https://wonderwall.hatenablog.com/entry/2017/10/07/220000
 ------------------------------------
 
+JavaScript: Promiseやasync/awaitのメモ
+https://zenn.dev/kyome/articles/d9348df05ad778
+------------------------------------
