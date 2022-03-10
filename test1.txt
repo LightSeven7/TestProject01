@@ -1,3 +1,4 @@
+
 Gitリンク集
 
 ------------------------------------------------------------------
@@ -396,4 +397,400 @@ https://zenn.dev/kyome/articles/d9348df05ad778
 
 VSCodeのおすすめ拡張機能と便利な設定、キーバインド集
 https://zenn.dev/ruru/articles/396265425c9740
+------------------------------------
+=======
+Gitリンク集
+
+------------------------------------------------------------------
+【Git でユーザー名とメールアドレスを設定する方法（全体用とプロジェクト用） | ラボラジアン】
+https://laboradian.com/set-git-user-and-email/
+---------------------------------------------------------
+【Git commit 取り消したい - Qiita】
+https://qiita.com/maejimayuto/items/30bfab250186a00ae884
+---------------------------------------------------------
+これで完璧! 図解でわかるgit rebaseの2つの使い方
+https://www.sejuku.net/blog/71919
+---------------------------------------------------------
+【【git stash】コミットはせずに変更を退避したいとき - Qiita】
+https://qiita.com/chihiro/items/f373873d5c2dfbd03250
+---------------------------------------------------------
+【git branch コマンド - Qiita】
+https://qiita.com/chihiro/items/e178e45a7fd5a2fb4599
+---------------------------------------------------------
+【web開発 CSS】Inputのtextデザイン - Qiita
+https://qiita.com/KengoShimizu/items/22c14b282fa9f53f4bd8
+------------------------------------------------------------------
+【Git入門】チェックアウト(checkout)とは？使い方を基礎から解説！ | 侍エンジニア塾ブログ（Samurai Blog） - プログラミング入門者向けサイト
+https://www.sejuku.net/blog/71457
+------------------------------------------------------------------
+Git | 侍エンジニア塾ブログ（Samurai Blog） - プログラミング入門者向けサイト
+https://www.sejuku.net/blog/category/tools/git
+------------------------------------------------------------------
+Gitコマンド一覧 - Qiita
+https://qiita.com/fukumone/items/73e1a9a62c5e4454263b
+------------------------------------------------------------------
+【CSS】おしゃれなボックスデザイン（囲み枠）のサンプル30
+https://saruwakakun.com/html-css/reference/box
+------------------------------------------------------------------
+【Git commit 取り消したい - Qiita】
+https://qiita.com/maejimayuto/items/30bfab250186a00ae884
+---------------------------------------------------------
+Gitコマンド一覧 - Qiita
+https://qiita.com/fukumone/items/73e1a9a62c5e4454263b
+------------------------------------------------------------------
+【git :: bash プロンプトにブランチ名と作業ツリーの状態を表示する [Tipsというかメモ]】
+http://tm.root-n.com/unix:command:git:bash_prompt
+---------------------------------------------------------
+【Gitに慣れていない人がよくハマるパターンと対処法まとめ - Qiita】
+https://qiita.com/terry_6518/items/44ce2419a78d4121569a?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=3bda734c3f-Qiita_newsletter_403_03_11_2020&utm_medium=email&utm_term=0_e44feaa081-3bda734c3f-35487089
+---------------------------------------------------------
+【初心者向け】VSCodeでC++のデバッグができるまで - Qiita
+https://qiita.com/sanbongazin/items/3a87d3393fd94169e600
+------------------------------------------------------------------
+チュートリアル: コマンドラインでの C プログラムのコンパイル | Microsoft Docs
+https://docs.microsoft.com/ja-jp/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=vs-2019
+------------------------------------------------------------------
+Git の Pull コマンドの使い方 - yu8mada
+https://yu8mada.com/2018/06/07/how-to-use-git-s-pull-command/
+------------------------------------------------------------------
+【web開発 CSS】Inputのtextデザイン - Qiita
+https://qiita.com/KengoShimizu/items/22c14b282fa9f53f4bd8
+------------------------------------------------------------------
+Gitでいろいろ取り消したい - Qiita
+https://qiita.com/mk0812/items/c0526812e89249b93239
+------------------------------------------------------------------
+【gitコマンド】いまさらのrevert - Qiita
+https://qiita.com/chihiro/items/2fa827d0eac98109e7ee
+------------------------------------------------------------------
+jQueryで「name」を操作・取得する便利技のまとめ！ | 侍エンジニア塾ブログ（Samurai Blog） - プログラミング入門者向けサイト
+https://www.sejuku.net/blog/33854
+--------------------------------------------------------------
+jQueryでname属性の取得、追加、複数操作の方法
+https://www.flatflag.nir87.com/name-1264
+--------------------------------------------------------------
+【jQuery入門】val()によるvalue値の取得・変更・設定まとめ！ | 侍エンジニア塾ブログ（Samurai Blog） - プログラミング入門者向けサイト
+https://www.sejuku.net/blog/45297
+------------------------------------------------------------------
+Visual Studio Code キーボード ショートカット - Qiita
+https://qiita.com/oruponu/items/ae9c720d4522c1606daf
+------------------------------------------------------------------
+レスポンシブで滑らかなフレームアニメーションをCSSとJSで実装する方法 - WPJ
+https://www.webprofessional.jp/frame-by-frame-animation-css-javascript/
+------------------------------------------------------------------
+
+【CentOS 7 : インストール : Server World】
+https://www.server-world.info/query?os=CentOS_7&p=install
+---------------------------------------------------------
+
+タイトル：【Visula Studio Code で超簡単・拡張機能の必要最小限のデバッグ環境を構築してみる(JavaScript編) : OFF-SOFT.net】
+アドレス：https://www.off-soft.net/ja/software/develop2/visula-studio-code-simple-extension2.html#javascript_extension_3
+---------------------------------------------------------
+
+タイトル：【いまさらまとめるブックマークレットの作り方 〜 2016年版 〜 - 無駄と文化】
+アドレス：https://blog.mudatobunka.org/entry/2016/02/29/030633
+
+タイトル：【JavaScript / Css 圧縮・軽量化（Minify）：ファイルを圧縮して表示速度を上げる | ラッコツールズ🔧】
+アドレス：https://rakko.tools/tools/33/
+
+タイトル：【K'confが選ぶ30個のブックマークレット - K'conf】
+アドレス：http://kenz0.s201.xrea.com/weblog/2007/12/post_95.html
+---------------------------------------------------------
+
+2020/08/30 add
+--------------------------------------------------------------
+fzf（fuzzy finder）の便利な使い方をREADME, Wikiを読んで学ぶ - もた日記
+https://wonderwall.hatenablog.com/entry/2017/10/06/063000
+
+--------------------------------------------------------------
+tmuxメモ : Tmux copycatとTmux Yankで検索、コピペを便利にする - もた日記
+https://wonderwall.hatenablog.com/entry/2016/06/29/230105
+
+タイトル：【tonsky/FiraCode: Free monospaced font with programming ligatures】
+アドレス：https://github.com/tonsky/FiraCode
+
+タイトル：【VSCodeに筆記体を導入 - Qiita】
+アドレス：https://qiita.com/KMim/items/927007d1567f74e06cea
+
+
+■Azure
+HttpTrigger1 - Microsoft Azure
+https://gti.page.link/KvdYgH6dDtXTcLgw7
+=============================================
+
+Azure Portal で初めての関数を作成する | Microsoft Docs
+https://gti.page.link/gKYcfpZJgXGqYHEx5
+=============================================
+
+Azure Functions チュートリアル - Google 検索
+https://gti.page.link/5QadB1mNc2RvJxE69
+=============================================
+
+azure app service チュートリアル - Google 検索
+https://gti.page.link/UugkGgQangkEFrT39
+=============================================
+
+Azure App Service のドキュメント - Azure App Service | Microsoft Docs
+https://gti.page.link/V77dt3mBYscrkbNK9
+=============================================
+
+クイック スタート:C# ASP.NET Core アプリを作成する - Azure App Service | Microsoft Docs
+https://gti.page.link/PkrZanzkmsTmHa2JA
+=============================================
+
+
+New URL
+Azure Portal で初めての関数を作成する | Microsoft Docs
+https://gti.page.link/WDX1oXSa4p3ZDJCN8
+=============================================
+
+Azure App Service のドキュメント - Azure App Service | Microsoft Docs
+https://gti.page.link/o11xrifVeU4WcxMLA
+=============================================
+
+クイック スタート:Node.js Web アプリを作成する - Azure App Service | Microsoft Docs
+https://gti.page.link/cfsQzhfTkKbpxs476
+=============================================
+
+Build Node.js Apps with Visual Studio Code
+https://gti.page.link/YVYNYdkVXF2c54a17
+=============================================
+
+Visual Studio Code を使用して Azure で初めての関数を作成する | Microsoft Docs
+https://gti.page.link/66y7m97GRVbsaGKs6
+=============================================
+
+
+タイトル：【Azure Private Link を使用した Azure Cache for Redis (プレビュー) | Microsoft Docs】
+アドレス：https://docs.microsoft.com/ja-jp/azure/azure-cache-for-redis/cache-private-link
+
+
+■10/30
+Visula Studio Code で超簡単・拡張機能の必要最小限のデバッグ環境を構築してみる(JavaScript編) : OFF-SOFT.net
+https://gti.page.link/2YXttqzSVNZa83rM6
+=============================================
+
+Visual Studio Code を使用して Azure で初めての関数を作成する | Microsoft Docs
+https://gti.page.link/4RbjTeUHjQpvh4Vf6
+=============================================
+
+クイック スタート:Node.js Web アプリを作成する - Azure App Service | Microsoft Docs
+https://gti.page.link/2hHu3VREQqScbXfy9
+=============================================
+
+Chromeの拡張機能を自作する - 虎の穴開発室ブログ
+https://gti.page.link/SP9K9zHcFBK6YfMVA
+=============================================
+
+Chrome拡張機能の作り方｜コラム｜メンバーズ
+https://gti.page.link/RMYsBLoNvSH9TMte7
+=============================================
+
+Chrome拡張機能の開発 その1-1：概要編 - Qiita
+https://gti.page.link/gr5FdR3rA5kJ2ffy7
+=============================================
+
+chrome拡張機能の配布手段まとめ - Qiita
+https://gti.page.link/ysj6wfebCcivUZ4UA
+=============================================
+
+Chromeブラウザの拡張機能を作ってみたい初心者向けに開発方法を紹介！【サンプルあり】 - Qiita
+https://gti.page.link/DbrM2wDeL2MawgSHA
+=============================================
+
+いまさらまとめるブックマークレットの作り方 〜 2016年版 〜 - 無駄と文化
+https://gti.page.link/YftsdEjqxXoQXt6B6
+=============================================
+
+Outlook で検索条件を絞り込んでより良い検索結果を得る - Outlook
+https://gti.page.link/HS7qjkN79Njhhibc7
+=============================================
+
+Linux - システムのログ
+https://gti.page.link/E21jh35iUT7KN6o66
+=============================================
+
+Azure Functions の開発に関するガイダンス | Microsoft Docs
+https://gti.page.link/LwjS5Cyk7sChCWb37
+=============================================
+
+Azure Functions Core Tools の操作 | Microsoft Docs
+https://gti.page.link/4puSvQ3Xdf1D5R4W9
+=============================================
+
+Azure App Service のドキュメント - Azure App Service | Microsoft Docs
+https://gti.page.link/Q8jCt7wzJSm2W7tx5
+=============================================
+
+概要 - Azure App Service | Microsoft Docs
+https://gti.page.link/zypFFLMJahfztYEg7
+=============================================
+
+Azure Virtual Network | Microsoft Docs
+https://gti.page.link/RxWhYSZPErVxZ1N79
+=============================================
+
+Azure Load Balancer の SNAT (Outbound 通信) がわからん - Qiita
+https://gti.page.link/EJ9fGMbLMQ63knVV9
+=============================================
+
+Azure Private Link を使用した Azure Cache for Redis (プレビュー) | Microsoft Docs
+https://gti.page.link/HWJcgcHtnfrJ3b6E9
+=============================================
+
+
+
+■【2022/02/04】
+ChromeでVimのようなキー操作をする「Vimium」アドオン - もた日記
+https://wonderwall.hatenablog.com/entry/2016/04/03/235007
+------------------------------------
+
+■公式Neo Vim
+Releases · neovim/neovim https://github.com/neovim/neovim/releases
+
+Vimメモ : Neovimで開発環境を段階的に構築する（1）インストールとcheckhealth - もた日記
+https://wonderwall.hatenablog.com/entry/2019/07/28/230000
+------------------------------------
+
+【キラーアプリ】VSCodeの新たなVim拡張はNeoVimがおすすめ！ │ wonwon eater
+https://wonwon-eater.com/vscode-nvim/#outline__2
+------------------------------------
+
+VSCodeの新たなVim拡張 Neo Vim(VSCode)を試してみた | 株式会社エムケイシステム TECH BLOG
+https://blog.mksc.jp/contents/vscode-neovim/
+------------------------------------
+
+超融合!時空を越えた絆 Neo Vim(VSCode)を試してみた
+https://zenn.dev/yutakatay/articles/vscode-neovim
+------------------------------------
+
+NeoVimユーザーがvscodeにも定住するためにやったこと - かみのメモ
+https://kamino.hatenablog.com/entry/vscode_alike_neovim
+------------------------------------
+
+ASCII.jp：VSCodeのvim操作を高速化！ vscode-neovimを導入してみた
+https://ascii.jp/elem/000/004/036/4036471/#eid3129188
+------------------------------------
+
+超融合!時空を越えた絆 Neo Vim(VSCode)を試してみた
+https://zenn.dev/yutakatay/articles/vscode-neovim
+------------------------------------
+
+
+■【2022/02/09】
+fzf - Google 検索
+https://www.google.com/search?q=fzf
+------------------------------------
+
+fzf（fuzzy finder）の便利な使い方をREADME, Wikiを読んで学ぶ - もた日記
+https://wonderwall.hatenablog.com/entry/2017/10/06/063000
+------------------------------------
+
+fzfを活用してTerminalの作業効率を高める - Qiita
+https://qiita.com/kamykn/items/aa9920f07487559c0c7e
+------------------------------------
+
+fzfを使おう - Qiita
+https://qiita.com/kompiro/items/a09c0b44e7c741724c80
+------------------------------------
+
+fzfを用いてssh先を簡単指定
+https://zenn.dev/antyuntyun/articles/ssh-fzf-function
+------------------------------------
+
+windows fzf - Google 検索
+https://www.google.com/search?q=windows+fzf&sxsrf=APq-WBsUMLX6ozJ-7CkXHFVRO68OGJuU8A%3A1644378866491&ei=8joDYr-tHeuN2roPg7ukgAQ&ved=0ahUKEwi_7tnR3PH1AhXrhlYBHYMdCUAQ4dUDCA4&uact=5&oq=windows+fzf&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgQIABAeMgQIABAeMgQIABAeMgQIABAeMgQIABAeMggIABAIEAoQHjIGCAAQCBAeOgQIIxAnOg0IABCABBCxAxCDARAEOgoIABCABBCxAxAEOgcIABCABBAESgQIQRgASgQIRhgAUABYsgZg8QloAHABeACAAY0BiAHMA5IBAzAuNJgBAKABAcABAQ&sclient=gws-wiz
+------------------------------------
+
+【Windows】コマンド操作で超効率【fzf/ff】 - unrealMan’s blog
+https://unrealman.hatenablog.com/entry/fzf-ff
+------------------------------------
+
+Vim/プラグイン/fzf/インストール - Windows - yanor.net/wiki
+https://yanor.net/wiki/?Vim/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/fzf/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB+-+Windows
+------------------------------------
+
+iTerm2+NeoVimに定住するためにやったこと - かみのメモ
+https://kamino.hatenablog.com/entry/iterm2_neovim
+------------------------------------
+
+NeoVimユーザーがvscodeにも定住するためにやったこと - かみのメモ
+https://kamino.hatenablog.com/entry/vscode_alike_neovim
+------------------------------------
+
+
+■2022/02/16
+Generate a CSS Color Gradient - Maker, and Background
+https://hexcolor.co/generate-color-gradient
+------------------------------------
+
+VS Codeの拡張機能でPythonの仮想環境構築からコード整形、Lintまでを体験してみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） - ＠IT
+https://atmarkit.itmedia.co.jp/ait/articles/2106/25/news028.html
+------------------------------------
+
+【2022年最新版】【プラグイン】VSCodeをPython超特化型にする、最高の拡張機能20選まとめ。 【VisualStudio Code】【プラグイン】 | ゆるプロ日記
+https://yurupro.cloud/767/#toc10
+------------------------------------
+
+Visual Studio Codeのインストール: Visual Studio Code でPython入門 【Windows編】 - python.jp
+https://www.python.jp/python_vscode/windows/setup/install_vscode.html#Python%E9%96%A2%E9%80%A3%E3%81%AE%E8%A8%AD%E5%AE%9A
+------------------------------------
+
+Code Runnerを使いこなす - Qiita
+https://qiita.com/take_me/items/6a1d2d417889837219d1
+------------------------------------
+
+Visual Studio CodeでC言語プログラミングを始める（Windows編） | 電脳産物
+https://dianxnao.com/visual-studio-code%E3%81%A7c%E8%A8%80%E8%AA%9E%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%92%E5%A7%8B%E3%82%81%E3%82%8B%EF%BC%88windows%E7%B7%A8%EF%BC%89/
+------------------------------------
+
+SQLiteとは？他のデータベースとの違いも解説
+https://products.sint.co.jp/topsic/blog/sqlite
+------------------------------------
+
+Web制作者必見！VSCodeのおすすめ拡張機能15個まとめ | Web Design Trends
+https://webdesign-trends.net/entry/13147
+------------------------------------
+
+VS Code の使い始めに入れておくと便利な拡張機能 10 選
+https://zenn.dev/ymasaoka/articles/10-extensions-useful-to-start-using-vscode
+------------------------------------
+
+【エンジニア必見】VS Code拡張機能まとめ25選!!
+https://zenn.dev/umi_mori/articles/dd121abf2a2f77
+------------------------------------
+
+【2021年版】おしゃれな配色パターンが見つかる！カラーパレット人気ツール20個まとめ | Web Design Trends
+https://webdesign-trends.net/entry/11846
+------------------------------------
+
+VSCodeのDebugger for ChromeにおけるsourceMapPathOverrides設定メモ - Qiita
+https://qiita.com/beeeyan/items/9b0def365d64d11a4a1c
+------------------------------------
+
+挫折した人のための ESLint + Prettier 環境構築 on VSCode ロードマップ01 | 教えて！おねだーりん
+https://onedarling.site/programming/javascript/eslint-prettier-vscode-01/
+------------------------------------
+
+VSCode の拡張機能 Prettier でソースコードを整形する - bnote
+https://www.bnote.net/front-end/vscode_prettier.html
+------------------------------------
+
+[VSCode] Prettierをアップデートしたら言語単位でのフォーマット無効設定が動作しなくなったので対処した話 | DevelopersIO
+https://dev.classmethod.jp/articles/the-setting-to-disable-formatting-for-certain-languages-does-not-work-after-updating-prettier-in-vscode/
+------------------------------------
+
+Gitメモ : 「GRV(Git Repository Viewer)」ターミナルベースのリポジトリビューア - もた日記
+https://wonderwall.hatenablog.com/entry/2018/02/07/233000
+------------------------------------
+
+コマンドの使い方を簡単に調べる方法「tldr, cheat, howdoi, how2」 - もた日記
+https://wonderwall.hatenablog.com/entry/2016/10/01/194215
+------------------------------------
+
+Vimメモ : fzf（fuzzy finder）と連携するfzf.vimの使い方 - もた日記
+https://wonderwall.hatenablog.com/entry/2017/10/07/220000
+------------------------------------
+
+JavaScript: Promiseやasync/awaitのメモ
+https://zenn.dev/kyome/articles/d9348df05ad778
 ------------------------------------
