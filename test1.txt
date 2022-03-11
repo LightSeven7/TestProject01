@@ -798,3 +798,7 @@ https://zenn.dev/kyome/articles/d9348df05ad778
 VSCodeのおすすめ拡張機能と便利な設定、キーバインド集
 https://zenn.dev/ruru/articles/396265425c9740
 ------------------------------------
+
+VSCode に必ず入れておきたい拡張機能 - Qiita
+https://qiita.com/ucan-lab/items/e85931bf8276da43cc97
+------------------------------------
