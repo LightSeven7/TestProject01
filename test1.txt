@@ -802,3 +802,27 @@ https://zenn.dev/ruru/articles/396265425c9740
 VSCode に必ず入れておきたい拡張機能 - Qiita
 https://qiita.com/ucan-lab/items/e85931bf8276da43cc97
 ------------------------------------
+
+【AWS入門④】EC2の構築における基礎の基礎
+https://zenn.dev/rsk_for_dev/articles/21755bf37e501f
+------------------------------------
+
+AWS入門　初心者が覚えておくべきAWSの基本｜コラム｜クラウドソリューション｜サービス｜法人のお客さま｜NTT東日本
+https://business.ntt-east.co.jp/content/cloudsolution/column-37.html
+------------------------------------
+
+Amazon EC2（安全でスケーラブルなクラウド上の仮想サーバー）| AWS
+https://aws.amazon.com/jp/ec2/
+------------------------------------
+
+Amazon EC2 Auto Scaling（需要に合わせてコンピューティング性能を拡張）| AWS
+https://aws.amazon.com/jp/ec2/autoscaling/
+------------------------------------
+
+AWS Hands-on for Beginners - Amazon EC2 Auto Scaling スケーリング基礎編 | AWS
+https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Auto_Scaling-2021-reg-event.html
+------------------------------------
+
+WebAudioAPIを利用して、PCマイクで録音した音声をバイナリデータ化してみる
+https://zenn.dev/t___g130/articles/e11452c51530f2
+------------------------------------
