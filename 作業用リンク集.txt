@@ -13,6 +13,169 @@ https://qiita.com/TAKAKING22/items/20c006206d2ce23a5608
 https://webdesign-trends.net/entry/11846
 ------------------------------------
 
+Generate a CSS Color Gradient - Maker, and Background
+https://hexcolor.co/generate-color-gradient
+------------------------------------
 
-■■ 開発用 ■■
 
+■■ Chrome拡張機能 ■■
+
+ChromeでVimのようなキー操作をする「Vimium」アドオン - もた日記
+https://wonderwall.hatenablog.com/entry/2016/04/03/235007
+------------------------------------
+
+
+■■ 開発用Tool(Linux) ■■
+
+fzf - Google 検索
+https://www.google.com/search?q=fzf
+------------------------------------
+
+fzf（fuzzy finder）の便利な使い方をREADME, Wikiを読んで学ぶ - もた日記
+https://wonderwall.hatenablog.com/entry/2017/10/06/063000
+------------------------------------
+
+fzfを活用してTerminalの作業効率を高める - Qiita
+https://qiita.com/kamykn/items/aa9920f07487559c0c7e
+------------------------------------
+
+fzfを使おう - Qiita
+https://qiita.com/kompiro/items/a09c0b44e7c741724c80
+------------------------------------
+
+fzfを用いてssh先を簡単指定
+https://zenn.dev/antyuntyun/articles/ssh-fzf-function
+------------------------------------
+
+Vimメモ : fzf（fuzzy finder）と連携するfzf.vimの使い方 - もた日記
+https://wonderwall.hatenablog.com/entry/2017/10/07/220000
+------------------------------------
+
+windows fzf - Google 検索
+https://www.google.com/search?q=windows+fzf&sxsrf=APq-WBsUMLX6ozJ-7CkXHFVRO68OGJuU8A%3A1644378866491&ei=8joDYr-tHeuN2roPg7ukgAQ&ved=0ahUKEwi_7tnR3PH1AhXrhlYBHYMdCUAQ4dUDCA4&uact=5&oq=windows+fzf&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgQIABAeMgQIABAeMgQIABAeMgQIABAeMgQIABAeMggIABAIEAoQHjIGCAAQCBAeOgQIIxAnOg0IABCABBCxAxCDARAEOgoIABCABBCxAxAEOgcIABCABBAESgQIQRgASgQIRhgAUABYsgZg8QloAHABeACAAY0BiAHMA5IBAzAuNJgBAKABAcABAQ&sclient=gws-wiz
+------------------------------------
+
+【Windows】コマンド操作で超効率【fzf/ff】 - unrealMan’s blog
+https://unrealman.hatenablog.com/entry/fzf-ff
+------------------------------------
+
+Vim/プラグイン/fzf/インストール - Windows - yanor.net/wiki
+https://yanor.net/wiki/?Vim/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/fzf/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB+-+Windows
+------------------------------------
+
+■公式Neo Vim
+Releases · neovim/neovim https://github.com/neovim/neovim/releases
+
+Vimメモ : Neovimで開発環境を段階的に構築する（1）インストールとcheckhealth - もた日記
+https://wonderwall.hatenablog.com/entry/2019/07/28/230000
+------------------------------------
+
+【キラーアプリ】VSCodeの新たなVim拡張はNeoVimがおすすめ！ │ wonwon eater
+https://wonwon-eater.com/vscode-nvim/#outline__2
+------------------------------------
+
+VSCodeの新たなVim拡張 Neo Vim(VSCode)を試してみた | 株式会社エムケイシステム TECH BLOG
+https://blog.mksc.jp/contents/vscode-neovim/
+------------------------------------
+
+超融合!時空を越えた絆 Neo Vim(VSCode)を試してみた
+https://zenn.dev/yutakatay/articles/vscode-neovim
+------------------------------------
+
+NeoVimユーザーがvscodeにも定住するためにやったこと - かみのメモ
+https://kamino.hatenablog.com/entry/vscode_alike_neovim
+------------------------------------
+
+ASCII.jp：VSCodeのvim操作を高速化！ vscode-neovimを導入してみた
+https://ascii.jp/elem/000/004/036/4036471/#eid3129188
+------------------------------------
+
+超融合!時空を越えた絆 Neo Vim(VSCode)を試してみた
+https://zenn.dev/yutakatay/articles/vscode-neovim
+------------------------------------
+
+iTerm2+NeoVimに定住するためにやったこと - かみのメモ
+https://kamino.hatenablog.com/entry/iterm2_neovim
+------------------------------------
+
+NeoVimユーザーがvscodeにも定住するためにやったこと - かみのメモ
+https://kamino.hatenablog.com/entry/vscode_alike_neovim
+------------------------------------
+
+コマンドの使い方を簡単に調べる方法「tldr, cheat, howdoi, how2」 - もた日記
+https://wonderwall.hatenablog.com/entry/2016/10/01/194215
+------------------------------------
+
+
+
+■■ VSCode拡張機能 ■■
+
+Web制作者必見！VSCodeのおすすめ拡張機能15個まとめ | Web Design Trends
+https://webdesign-trends.net/entry/13147
+------------------------------------
+
+VS Code の使い始めに入れておくと便利な拡張機能 10 選
+https://zenn.dev/ymasaoka/articles/10-extensions-useful-to-start-using-vscode
+------------------------------------
+
+【エンジニア必見】VS Code拡張機能まとめ25選!!
+https://zenn.dev/umi_mori/articles/dd121abf2a2f77
+------------------------------------
+
+VSCodeのおすすめ拡張機能と便利な設定、キーバインド集
+https://zenn.dev/ruru/articles/396265425c9740
+------------------------------------
+
+VSCode に必ず入れておきたい拡張機能 - Qiita
+https://qiita.com/ucan-lab/items/e85931bf8276da43cc97
+------------------------------------
+
+[VSCode] Prettierをアップデートしたら言語単位でのフォーマット無効設定が動作しなくなったので対処した話 | DevelopersIO
+https://dev.classmethod.jp/articles/the-setting-to-disable-formatting-for-certain-languages-does-not-work-after-updating-prettier-in-vscode/
+------------------------------------
+
+VSCode の拡張機能 Prettier でソースコードを整形する - bnote
+https://www.bnote.net/front-end/vscode_prettier.html
+------------------------------------
+
+VSCodeのDebugger for ChromeにおけるsourceMapPathOverrides設定メモ - Qiita
+https://qiita.com/beeeyan/items/9b0def365d64d11a4a1c
+------------------------------------
+
+挫折した人のための ESLint + Prettier 環境構築 on VSCode ロードマップ01 | 教えて！おねだーりん
+https://onedarling.site/programming/javascript/eslint-prettier-vscode-01/
+------------------------------------
+
+VS Codeの拡張機能でPythonの仮想環境構築からコード整形、Lintまでを体験してみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） - ＠IT
+https://atmarkit.itmedia.co.jp/ait/articles/2106/25/news028.html
+------------------------------------
+
+【2022年最新版】【プラグイン】VSCodeをPython超特化型にする、最高の拡張機能20選まとめ。 【VisualStudio Code】【プラグイン】 | ゆるプロ日記
+https://yurupro.cloud/767/#toc10
+------------------------------------
+
+Visual Studio Codeのインストール: Visual Studio Code でPython入門 【Windows編】 - python.jp
+https://www.python.jp/python_vscode/windows/setup/install_vscode.html#Python%E9%96%A2%E9%80%A3%E3%81%AE%E8%A8%AD%E5%AE%9A
+------------------------------------
+
+Code Runnerを使いこなす - Qiita
+https://qiita.com/take_me/items/6a1d2d417889837219d1
+------------------------------------
+
+Visual Studio CodeでC言語プログラミングを始める（Windows編） | 電脳産物
+https://dianxnao.com/visual-studio-code%E3%81%A7c%E8%A8%80%E8%AA%9E%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%92%E5%A7%8B%E3%82%81%E3%82%8B%EF%BC%88windows%E7%B7%A8%EF%BC%89/
+------------------------------------
+
+
+■■ JavaScript ■■
+
+JavaScript: Promiseやasync/awaitのメモ
+https://zenn.dev/kyome/articles/d9348df05ad778
+------------------------------------
+
+
+■■ Git ■■
+
+Gitメモ : 「GRV(Git Repository Viewer)」ターミナルベースのリポジトリビューア - もた日記
+https://wonderwall.hatenablog.com/entry/2018/02/07/233000
+------------------------------------
