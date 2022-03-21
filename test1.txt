@@ -800,6 +800,10 @@ JavaScript: Promiseやasync/awaitのメモ
 https://zenn.dev/kyome/articles/d9348df05ad778
 ------------------------------------
 
+WebAudioAPIを利用して、PCマイクで録音した音声をバイナリデータ化してみる
+https://zenn.dev/t___g130/articles/e11452c51530f2
+------------------------------------
+
 
 ■■ Git ■■
 
@@ -813,6 +817,9 @@ https://wonderwall.hatenablog.com/entry/2018/02/07/233000
 ChromeでVimのようなキー操作をする「Vimium」アドオン - もた日記
 https://wonderwall.hatenablog.com/entry/2016/04/03/235007
 ------------------------------------
+
+
+■■ AWS ■■
 
 【AWS入門④】EC2の構築における基礎の基礎
 https://zenn.dev/rsk_for_dev/articles/21755bf37e501f
@@ -834,6 +841,3 @@ AWS Hands-on for Beginners - Amazon EC2 Auto Scaling スケーリング基礎編
 https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Auto_Scaling-2021-reg-event.html
 ------------------------------------
 
-WebAudioAPIを利用して、PCマイクで録音した音声をバイナリデータ化してみる
-https://zenn.dev/t___g130/articles/e11452c51530f2
-------------------------------------
