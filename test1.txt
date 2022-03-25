@@ -841,3 +841,12 @@ AWS Hands-on for Beginners - Amazon EC2 Auto Scaling スケーリング基礎編
 https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Auto_Scaling-2021-reg-event.html
 ------------------------------------
 
+=======
+WebAudioAPIを利用して、PCマイクで録音した音声をバイナリデータ化してみる
+https://zenn.dev/t___g130/articles/e11452c51530f2
+------------------------------------
+
+
+AWSのSLAとAmazon EC2上のシステム障害対策方法とは？ | ビジネス継続とITについて考える
+https://bcblog.sios.jp/aws_sla/
+------------------------------------
