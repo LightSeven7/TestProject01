@@ -850,3 +850,23 @@ https://zenn.dev/t___g130/articles/e11452c51530f2
 AWSのSLAとAmazon EC2上のシステム障害対策方法とは？ | ビジネス継続とITについて考える
 https://bcblog.sios.jp/aws_sla/
 ------------------------------------
+
+
+■■ C# SerialPortプログラミング ■■
+
+C# serialport - Google 検索
+https://www.google.com/search?q=C%23+serialport&rlz=1C1CHBD_jaJP839JP845&oq=C%23+serialport&aqs=chrome..69i57j0i512l6j69i58.16751j0j1&sourceid=chrome&ie=UTF-8
+------------------------------------
+
+C#フォームプログラムでのシリアル通信の仕方 - Qiita
+https://qiita.com/mag2/items/d15bc3c9d66ce0c8f6b1
+------------------------------------
+
+SerialPort クラス (System.IO.Ports) | Microsoft Docs
+https://docs.microsoft.com/ja-jp/dotnet/api/system.io.ports.serialport?view=dotnet-plat-ext-6.0
+------------------------------------
+
+【C#.net】SerialPortクラスを使ってRS232C通信を行う - 中堅プログラマーの備忘録
+https://www.chuken-engineer.com/entry/2019/08/28/113530
+------------------------------------
+
