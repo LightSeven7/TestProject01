@@ -5,6 +5,7 @@ Gitリンク集
 【Git でユーザー名とメールアドレスを設定する方法（全体用とプロジェクト用） | ラボラジアン】
 https://laboradian.com/set-git-user-and-email/
 ---------------------------------------------------------
+
 【Git commit 取り消したい - Qiita】
 https://qiita.com/maejimayuto/items/30bfab250186a00ae884
 ---------------------------------------------------------
@@ -38,42 +39,55 @@ https://qiita.com/maejimayuto/items/30bfab250186a00ae884
 Gitコマンド一覧 - Qiita
 https://qiita.com/fukumone/items/73e1a9a62c5e4454263b
 ------------------------------------------------------------------
+
 【git :: bash プロンプトにブランチ名と作業ツリーの状態を表示する [Tipsというかメモ]】
 http://tm.root-n.com/unix:command:git:bash_prompt
 ---------------------------------------------------------
+
 【Gitに慣れていない人がよくハマるパターンと対処法まとめ - Qiita】
 https://qiita.com/terry_6518/items/44ce2419a78d4121569a?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=3bda734c3f-Qiita_newsletter_403_03_11_2020&utm_medium=email&utm_term=0_e44feaa081-3bda734c3f-35487089
 ---------------------------------------------------------
+
 【初心者向け】VSCodeでC++のデバッグができるまで - Qiita
 https://qiita.com/sanbongazin/items/3a87d3393fd94169e600
 ------------------------------------------------------------------
+
 チュートリアル: コマンドラインでの C プログラムのコンパイル | Microsoft Docs
 https://docs.microsoft.com/ja-jp/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=vs-2019
 ------------------------------------------------------------------
+
 Git の Pull コマンドの使い方 - yu8mada
 https://yu8mada.com/2018/06/07/how-to-use-git-s-pull-command/
 ------------------------------------------------------------------
+
 【web開発 CSS】Inputのtextデザイン - Qiita
 https://qiita.com/KengoShimizu/items/22c14b282fa9f53f4bd8
 ------------------------------------------------------------------
+
 Gitでいろいろ取り消したい - Qiita
 https://qiita.com/mk0812/items/c0526812e89249b93239
 ------------------------------------------------------------------
+
 【gitコマンド】いまさらのrevert - Qiita
 https://qiita.com/chihiro/items/2fa827d0eac98109e7ee
 ------------------------------------------------------------------
+
 jQueryで「name」を操作・取得する便利技のまとめ！ | 侍エンジニア塾ブログ（Samurai Blog） - プログラミング入門者向けサイト
 https://www.sejuku.net/blog/33854
 --------------------------------------------------------------
+
 jQueryでname属性の取得、追加、複数操作の方法
 https://www.flatflag.nir87.com/name-1264
 --------------------------------------------------------------
+
 【jQuery入門】val()によるvalue値の取得・変更・設定まとめ！ | 侍エンジニア塾ブログ（Samurai Blog） - プログラミング入門者向けサイト
 https://www.sejuku.net/blog/45297
 ------------------------------------------------------------------
+
 Visual Studio Code キーボード ショートカット - Qiita
 https://qiita.com/oruponu/items/ae9c720d4522c1606daf
 ------------------------------------------------------------------
+
 レスポンシブで滑らかなフレームアニメーションをCSSとJSで実装する方法 - WPJ
 https://www.webprofessional.jp/frame-by-frame-animation-css-javascript/
 ------------------------------------------------------------------
