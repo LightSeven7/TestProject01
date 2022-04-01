@@ -904,3 +904,51 @@ https://www.paveway.info/entry/2018/12/11/mfc_serial
 www.ys-labo.com/BCB/2007/070512 RS232C zenpan.html
 http://www.ys-labo.com/BCB/2007/070512%20RS232C%20zenpan.html
 ------------------------------------
+
+
+
+--------------------------------------------------------------
+yumでシステムアップデートする（カーネルは除く）
+https://www.linuxmaster.jp/linux_skill/2017/09/yum-1.html
+
+--------------------------------------------------------------
+シリアルポート USB 仕様　プログラム - Google 検索
+https://www.google.com/search?q=%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%88+USB+%E4%BB%95%E6%A7%98%E3%80%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0&rlz=1C1CHBD_jaJP839JP845&sxsrf=APq-WBsDpNMY1wRFTY75PlzIwiJqeYGGGA%3A1648819488388&ei=IP1GYrKnF--Lr7wPqcqT-As&ved=0ahUKEwiyt52f-_L2AhXvxYsBHSnlBL8Q4dUDCA4&uact=5&oq=%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%88+USB+%E4%BB%95%E6%A7%98%E3%80%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0&gs_lcp=Cgdnd3Mtd2l6EAM6BQgAEKIEOgQIIRAVOgUIIRCgAUoECEEYAEoECEYYAFAAWKoOYMQRaABwAXgAgAGFAYgB3wmSAQM1LjeYAQCgAQHAAQE&sclient=gws-wiz
+
+--------------------------------------------------------------
+c++ シリアル通信 受信 - Google 検索
+https://www.google.com/search?rlz=1C1CHBD_jaJP839JP845&sxsrf=APq-WBsag-s4M9hwjS1UNw-K77FZXH4OPA:1648820577653&q=c%2B%2B+%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1+%E5%8F%97%E4%BF%A1&sa=X&ved=2ahUKEwjy6tCm__L2AhXCB94KHdfVAe0Q1QJ6BAgwEAE&biw=2300&bih=1420&dpr=1.38
+
+--------------------------------------------------------------
+シリアルポートからデータを受信
+http://0n0.fc2web.com/bcc/ser/com04.html
+
+--------------------------------------------------------------
+C++/CLIでシリアル通信を行う。 - プログラムを書こう！
+https://www.paveway.info/entry/2018/08/19/cpp_cli_serail
+
+--------------------------------------------------------------
+MFCでシリアル通信を行う。 - プログラムを書こう！
+https://www.paveway.info/entry/2018/12/11/mfc_serial
+
+--------------------------------------------------------------
+NonSoft - COMポート(シリアル)で電文の送受信をするサンプル(VC6/VB6/VBA)
+http://nonsoft.la.coocan.jp/SoftSample/VC/SampleRs232c.html
+
+--------------------------------------------------------------
+COMxポートを使用するプログラムの開発
+https://www.htbasic.jp/tip/h093/index.shtml
+
+--------------------------------------------------------------
+シリアルポートプログラミング - CAT Wiki
+https://www.si-linux.co.jp/catwiki/index.php?%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%88%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0
+
+--------------------------------------------------------------
+統合開発環境SWEET - Google 検索
+https://www.google.com/search?q=%E7%B5%B1%E5%90%88%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83SWEET&rlz=1C1CHBD_jaJP839JP845&oq=%E7%B5%B1%E5%90%88%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83SWEET&aqs=chrome..69i57j0i546l4.744j0j1&sourceid=chrome&ie=UTF-8
+
+--------------------------------------------------------------
+SWEET - Silicon Linux
+https://www.si-linux.co.jp/index.php?SWEET
+
+
