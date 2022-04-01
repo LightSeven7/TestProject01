@@ -907,6 +907,8 @@ http://www.ys-labo.com/BCB/2007/070512%20RS232C%20zenpan.html
 
 
 
+■■ SerialPort関連 ■■
+
 --------------------------------------------------------------
 yumでシステムアップデートする（カーネルは除く）
 https://www.linuxmaster.jp/linux_skill/2017/09/yum-1.html
