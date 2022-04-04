@@ -910,10 +910,6 @@ http://www.ys-labo.com/BCB/2007/070512%20RS232C%20zenpan.html
 ■■ SerialPort関連 ■■
 
 --------------------------------------------------------------
-yumでシステムアップデートする（カーネルは除く）
-https://www.linuxmaster.jp/linux_skill/2017/09/yum-1.html
-
---------------------------------------------------------------
 シリアルポート USB 仕様　プログラム - Google 検索
 https://www.google.com/search?q=%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%88+USB+%E4%BB%95%E6%A7%98%E3%80%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0&rlz=1C1CHBD_jaJP839JP845&sxsrf=APq-WBsDpNMY1wRFTY75PlzIwiJqeYGGGA%3A1648819488388&ei=IP1GYrKnF--Lr7wPqcqT-As&ved=0ahUKEwiyt52f-_L2AhXvxYsBHSnlBL8Q4dUDCA4&uact=5&oq=%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%88+USB+%E4%BB%95%E6%A7%98%E3%80%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0&gs_lcp=Cgdnd3Mtd2l6EAM6BQgAEKIEOgQIIRAVOgUIIRCgAUoECEEYAEoECEYYAFAAWKoOYMQRaABwAXgAgAGFAYgB3wmSAQM1LjeYAQCgAQHAAQE&sclient=gws-wiz
 
@@ -954,3 +950,7 @@ SWEET - Silicon Linux
 https://www.si-linux.co.jp/index.php?SWEET
 
 
+
+「Python3 エンジニア認定データ分析試験」とは？出…｜Udemy メディア
+https://udemy.benesse.co.jp/development/python-work/python3-test.html
+------------------------------------
