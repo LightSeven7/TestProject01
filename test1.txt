@@ -954,3 +954,7 @@ https://www.si-linux.co.jp/index.php?SWEET
 「Python3 エンジニア認定データ分析試験」とは？出…｜Udemy メディア
 https://udemy.benesse.co.jp/development/python-work/python3-test.html
 ------------------------------------
+
+実践C++/CLI 極めるための基礎と実用テクニック | 中 博俊 |本 | 通販 | Amazon
+https://www.amazon.co.jp/exec/obidos/ASIN/4797336277/paveway-22/
+------------------------------------
