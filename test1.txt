@@ -958,3 +958,7 @@ https://udemy.benesse.co.jp/development/python-work/python3-test.html
 実践C++/CLI 極めるための基礎と実用テクニック | 中 博俊 |本 | 通販 | Amazon
 https://www.amazon.co.jp/exec/obidos/ASIN/4797336277/paveway-22/
 ------------------------------------
+
+Cygwinの設定手順 | 社内SEのITメモブログ
+https://notepad-blog.com/content/98/
+------------------------------------
