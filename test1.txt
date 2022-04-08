@@ -941,14 +941,6 @@ https://www.htbasic.jp/tip/h093/index.shtml
 シリアルポートプログラミング - CAT Wiki
 https://www.si-linux.co.jp/catwiki/index.php?%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%88%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0
 
---------------------------------------------------------------
-統合開発環境SWEET - Google 検索
-https://www.google.com/search?q=%E7%B5%B1%E5%90%88%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83SWEET&rlz=1C1CHBD_jaJP839JP845&oq=%E7%B5%B1%E5%90%88%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83SWEET&aqs=chrome..69i57j0i546l4.744j0j1&sourceid=chrome&ie=UTF-8
-
---------------------------------------------------------------
-SWEET - Silicon Linux
-https://www.si-linux.co.jp/index.php?SWEET
-
 
 
 「Python3 エンジニア認定データ分析試験」とは？出…｜Udemy メディア
