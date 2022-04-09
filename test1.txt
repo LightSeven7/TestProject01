@@ -966,3 +966,11 @@ https://www.excellence-blog.com/2018/09/17/vmware%E3%81%A7%E5%9B%BA%E5%AE%9Aip%E
 C ランタイム (CRT) と C++ 標準ライブラリ .lib ファイル | Microsoft Docs
 https://docs.microsoft.com/ja-jp/cpp/c-runtime-library/crt-library-features?view=msvc-160
 ------------------------------------
+
+Elm で関数型言語[超]入門 （実は時々 Elm でやってました） - Adwaysエンジニアブログ
+https://blog.engineer.adways.net/entry/2020/10/02/150000
+------------------------------------
+
+はじめに · An Introduction to Elm
+https://guide.elm-lang.jp/
+------------------------------------
