@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/root/work/sftp-test01'
+let g:netrw_dirhist_2='/home/Dev01/Development/Sources/00_Share/Cpp_Test01'
+let g:netrw_dirhist_3='/home/Dev01/Development/Sources/Test_Git01/TestProject01/TempFolder1'
