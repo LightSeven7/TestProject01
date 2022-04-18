@@ -978,3 +978,7 @@ https://guide.elm-lang.jp/
 【入門編】プログラミング言語Juliaの特徴、メリット…｜Udemy メディア
 https://udemy.benesse.co.jp/data-science/data-analysis/julia.html
 ------------------------------------
+
+データ分析｜Udemy メディア
+https://udemy.benesse.co.jp/data-analysis/
+------------------------------------
