@@ -855,14 +855,32 @@ AWS Hands-on for Beginners - Amazon EC2 Auto Scaling スケーリング基礎編
 https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Auto_Scaling-2021-reg-event.html
 ------------------------------------
 
-=======
-WebAudioAPIを利用して、PCマイクで録音した音声をバイナリデータ化してみる
-https://zenn.dev/t___g130/articles/e11452c51530f2
-------------------------------------
-
-
 AWSのSLAとAmazon EC2上のシステム障害対策方法とは？ | ビジネス継続とITについて考える
 https://bcblog.sios.jp/aws_sla/
+------------------------------------
+
+【初心者向け】IAMとは
+https://otomosa.com/aws/aws-iam/
+------------------------------------
+
+[AWS SAA取得向け]　～S3 暗記すべきこと～
+https://otomosa.com/aws/s3-memorization/
+------------------------------------
+
+AWSの基本ネットワーク構成【単語解説版】 │ OtomosaBlog
+https://otomosa.com/aws/standard-network/
+------------------------------------
+
+【初心者向け】パブリックサブネットとプライベートサブネット
+https://otomosa.com/aws/subnet/
+------------------------------------
+
+AWSの基本ネットワーク構成【単語解説版】 │ OtomosaBlog
+https://otomosa.com/aws/standard-network/
+------------------------------------
+
+AWSの基本ネットワーク構成【ハンズオン版】
+https://otomosa.com/aws/aws-network-test-handon/
 ------------------------------------
 
 
@@ -982,3 +1000,4 @@ https://udemy.benesse.co.jp/data-science/data-analysis/julia.html
 データ分析｜Udemy メディア
 https://udemy.benesse.co.jp/data-analysis/
 ------------------------------------
+
