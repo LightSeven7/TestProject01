@@ -915,14 +915,6 @@ Windows10のスタートメニューにショートカットを追加 - Ararami 
 https://araramistudio.jimdo.com/2017/04/12/windows10%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%AB%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%82%92%E8%BF%BD%E5%8A%A0/
 ------------------------------------
 
-MFCでシリアル通信を行う。 - プログラムを書こう！
-https://www.paveway.info/entry/2018/12/11/mfc_serial
-------------------------------------
-
-www.ys-labo.com/BCB/2007/070512 RS232C zenpan.html
-http://www.ys-labo.com/BCB/2007/070512%20RS232C%20zenpan.html
-------------------------------------
-
 
 
 ■■ SerialPort関連 ■■
@@ -959,22 +951,33 @@ https://www.htbasic.jp/tip/h093/index.shtml
 シリアルポートプログラミング - CAT Wiki
 https://www.si-linux.co.jp/catwiki/index.php?%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%88%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0
 
+--------------------------------------------------------------
+MFCでシリアル通信を行う。 - プログラムを書こう！
+https://www.paveway.info/entry/2018/12/11/mfc_serial
 
-
-「Python3 エンジニア認定データ分析試験」とは？出…｜Udemy メディア
-https://udemy.benesse.co.jp/development/python-work/python3-test.html
 ------------------------------------
+www.ys-labo.com/BCB/2007/070512 RS232C zenpan.html
+http://www.ys-labo.com/BCB/2007/070512%20RS232C%20zenpan.html
 
+------------------------------------
 実践C++/CLI 極めるための基礎と実用テクニック | 中 博俊 |本 | 通販 | Amazon
 https://www.amazon.co.jp/exec/obidos/ASIN/4797336277/paveway-22/
-------------------------------------
-
-Cygwinの設定手順 | 社内SEのITメモブログ
-https://notepad-blog.com/content/98/
-------------------------------------
 
 （03）C#から、C++の関数の実行（関数）: WAKU-TAKE-A PROGRAM
 https://waku-take-a.github.io/%25EF%25BC%258803%25EF%25BC%2589C%2523%25E3%2581%258B%25E3%2582%2589%25E3%2580%2581C%252B%252B%25E3%2581%25AE%25E9%2596%25A2%25E6%2595%25B0%25E3%2581%25AE%25E5%25AE%259F%25E8%25A1%258C%25EF%25BC%2588%25E9%2596%25A2%25E6%2595%25B0%25EF%25BC%2589.html
+------------------------------------
+
+
+
+
+
+------------------------------------
+「Python3 エンジニア認定データ分析試験」とは？出…｜Udemy メディア
+https://udemy.benesse.co.jp/development/python-work/python3-test.html
+
+------------------------------------
+Cygwinの設定手順 | 社内SEのITメモブログ
+https://notepad-blog.com/content/98/
 ------------------------------------
 
 VMWAREで固定IPアドレス環境構築 - エクセレンス★ブログ
@@ -999,5 +1002,9 @@ https://udemy.benesse.co.jp/data-science/data-analysis/julia.html
 
 データ分析｜Udemy メディア
 https://udemy.benesse.co.jp/data-analysis/
+------------------------------------
+
+未経験からデータ分析を仕事にするまでに役に立った教材をまとめていく - Qiita
+https://qiita.com/hnakano863/items/02cb705181a681bea0d5#%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92
 ------------------------------------
 
