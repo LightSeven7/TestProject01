@@ -1008,3 +1008,8 @@ https://udemy.benesse.co.jp/data-analysis/
 https://qiita.com/hnakano863/items/02cb705181a681bea0d5#%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92
 ------------------------------------
 
+
+
+Windowsで他プロセスを操る - Qiita
+https://qiita.com/kumaS-kumachan/items/8ff65a7215ff21ed15f5
+------------------------------------
