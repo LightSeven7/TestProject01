@@ -151,8 +151,6 @@ https://gti.page.link/V77dt3mBYscrkbNK9
 https://gti.page.link/PkrZanzkmsTmHa2JA
 =============================================
 
-
-New URL
 Azure Portal で初めての関数を作成する | Microsoft Docs
 https://gti.page.link/WDX1oXSa4p3ZDJCN8
 =============================================
@@ -173,15 +171,8 @@ Visual Studio Code を使用して Azure で初めての関数を作成する | 
 https://gti.page.link/66y7m97GRVbsaGKs6
 =============================================
 
-
 タイトル：【Azure Private Link を使用した Azure Cache for Redis (プレビュー) | Microsoft Docs】
 アドレス：https://docs.microsoft.com/ja-jp/azure/azure-cache-for-redis/cache-private-link
-
-
-■10/30
-Visula Studio Code で超簡単・拡張機能の必要最小限のデバッグ環境を構築してみる(JavaScript編) : OFF-SOFT.net
-https://gti.page.link/2YXttqzSVNZa83rM6
-=============================================
 
 Visual Studio Code を使用して Azure で初めての関数を作成する | Microsoft Docs
 https://gti.page.link/4RbjTeUHjQpvh4Vf6
@@ -189,38 +180,6 @@ https://gti.page.link/4RbjTeUHjQpvh4Vf6
 
 クイック スタート:Node.js Web アプリを作成する - Azure App Service | Microsoft Docs
 https://gti.page.link/2hHu3VREQqScbXfy9
-=============================================
-
-Chromeの拡張機能を自作する - 虎の穴開発室ブログ
-https://gti.page.link/SP9K9zHcFBK6YfMVA
-=============================================
-
-Chrome拡張機能の作り方｜コラム｜メンバーズ
-https://gti.page.link/RMYsBLoNvSH9TMte7
-=============================================
-
-Chrome拡張機能の開発 その1-1：概要編 - Qiita
-https://gti.page.link/gr5FdR3rA5kJ2ffy7
-=============================================
-
-chrome拡張機能の配布手段まとめ - Qiita
-https://gti.page.link/ysj6wfebCcivUZ4UA
-=============================================
-
-Chromeブラウザの拡張機能を作ってみたい初心者向けに開発方法を紹介！【サンプルあり】 - Qiita
-https://gti.page.link/DbrM2wDeL2MawgSHA
-=============================================
-
-いまさらまとめるブックマークレットの作り方 〜 2016年版 〜 - 無駄と文化
-https://gti.page.link/YftsdEjqxXoQXt6B6
-=============================================
-
-Outlook で検索条件を絞り込んでより良い検索結果を得る - Outlook
-https://gti.page.link/HS7qjkN79Njhhibc7
-=============================================
-
-Linux - システムのログ
-https://gti.page.link/E21jh35iUT7KN6o66
 =============================================
 
 Azure Functions の開発に関するガイダンス | Microsoft Docs
@@ -249,6 +208,43 @@ https://gti.page.link/EJ9fGMbLMQ63knVV9
 
 Azure Private Link を使用した Azure Cache for Redis (プレビュー) | Microsoft Docs
 https://gti.page.link/HWJcgcHtnfrJ3b6E9
+=============================================
+
+
+
+
+Chromeの拡張機能を自作する - 虎の穴開発室ブログ
+https://gti.page.link/SP9K9zHcFBK6YfMVA
+=============================================
+
+Chrome拡張機能の作り方｜コラム｜メンバーズ
+https://gti.page.link/RMYsBLoNvSH9TMte7
+=============================================
+
+Chrome拡張機能の開発 その1-1：概要編 - Qiita
+https://gti.page.link/gr5FdR3rA5kJ2ffy7
+=============================================
+
+chrome拡張機能の配布手段まとめ - Qiita
+https://gti.page.link/ysj6wfebCcivUZ4UA
+=============================================
+
+Chromeブラウザの拡張機能を作ってみたい初心者向けに開発方法を紹介！【サンプルあり】 - Qiita
+https://gti.page.link/DbrM2wDeL2MawgSHA
+=============================================
+
+いまさらまとめるブックマークレットの作り方 〜 2016年版 〜 - 無駄と文化
+https://gti.page.link/YftsdEjqxXoQXt6B6
+=============================================
+
+
+
+Outlook で検索条件を絞り込んでより良い検索結果を得る - Outlook
+https://gti.page.link/HS7qjkN79Njhhibc7
+=============================================
+
+Linux - システムのログ
+https://gti.page.link/E21jh35iUT7KN6o66
 =============================================
 
 
@@ -833,6 +829,7 @@ https://wonderwall.hatenablog.com/entry/2016/04/03/235007
 ------------------------------------
 
 
+
 ■■ AWS ■■
 
 【AWS入門④】EC2の構築における基礎の基礎
@@ -1018,3 +1015,6 @@ https://qiita.com/kumaS-kumachan/items/8ff65a7215ff21ed15f5
 https://marunaka-blog.com/material-design-xaml-toolkit_wpf_01/367/
 ------------------------------------
 
+Vim中級編 コマンド一覧 | VIMATE
+https://vimate.jp/lessons/vim-02/commands
+------------------------------------
