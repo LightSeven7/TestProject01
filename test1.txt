@@ -1018,3 +1018,7 @@ https://marunaka-blog.com/material-design-xaml-toolkit_wpf_01/367/
 Vim中級編 コマンド一覧 | VIMATE
 https://vimate.jp/lessons/vim-02/commands
 ------------------------------------
+
+C言語/C++ プログラミング 入門
+http://vivi.dyndns.org/tech/cpp/cpp.html
+------------------------------------
