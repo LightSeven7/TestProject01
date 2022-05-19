@@ -1030,3 +1030,7 @@ https://node4u.info/2021/08/11/gcc%E3%81%AE%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%
 C++11 - cpprefjp C++日本語リファレンス
 https://cpprefjp.github.io/lang/cpp11.html
 ------------------------------------
+
+【3月27日】Visual Studio2017いじる＜シリアル通信サンプルを動かす＞ | リタイアエンジニアの備忘録
+http://snowwombat1.sakura.ne.jp/shinshu_makers/?p=4
+------------------------------------
