@@ -1022,3 +1022,11 @@ https://vimate.jp/lessons/vim-02/commands
 C言語/C++ プログラミング 入門
 http://vivi.dyndns.org/tech/cpp/cpp.html
 ------------------------------------
+
+gccのバージョンアップグレード（CentOS7） | Node4u ノードフォーユー：100Mbps,1Gbps,10Gbps高帯域保証レンタルサーバー
+https://node4u.info/2021/08/11/gcc%E3%81%AE%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%EF%BC%88centos7%EF%BC%89/
+------------------------------------
+
+C++11 - cpprefjp C++日本語リファレンス
+https://cpprefjp.github.io/lang/cpp11.html
+------------------------------------
