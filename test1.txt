@@ -1046,3 +1046,12 @@ https://qiita.com/ninoko1995/items/1912d1d6cfd0b5785d09
 --------------------------------------------------------------
 WPF MVVMサンプル（足し算）
 https://zenn.dev/apterygiformes/articles/79a7c9e7e15106
+
+ポインタ | C++/CLI プログラミング解説
+https://so-zou.jp/software/tech/programming/cpp-cli/grammar/type/pointer/#pin-ptr
+------------------------------------
+
+C#から使うC++ライブラリ（DLL）の作成方法 | イメージングソリューション
+https://imagingsolution.net/program/buld_csharp_cppdll/
+------------------------------------
+
