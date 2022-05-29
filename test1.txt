@@ -1055,3 +1055,39 @@ C#から使うC++ライブラリ（DLL）の作成方法 | イメージングソ
 https://imagingsolution.net/program/buld_csharp_cppdll/
 ------------------------------------
 
+
+
+/*******************************************************************************/
+
+C#グラフコントロール ScottPlot 関連
+
+【C#】ScottPlot 4.1 グラフをリアルタイムに描画する方法 【ScatterPlotList】
+https://tech-and-investment.com/scottplot41-4-realtime/
+------------------------------------
+
+【C# グラフライブラリ】ScottPlotの紹介 まとめ
+https://tech-and-investment.com/scottplot41-intoro/
+------------------------------------
+
+【C#】 グラフライブラリ 散布図の描画方法 【ScottPlot】
+https://tech-and-investment.com/scottplot2/
+------------------------------------
+
+Plot Data with ScottPlot
+https://swharden.com/csdv/plotting-free/scottplot/
+------------------------------------
+
+ScottPlot 4.1 Cookbook
+https://scottplot.net/cookbook/4.1/#radar-chart
+------------------------------------
+
+Plot Live, Changing Data - ScottPlot FAQ
+https://scottplot.net/faq/live-data/#growing-data-with-scatterplotlist
+------------------------------------
+
+/*******************************************************************************/
+
+
+MFCDLL内の関数をC#で呼び出す - プログラミング備忘録
+https://twhs.hatenadiary.org/entry/20080216/1203189125
+------------------------------------
