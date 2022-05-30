@@ -1085,6 +1085,9 @@ Plot Live, Changing Data - ScottPlot FAQ
 https://scottplot.net/faq/live-data/#growing-data-with-scatterplotlist
 ------------------------------------
 
+ScottPlot Demo
+https://scottplot.net/demo/
+------------------------------------
 
 /*******************************************************************************/
 
