@@ -1085,8 +1085,10 @@ Plot Live, Changing Data - ScottPlot FAQ
 https://scottplot.net/faq/live-data/#growing-data-with-scatterplotlist
 ------------------------------------
 
+
 /*******************************************************************************/
 
+C#→C++呼び出し
 
 MFCDLL内の関数をC#で呼び出す - プログラミング備忘録
 https://twhs.hatenadiary.org/entry/20080216/1203189125
