@@ -26,3 +26,35 @@ aaaaaaa
 
 testaaaaaaaa
 
+
+--------------------------------
+2022年6月2日
+
+高度な軸機能-ScottPlot4.1クックブック
+https://scottplot.net/cookbook/4.1/category/advanced-axis-features/#multiplier-notation
+
+
+■大きい目盛の内側に小さい目盛を付ける
+
+static string logTickLabels(double y) => Math.Pow(10, y).ToString("N0");
+formsPlot1.Plot.YAxis.TickLabelFormat(logTickLabels);
+
+※特定の割合で
+// set the number of minor ticks per major tick here
+formsPlot1.Plot.YAxis.MinorLogScale(true, minorTickCount: 20);
+
+※等間隔で
+formsPlot1.Plot.XAxis.TickLabelNotation(multiplier: true);
+formsPlot1.Plot.YAxis.TickLabelNotation(multiplier: true);
+
+
+■特定のルールで目盛をつける
+string[] labels = frequencies.Select(x => x.ToString()).ToArray();
+plt.XAxis.ManualTickPositions(positions, labels);
+plt.XAxis.TickLabelStyle(rotation: 45);
+plt.XAxis.SetSizeLimit(min: 50); // extra space for rotated ticks
+
+--
+
+double[] xs = DataGen.Consecutive(51);
+double[] sin = DataGen.Sin(51);
