@@ -1099,3 +1099,21 @@ C#→C++呼び出し
 MFCDLL内の関数をC#で呼び出す - プログラミング備忘録
 https://twhs.hatenadiary.org/entry/20080216/1203189125
 ------------------------------------
+
+
+/*******************************************************************************/
+
+C# → DBアクセス
+
+C#からMySQLを扱う（更新編） | Moonmile Solutions Blog
+https://www.moonmile.net/blog/archives/1298
+------------------------------------
+
+【C#】MySQLに接続して直接SELECT文を実行する | hiranote
+https://hirahira.blog/csharp-mysql-connect/
+------------------------------------
+
+SQLパラメータの利用 : C# | iPentec
+https://www.ipentec.com/document/csharp-sql-parameter-programming
+------------------------------------
+
