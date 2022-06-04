@@ -1117,3 +1117,9 @@ SQLパラメータの利用 : C# | iPentec
 https://www.ipentec.com/document/csharp-sql-parameter-programming
 ------------------------------------
 
+
+/*******************************************************************************/
+
+C# 言語の概要 | Microsoft Docs
+https://docs.microsoft.com/ja-jp/previous-versions/visualstudio/visual-studio-2008/zkxk2fwf(v=vs.90)
+------------------------------------
