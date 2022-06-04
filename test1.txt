@@ -1059,6 +1059,21 @@ WPF開発 備忘録
 https://blog.unikktle.com/wpf%E9%96%8B%E7%99%BA-%E5%82%99%E5%BF%98%E9%8C%B2/
 ------------------------------------
 
+[WPF] Windows 10に馴染むテーマを適用する - Qiita
+https://qiita.com/Kosen-amai/items/607b9ba3af9222aa7225
+------------------------------------
+
+Windows Presentation Foundation の概要 - WPF .NET | Microsoft Docs
+https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/overview/?view=netdesktop-5.0
+------------------------------------
+
+Visual Studio での新しいアプリの作成に関するチュートリアル - WPF .NET | Microsoft Docs
+https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/get-started/create-app-visual-studio?view=netdesktop-5.0
+------------------------------------
+
+
+
+
 
 /*******************************************************************************/
 

@@ -58,3 +58,13 @@ plt.XAxis.SetSizeLimit(min: 50); // extra space for rotated ticks
 
 double[] xs = DataGen.Consecutive(51);
 double[] sin = DataGen.Sin(51);
+
+
+----------------------------------------------------------------
+
+C# WPF 用パッケージ
+
+Microsoft.Toolkit.Mvvm
+ModernWpfUI
+ModernWpf.MessageBox
+MaterialDesignThemes
