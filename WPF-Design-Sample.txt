@@ -1,0 +1,85 @@
+
+-- ボタンの外観を水色のだ円形に変えるテンプレート
+<Button>
+  <Button.Template>
+    <ControlTemplate TargetType="Button">
+      <Ellipse Fill="LightBlue" Width="80" Height="30"/>
+    </ControlTemplate>
+  </Button.Template>
+</Button>
+
+
+>> スタイルの利用例
+<StackPanel>
+  <StackPanel.Resources>
+    <!-- x:Key なしのスタイルを定義することで、
+         TargetType で指定した型すべてにスタイルを適用する -->
+    <Style TargetType="Button">
+      <Setter Property="Background" Value="LightBlue" />
+      <Setter Property="Foreground" Value="Red" />
+    </Style>
+
+    <!-- x:Key の明示 -->
+    <Style x:Key="MyButtonStyle" TargetType="Button">
+      <Setter Property="Background" Value="DarkSeaGreen" />
+      <Setter Property="Foreground" Value="LightPink" />
+    </Style>
+  </StackPanel.Resources>
+
+  <!-- スタイルの自動適用 -->
+  <Button Content="ボタン1" />
+
+  <!-- x:Key を指定して明示的にスタイルを適用 -->
+  <Button Style="{StaticResource MyButtonStyle}"
+          Content="ボタン2" />
+
+  <!-- スタイルを直接記述 -->
+  <Button Content="ボタン3">
+    <Button.Style>
+      <Style TargetType="Button">
+        <Setter Property="Background" Value="Gray" />
+      </Style>
+    </Button.Style>
+  </Button>
+</StackPanel>
+<< スタイルの利用例
+
+
+>> コントロール・テンプレートの自動適用例
+<StackPanel Width="80">
+  <StackPanel.Resources>
+    <Style TargetType="Button">
+      <Setter Property="Template">
+        <Setter.Value>
+          <ControlTemplate TargetType="Button">
+            <Grid>
+              <Ellipse Fill="{TemplateBinding Background}"/>
+              <ContentPresenter
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"/>
+            </Grid>
+          </ControlTemplate>
+        </Setter.Value>
+      </Setter>
+    </Style>
+  </StackPanel.Resources>
+
+  <Button Content="ボタン1" Background="LightBlue" Height="30" />
+  <Button Content="ボタン2" Background="LightPink" Height="30" />
+
+</StackPanel>
+
+※<ContentPresenter>要素： この要素が置かれた位置にコントロールの中身（＝Contentプロパティに与えた値）が配置される。
+　TemplateBindingマークアップ拡張： コントロール・テンプレートの適用先のコントロールに与えられたプロパティ値を取得するために利用する。
+<< コントロール・テンプレートの自動適用例
+
+
+>> UI要素間でのデータ・バインディング（XAML）
+<StackPanel>
+  <TextBox x:Name="textValue" />
+  <Slider Value="{Binding ElementName=textValue, Path=Text}" />
+</StackPanel>
+※スライダーのつまみを動かすと、即座にテキストが変化する
+<< UI要素間でのデータ・バインディング（XAML）
+
+

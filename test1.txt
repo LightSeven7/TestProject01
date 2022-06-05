@@ -1011,10 +1011,6 @@ Windowsで他プロセスを操る - Qiita
 https://qiita.com/kumaS-kumachan/items/8ff65a7215ff21ed15f5
 ------------------------------------
 
-【WPF】Material Designでオシャレな画面デザインに変更する方法｜○NAKA BLOG
-https://marunaka-blog.com/material-design-xaml-toolkit_wpf_01/367/
-------------------------------------
-
 Vim中級編 コマンド一覧 | VIMATE
 https://vimate.jp/lessons/vim-02/commands
 ------------------------------------
@@ -1090,8 +1086,9 @@ MaterialDesignInXAML/MaterialDesignInXamlToolkit: Google's Material Design in XA
 https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
 ------------------------------------
 
-
-
+第9回　WPFの「グラフィックス」を学ぼう：連載：WPF入門（1/2 ページ） - ＠IT
+https://atmarkit.itmedia.co.jp/ait/articles/1102/02/news100.html
+------------------------------------
 
 
 /*******************************************************************************/
