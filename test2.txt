@@ -68,3 +68,4 @@ Microsoft.Toolkit.Mvvm
 ModernWpfUI
 ModernWpf.MessageBox
 MaterialDesignThemes
+
