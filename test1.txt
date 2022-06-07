@@ -1094,6 +1094,10 @@ https://atmarkit.itmedia.co.jp/ait/articles/1102/02/news100.html
 https://www.youtube.com/watch?v=UtPQMXCXztM
 ------------------------------------
 
+(201) WPF C# Professional Modern Flat UI Tutorial - YouTube
+https://www.youtube.com/watch?v=PzP8mw7JUzI&ab_channel=Payload
+------------------------------------
+
 
 /*******************************************************************************/
 
