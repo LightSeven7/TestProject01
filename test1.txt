@@ -1114,6 +1114,10 @@ https://zenn.dev/apterygiformes/articles/026d501aa6fef8
 https://www.youtube.com/watch?v=Ghr0xKEyCOE
 ------------------------------------
 
+Binding - 文系のための.NET備忘録
+https://wiki3.jp/dotnetmemo/page/8
+------------------------------------
+
 
 
 /*******************************************************************************/

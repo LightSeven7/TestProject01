@@ -68,4 +68,13 @@ Microsoft.Toolkit.Mvvm
 ModernWpfUI
 ModernWpf.MessageBox
 MaterialDesignThemes
+SSH.NET
+CalcBinding
+
+Modeは、OneTime、OneWay、TwoWay、OneWayToSourceなどがある。
+
+　[OneTime]はアプリケーション起動時にのみ変更。
+　[OneWay]は相手が変更されたときに自分が変更される。
+　[TwoWay]は自分も相手も変更しあう。だから双方向で連動させたいときはTwoWay。
+　[OneWayToSource]は自分が変更されたときに相手が変更される。
 
