@@ -1122,6 +1122,10 @@ https://wiki3.jp/dotnetmemo/page/8
 https://marunaka-blog.com/material-designwpf-dialoghost/456/
 ------------------------------------
 
+【WPF】MahApps.Metroの使い方（デザインをかっこよくする）｜○NAKA BLOG
+https://marunaka-blog.com/wpf-mahapps-metro/5090/
+------------------------------------
+
 
 /*******************************************************************************/
 
