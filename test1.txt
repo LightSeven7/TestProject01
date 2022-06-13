@@ -1118,6 +1118,9 @@ Binding - 文系のための.NET備忘録
 https://wiki3.jp/dotnetmemo/page/8
 ------------------------------------
 
+【WPF】Material Designでオシャレなダイアログを表示する方法｜○NAKA BLOG
+https://marunaka-blog.com/material-designwpf-dialoghost/456/
+------------------------------------
 
 
 /*******************************************************************************/
