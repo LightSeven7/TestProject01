@@ -1126,6 +1126,10 @@ https://marunaka-blog.com/material-designwpf-dialoghost/456/
 https://marunaka-blog.com/wpf-mahapps-metro/5090/
 ------------------------------------
 
+【C#】文字認識をWindows10のOCRでやってみた！｜○NAKA BLOG
+https://marunaka-blog.com/wpf-ocr-windows10/2260/
+------------------------------------
+
 
 /*******************************************************************************/
 
