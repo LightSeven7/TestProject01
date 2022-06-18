@@ -1130,6 +1130,10 @@ https://marunaka-blog.com/wpf-mahapps-metro/5090/
 https://marunaka-blog.com/wpf-ocr-windows10/2260/
 ------------------------------------
 
+MVVM フレームワーク充のススメ step: 2 | :: halation ghost ::
+https://elf-mission.net/programming/wpf/getting-started-2020/step02/
+------------------------------------
+
 
 /*******************************************************************************/
 
