@@ -1134,6 +1134,10 @@ MVVM フレームワーク充のススメ step: 2 | :: halation ghost ::
 https://elf-mission.net/programming/wpf/getting-started-2020/step02/
 ------------------------------------
 
+WPF 初心者が ReactiveProperty を使ってみた | MSeeeeN | 大阪発 IT メディア by MSEN
+https://mseeeen.msen.jp/reactive-property-programming-by-wpf-beginner/
+------------------------------------
+
 
 /*******************************************************************************/
 
