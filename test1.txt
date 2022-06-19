@@ -814,6 +814,10 @@ WebAudioAPIを利用して、PCマイクで録音した音声をバイナリデ�
 https://zenn.dev/t___g130/articles/e11452c51530f2
 ------------------------------------
 
+JavaScriptだけ！ブラウザで録音＆ファイル保存する方法 – console dot log
+https://blog.capilano-fw.com/?p=5351
+------------------------------------
+
 
 ■■ Git ■■
 
