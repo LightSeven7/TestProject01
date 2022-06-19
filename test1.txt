@@ -1114,10 +1114,6 @@ https://zenn.dev/apterygiformes/articles/026d501aa6fef8
 https://www.youtube.com/watch?v=Ghr0xKEyCOE
 ------------------------------------
 
-Binding - 文系のための.NET備忘録
-https://wiki3.jp/dotnetmemo/page/8
-------------------------------------
-
 【WPF】Material Designでオシャレなダイアログを表示する方法｜○NAKA BLOG
 https://marunaka-blog.com/material-designwpf-dialoghost/456/
 ------------------------------------
@@ -1140,6 +1136,18 @@ https://mseeeen.msen.jp/reactive-property-programming-by-wpf-beginner/
 
 MVVM をリアクティブプログラミングで快適に ReactiveProperty オーバービュー 2020 年版 前編 - Qiita
 https://qiita.com/okazuki/items/7572f46848d0e93516b1
+------------------------------------
+
+【WPF】Binding入門2。Binding対象を変更するには | さんさめのC＃ブログ
+https://threeshark3.com/wpf-binding-source/
+------------------------------------
+
+【WPF】boolを任意のVisibilityプロパティにBindingする方法 | さんさめのC＃ブログ
+https://threeshark3.com/bool-to-visibility/
+------------------------------------
+
+Binding - 文系のための.NET備忘録
+https://wiki3.jp/dotnetmemo/page/8
 ------------------------------------
 
 
