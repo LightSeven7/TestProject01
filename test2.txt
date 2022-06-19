@@ -67,9 +67,11 @@ C# WPF 用パッケージ
 Microsoft.Toolkit.Mvvm
 ModernWpfUI
 ModernWpf.MessageBox
-MaterialDesignThemes
-SSH.NET
 CalcBinding
+ReactiveProperty
+SSH.NET
+
+MaterialDesignThemes(+Color)
 MahApps.Metro
 MahApps.Metro.IconPacks
 
