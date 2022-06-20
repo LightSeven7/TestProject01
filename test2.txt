@@ -71,7 +71,9 @@ CalcBinding
 ReactiveProperty
 SSH.NET
 
-MaterialDesignThemes(+Color)
+MaterialDesignThemes
+MaterialDesignColors
+
 MahApps.Metro
 MahApps.Metro.IconPacks
 
