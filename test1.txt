@@ -1235,3 +1235,7 @@ http://recognition.web.fc2.com/
 https://line.worksmobile.com/jp/cases/industry/medical/
 ------------------------------------
 
+
+ハンズオン資料 | AWS クラウドサービス活用資料集
+https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-hands-on/
+------------------------------------
