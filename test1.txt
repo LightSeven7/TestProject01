@@ -88,13 +88,10 @@ Visual Studio Code キーボード ショートカット - Qiita
 https://qiita.com/oruponu/items/ae9c720d4522c1606daf
 ------------------------------------------------------------------
 
-レスポンシブで滑らかなフレームアニメーションをCSSとJSで実装する方法 - WPJ
-https://www.webprofessional.jp/frame-by-frame-animation-css-javascript/
-------------------------------------------------------------------
-
 【CentOS 7 : インストール : Server World】
 https://www.server-world.info/query?os=CentOS_7&p=install
 ---------------------------------------------------------
+
 
 タイトル：【Visula Studio Code で超簡単・拡張機能の必要最小限のデバッグ環境を構築してみる(JavaScript編) : OFF-SOFT.net】
 アドレス：https://www.off-soft.net/ja/software/develop2/visula-studio-code-simple-extension2.html#javascript_extension_3
@@ -401,10 +398,6 @@ Vimメモ : fzf（fuzzy finder）と連携するfzf.vimの使い方 - もた日�
 https://wonderwall.hatenablog.com/entry/2017/10/07/220000
 ------------------------------------
 
-JavaScript: Promiseやasync/awaitのメモ
-https://zenn.dev/kyome/articles/d9348df05ad778
-------------------------------------
-
 VSCodeのおすすめ拡張機能と便利な設定、キーバインド集
 https://zenn.dev/ruru/articles/396265425c9740
 ------------------------------------
@@ -484,16 +477,9 @@ https://www.sejuku.net/blog/45297
 Visual Studio Code キーボード ショートカット - Qiita
 https://qiita.com/oruponu/items/ae9c720d4522c1606daf
 ------------------------------------------------------------------
-レスポンシブで滑らかなフレームアニメーションをCSSとJSで実装する方法 - WPJ
-https://www.webprofessional.jp/frame-by-frame-animation-css-javascript/
-------------------------------------------------------------------
 
 【CentOS 7 : インストール : Server World】
 https://www.server-world.info/query?os=CentOS_7&p=install
----------------------------------------------------------
-
-タイトル：【Visula Studio Code で超簡単・拡張機能の必要最小限のデバッグ環境を構築してみる(JavaScript編) : OFF-SOFT.net】
-アドレス：https://www.off-soft.net/ja/software/develop2/visula-studio-code-simple-extension2.html#javascript_extension_3
 ---------------------------------------------------------
 
 タイトル：【いまさらまとめるブックマークレットの作り方 〜 2016年版 〜 - 無駄と文化】
@@ -805,6 +791,10 @@ https://wonderwall.hatenablog.com/entry/2016/10/01/194215
 
 
 ■■ JavaScript ■■
+
+レスポンシブで滑らかなフレームアニメーションをCSSとJSで実装する方法 - WPJ
+https://www.webprofessional.jp/frame-by-frame-animation-css-javascript/
+------------------------------------------------------------------
 
 JavaScript: Promiseやasync/awaitのメモ
 https://zenn.dev/kyome/articles/d9348df05ad778
@@ -1238,4 +1228,9 @@ https://line.worksmobile.com/jp/cases/industry/medical/
 
 ハンズオン資料 | AWS クラウドサービス活用資料集
 https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-hands-on/
+------------------------------------
+
+
+[初心者向け]AWS Certificate Managerを使用してインターネットからELBへの通信をHTTPS化してみた | DevelopersIO
+https://dev.classmethod.jp/articles/for-begginer-ssl-communication-by-aws-certificate-manager/
 ------------------------------------
