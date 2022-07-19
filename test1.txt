@@ -1234,3 +1234,7 @@ https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-hands-on/
 [初心者向け]AWS Certificate Managerを使用してインターネットからELBへの通信をHTTPS化してみた | DevelopersIO
 https://dev.classmethod.jp/articles/for-begginer-ssl-communication-by-aws-certificate-manager/
 ------------------------------------
+
+AWS Pricing Calculator AWS料金計算ツール
+https://calculator.aws/#/
+------------------------------------
