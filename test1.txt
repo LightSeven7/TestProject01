@@ -1235,6 +1235,18 @@ https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-hands-on/
 https://dev.classmethod.jp/articles/for-begginer-ssl-communication-by-aws-certificate-manager/
 ------------------------------------
 
+
 AWS Pricing Calculator AWS料金計算ツール
 https://calculator.aws/#/
+------------------------------------
+
+
+【YouTube】チャンネルページのヘッダーをスタイリッシュにするCSS | ナポリタン寿司のPC日記
+https://www.naporitansushi.com/youtube-header-customize-css/
+------------------------------------
+QTTabBar - QuizoApps
+http://qttabbar-ja.wikidot.com/
+------------------------------------
+【QTTabBar】グループ化の使い方。よく使うフォルダーをまとめてみよう！ | ナポリタン寿司のPC日記
+https://www.naporitansushi.com/qttabbar-group/
 ------------------------------------
