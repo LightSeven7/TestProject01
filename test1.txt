@@ -1221,20 +1221,13 @@ https://docs.microsoft.com/ja-jp/previous-versions/visualstudio/visual-studio-20
 http://recognition.web.fc2.com/
 ------------------------------------
 
-医療・福祉・介護 - LINE WORKS
-https://line.worksmobile.com/jp/cases/industry/medical/
-------------------------------------
-
-
 ハンズオン資料 | AWS クラウドサービス活用資料集
 https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-hands-on/
 ------------------------------------
 
-
 [初心者向け]AWS Certificate Managerを使用してインターネットからELBへの通信をHTTPS化してみた | DevelopersIO
 https://dev.classmethod.jp/articles/for-begginer-ssl-communication-by-aws-certificate-manager/
 ------------------------------------
-
 
 AWS Pricing Calculator AWS料金計算ツール
 https://calculator.aws/#/
@@ -1244,9 +1237,11 @@ https://calculator.aws/#/
 【YouTube】チャンネルページのヘッダーをスタイリッシュにするCSS | ナポリタン寿司のPC日記
 https://www.naporitansushi.com/youtube-header-customize-css/
 ------------------------------------
+
 QTTabBar - QuizoApps
 http://qttabbar-ja.wikidot.com/
 ------------------------------------
+
 【QTTabBar】グループ化の使い方。よく使うフォルダーをまとめてみよう！ | ナポリタン寿司のPC日記
 https://www.naporitansushi.com/qttabbar-group/
 ------------------------------------
