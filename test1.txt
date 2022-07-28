@@ -1249,3 +1249,7 @@ https://www.naporitansushi.com/qttabbar-group/
 kernelとgccのアップデート CentOS7 | Node4u ノードフォーユー：100Mbps,1Gbps,10Gbps高帯域保証レンタルサーバー
 https://node4u.info/2022/07/03/kernel%e3%81%a8gcc%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%80%80centos7/
 ------------------------------------
+
+【2021年以降】コマンドラインからgithubにpush/pullすると接続エラーになる | トリオス
+https://trios.pro/github-403-error/
+------------------------------------
