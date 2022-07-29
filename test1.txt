@@ -1261,3 +1261,8 @@ https://node4u.info/2022/07/03/kernel%e3%81%a8gcc%e3%81%ae%e3%82%a2%e3%83%83%e3%
 【2021年以降】コマンドラインからgithubにpush/pullすると接続エラーになる | トリオス
 https://trios.pro/github-403-error/
 ------------------------------------
+
+
+Amazon S3 バケットの静的なウェブサイトにドメインを使用する - Amazon Route 53
+https://docs.aws.amazon.com/ja_jp/Route53/latest/DeveloperGuide/getting-started-s3.html
+------------------------------------
