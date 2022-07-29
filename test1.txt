@@ -72,6 +72,8 @@ https://qiita.com/mk0812/items/c0526812e89249b93239
 https://qiita.com/chihiro/items/2fa827d0eac98109e7ee
 ------------------------------------------------------------------
 
+
+
 jQueryで「name」を操作・取得する便利技のまとめ！ | 侍エンジニア塾ブログ（Samurai Blog） - プログラミング入門者向けサイト
 https://www.sejuku.net/blog/33854
 --------------------------------------------------------------
@@ -84,18 +86,23 @@ https://www.flatflag.nir87.com/name-1264
 https://www.sejuku.net/blog/45297
 ------------------------------------------------------------------
 
+
+
 Visual Studio Code キーボード ショートカット - Qiita
 https://qiita.com/oruponu/items/ae9c720d4522c1606daf
 ------------------------------------------------------------------
+
+タイトル：【Visula Studio Code で超簡単・拡張機能の必要最小限のデバッグ環境を構築してみる(JavaScript編) : OFF-SOFT.net】
+アドレス：https://www.off-soft.net/ja/software/develop2/visula-studio-code-simple-extension2.html#javascript_extension_3
+---------------------------------------------------------
+
+
 
 【CentOS 7 : インストール : Server World】
 https://www.server-world.info/query?os=CentOS_7&p=install
 ---------------------------------------------------------
 
 
-タイトル：【Visula Studio Code で超簡単・拡張機能の必要最小限のデバッグ環境を構築してみる(JavaScript編) : OFF-SOFT.net】
-アドレス：https://www.off-soft.net/ja/software/develop2/visula-studio-code-simple-extension2.html#javascript_extension_3
----------------------------------------------------------
 
 タイトル：【いまさらまとめるブックマークレットの作り方 〜 2016年版 〜 - 無駄と文化】
 アドレス：https://blog.mudatobunka.org/entry/2016/02/29/030633
@@ -106,6 +113,7 @@ https://www.server-world.info/query?os=CentOS_7&p=install
 タイトル：【K'confが選ぶ30個のブックマークレット - K'conf】
 アドレス：http://kenz0.s201.xrea.com/weblog/2007/12/post_95.html
 ---------------------------------------------------------
+
 
 2020/08/30 add
 --------------------------------------------------------------
