@@ -1283,3 +1283,7 @@ https://www.freenom.com/ja/index.html
 7. Route53で独自ドメインのDNSを設定する | 最新ウェブ制作ノウハウ【100ウェブ】
 https://100webdesign.jp/services/web_knowhow/aws-site/web_knowhow-21161/
 ------------------------------------
+
+Python初心者でも音声認識に挑戦したい！ゼロから分かる解説 | TechTeacher Blog
+https://www.tech-teacher.jp/blog/python_voicerecognition/
+------------------------------------
