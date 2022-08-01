@@ -1275,3 +1275,7 @@ https://appli-world.jp/posts/3384
 [Route53] 無料ドメインを使用してEC2のコンテンツを表示してみた | DevelopersIO
 https://dev.classmethod.jp/articles/free-domain-ec2-web-server-access/
 ------------------------------------
+
+Freenom - 誰でも利用できる名前
+https://www.freenom.com/ja/index.html
+------------------------------------
