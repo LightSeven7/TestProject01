@@ -1279,3 +1279,7 @@ https://dev.classmethod.jp/articles/free-domain-ec2-web-server-access/
 Freenom - 誰でも利用できる名前
 https://www.freenom.com/ja/index.html
 ------------------------------------
+
+7. Route53で独自ドメインのDNSを設定する | 最新ウェブ制作ノウハウ【100ウェブ】
+https://100webdesign.jp/services/web_knowhow/aws-site/web_knowhow-21161/
+------------------------------------
