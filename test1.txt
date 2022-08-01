@@ -1266,3 +1266,8 @@ https://trios.pro/github-403-error/
 Amazon S3 バケットの静的なウェブサイトにドメインを使用する - Amazon Route 53
 https://docs.aws.amazon.com/ja_jp/Route53/latest/DeveloperGuide/getting-started-s3.html
 ------------------------------------
+
+
+Audacityのダウンロードとインストール方法を詳しく解説【無料・音声編集ソフト】 | スマホアプリやiPhone/Androidスマホなどの各種デバイスの使い方・最新情報を紹介するメディアです。
+https://appli-world.jp/posts/3384
+------------------------------------
