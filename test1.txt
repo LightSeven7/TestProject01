@@ -1271,3 +1271,7 @@ https://docs.aws.amazon.com/ja_jp/Route53/latest/DeveloperGuide/getting-started-
 Audacityのダウンロードとインストール方法を詳しく解説【無料・音声編集ソフト】 | スマホアプリやiPhone/Androidスマホなどの各種デバイスの使い方・最新情報を紹介するメディアです。
 https://appli-world.jp/posts/3384
 ------------------------------------
+
+[Route53] 無料ドメインを使用してEC2のコンテンツを表示してみた | DevelopersIO
+https://dev.classmethod.jp/articles/free-domain-ec2-web-server-access/
+------------------------------------
