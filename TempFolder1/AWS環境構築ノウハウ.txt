@@ -1,0 +1,31 @@
+
+## ■Googleアカウント
+* Mail：alpha.kuvotak@gmail.com
+* PW：Kubo...(いつもの)
+***
+
+## ■Githubアカウント
+* Mail：k-kubota@alpha-sy.co.jp
+* PW：AlphaAs01
+* UserName：AlphaMember
+***
+
+## ■AWS開発用アカウント
+* Mail：k-kubota@alpha-sy.co.jp
+* PW：alphaAs0!
+
+## ■Backlogアカウント
+https://apps.nulab.com/signin
+メアド：k-kubota@alpha-sy.co.jp
+PW：AlphaAs0!
+
+-----
+
+
+ドメインを取得する｜ドメイン取るならお名前.com
+https://www.onamae.com/service/domainregist/?btn_id=commonfooter_domainregist
+------------------------------------
+
+[Route53] 無料ドメインを使用してEC2のコンテンツを表示してみた | DevelopersIO
+https://dev.classmethod.jp/articles/free-domain-ec2-web-server-access/
+------------------------------------
