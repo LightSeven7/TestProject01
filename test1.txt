@@ -1291,3 +1291,7 @@ https://www.tech-teacher.jp/blog/python_voicerecognition/
 Amazon Route 53 Private Hosted Zoneを異なるAWSアカウントに設定する | DevelopersIO
 https://dev.classmethod.jp/articles/set-route-53-private-zone-across-accounts/
 ------------------------------------
+
+Password Check | Kaspersky
+https://password.kaspersky.com/jp/
+------------------------------------
