@@ -1295,3 +1295,23 @@ https://dev.classmethod.jp/articles/set-route-53-private-zone-across-accounts/
 Password Check | Kaspersky
 https://password.kaspersky.com/jp/
 ------------------------------------
+
+--------------------------------------------------------------
+【SSS】VeraCryptをダウンロードして暗号化領域を作る
+https://excesssecurity.com/veracrypt/#toc4
+
+--------------------------------------------------------------
+【SSS】ガチ勢分析！KeePassのココがすごい
+https://excesssecurity.com/keepass-password-safe/
+
+--------------------------------------------------------------
+【SSS】KeePassの日本語化とインストール
+https://excesssecurity.com/keepass-download-install/
+
+--------------------------------------------------------------
+【SSS】どこよりも詳しいKeePass自動入力などの設定と使い方
+https://excesssecurity.com/keepass-advanced-auto-type/
+
+--------------------------------------------------------------
+【2.51】KeePass最新版へのアップデート方法
+https://excesssecurity.com/keepass-update-method/
