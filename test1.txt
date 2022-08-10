@@ -1364,3 +1364,13 @@ https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/application/load-b
 [初心者向け]AWS Certificate Managerを使用してインターネットからELBへの通信をHTTPS化してみた | DevelopersIO
 https://dev.classmethod.jp/articles/for-begginer-ssl-communication-by-aws-certificate-manager/
 ------------------------------------
+
+
+
+大語彙連続音声認識エンジン Julius
+https://julius.osdn.jp/
+---------------------------------------------------
+
+認識精度はいかほど？音声認識ツールを試してみた | MISO
+https://www.tdi.co.jp/miso/julius-voice-recognition
+---------------------------------------------------
