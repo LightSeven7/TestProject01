@@ -1296,6 +1296,8 @@ Password Check | Kaspersky
 https://password.kaspersky.com/jp/
 ------------------------------------
 
+
+
 --------------------------------------------------------------
 【SSS】VeraCryptをダウンロードして暗号化領域を作る
 https://excesssecurity.com/veracrypt/#toc4
@@ -1315,3 +1317,54 @@ https://excesssecurity.com/keepass-advanced-auto-type/
 --------------------------------------------------------------
 【2.51】KeePass最新版へのアップデート方法
 https://excesssecurity.com/keepass-update-method/
+
+
+
+
+【AWS】パブリックサブネットとプライベートサブネットを作成し所属するそれぞれのEC2インスタンスがインターネットに出ていける設定 | 100%レンタルサーバーを使いこなすサイト
+https://go-journey.club/archives/8135
+------------------------------------
+
+【初心者向け】簡単なAWS環境を構築してEC2インスタンスにアクセスしよう - サーバーワークスエンジニアブログ
+https://blog.serverworks.co.jp/2021/09/28/172433
+------------------------------------
+
+AWS クラウド無料利用枠 | AWS
+https://aws.amazon.com/jp/free/?sc_channel=em&sc_campaign=wlcm&sc_publisher=aws&sc_medium=em_wlcm_1d&sc_detail=wlcm_1d&sc_content=other&sc_country=global&sc_geo=global&sc_category=mult&ref_=pe_1679150_261538020&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all&all-free-tier.q=Elastic%2BIP&all-free-tier.q_operator=AND
+---------------------------------------------------
+
+ハンズオン資料 | AWS クラウドサービス活用資料集
+https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-hands-on/
+---------------------------------------------------
+
+[Route53] 無料ドメインを使用してEC2のコンテンツを表示してみた | DevelopersIO
+https://dev.classmethod.jp/articles/free-domain-ec2-web-server-access/
+---------------------------------------------------
+
+Amazon Route 53 Private DNSを複数VPCに適用する | DevelopersIO
+https://dev.classmethod.jp/articles/route-53-private-dns-associate/
+---------------------------------------------------
+
+Amazon Route 53 Private Hosted Zoneを異なるAWSアカウントに設定する | DevelopersIO
+https://dev.classmethod.jp/articles/set-route-53-private-zone-across-accounts/
+---------------------------------------------------
+
+VPCを使用してプライベートサブネットを構築する
+https://wellknowledge.org/vpc-subnet/
+---------------------------------------------------
+
+AWS で プライベートサブネット内 EC2 へのSSH接続方法｜株式会社ネットアシスト
+https://www.netassist.ne.jp/techblog/13668/
+---------------------------------------------------
+
+【AWS】プライベートサブネットにEC2を追加するメモ | beginners Hub
+https://se.yuttar-ixm.com/aws-ec2-private/
+---------------------------------------------------
+
+Application Load Balancer の作成 - Elastic Load Balancing
+https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/application/create-application-load-balancer.html
+---------------------------------------------------
+
+Application Load Balancer のターゲットグループ - Elastic Load Balancing
+https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/application/load-balancer-target-groups.html
+---------------------------------------------------
