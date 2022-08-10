@@ -1229,14 +1229,6 @@ https://docs.microsoft.com/ja-jp/previous-versions/visualstudio/visual-studio-20
 http://recognition.web.fc2.com/
 ------------------------------------
 
-ハンズオン資料 | AWS クラウドサービス活用資料集
-https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-hands-on/
-------------------------------------
-
-[初心者向け]AWS Certificate Managerを使用してインターネットからELBへの通信をHTTPS化してみた | DevelopersIO
-https://dev.classmethod.jp/articles/for-begginer-ssl-communication-by-aws-certificate-manager/
-------------------------------------
-
 AWS Pricing Calculator AWS料金計算ツール
 https://calculator.aws/#/
 ------------------------------------
@@ -1368,3 +1360,7 @@ https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/application/create
 Application Load Balancer のターゲットグループ - Elastic Load Balancing
 https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/application/load-balancer-target-groups.html
 ---------------------------------------------------
+
+[初心者向け]AWS Certificate Managerを使用してインターネットからELBへの通信をHTTPS化してみた | DevelopersIO
+https://dev.classmethod.jp/articles/for-begginer-ssl-communication-by-aws-certificate-manager/
+------------------------------------
