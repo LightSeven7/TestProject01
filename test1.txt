@@ -1374,3 +1374,7 @@ https://julius.osdn.jp/
 認識精度はいかほど？音声認識ツールを試してみた | MISO
 https://www.tdi.co.jp/miso/julius-voice-recognition
 ---------------------------------------------------
+
+外出先から自宅のPCを操作したい！（リモートデスクトップの設定） - でじねこ本舗
+https://www.blue-star.jp/i-want-to-control-my-home-pc-from-outside-with-remote-desktop/
+------------------------------------
