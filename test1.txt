@@ -1384,3 +1384,57 @@ https://impro-make.com/%E8%90%8C%E3%81%88%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%8B%E3
 【AWS】パブリックサブネットとプライベートサブネットを作成し所属するそれぞれのEC2インスタンスがインターネットに出ていける設定 | 100%レンタルサーバーを使いこなすサイト
 https://go-journey.club/archives/8135#%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%82%B5%E3%83%96%E3%83%8D%E3%83%83%E3%83%88%E3%81%ABEC2%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B%E6%89%8B%E9%A0%86
 ------------------------------------
+
+---
+
+AWS クラウド無料利用枠 | AWS
+https://aws.amazon.com/jp/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%2312monthsfree&awsf.Free%20Tier%20Categories=*all&awsf.tech-category=tech-category%23storage&awsm.page-all-free-tier=4
+---------------------------------------------------
+
+【AWS】パブリックサブネットとプライベートサブネットを作成し所属するそれぞれのEC2インスタンスがインターネットに出ていける設定 | 100%レンタルサーバーを使いこなすサイト
+https://go-journey.club/archives/8135#%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B5%E3%83%96%E3%83%8D%E3%83%83%E3%83%88%E3%81%ABEC2%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B%E6%89%8B%E9%A0%86-2
+---------------------------------------------------
+
+起動中のEC2インスタンス(WordPress)にELBを設定してみる | DevelopersIO
+https://dev.classmethod.jp/articles/sales-ec2-elb-session/
+---------------------------------------------------
+
+【AWS】プライベートサブネットにEC2を追加するメモ | beginners Hub
+https://se.yuttar-ixm.com/aws-ec2-private/
+---------------------------------------------------
+
+AWS で プライベートサブネット内 EC2 へのSSH接続方法｜株式会社ネットアシスト
+https://www.netassist.ne.jp/techblog/13668/
+---------------------------------------------------
+
+Amazon Route 53 Private DNSを複数VPCに適用する | DevelopersIO
+https://dev.classmethod.jp/articles/route-53-private-dns-associate/
+---------------------------------------------------
+
+Amazon Route 53 Private Hosted Zoneを異なるAWSアカウントに設定する | DevelopersIO
+https://dev.classmethod.jp/articles/set-route-53-private-zone-across-accounts/
+---------------------------------------------------
+
+VPCを使用してプライベートサブネットを構築する
+https://wellknowledge.org/vpc-subnet/
+---------------------------------------------------
+
+Application Load Balancer の作成 - Elastic Load Balancing
+https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/application/create-application-load-balancer.html#configure-load-balancer
+---------------------------------------------------
+
+Application Load Balancer のターゲットグループ - Elastic Load Balancing
+https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/application/load-balancer-target-groups.html
+---------------------------------------------------
+
+7. Route53で独自ドメインのDNSを設定する | 最新ウェブ制作ノウハウ【100ウェブ】
+https://100webdesign.jp/services/web_knowhow/aws-site/web_knowhow-21161/
+---------------------------------------------------
+
+[Route53] 無料ドメインを使用してEC2のコンテンツを表示してみた | DevelopersIO
+https://dev.classmethod.jp/articles/free-domain-ec2-web-server-access/
+---------------------------------------------------
+
+インスタンスの詳細 | EC2 Management Console
+https://ap-northeast-1.console.aws.amazon.com/ec2/home?region=ap-northeast-1#InstanceDetails:instanceId=i-0d1c3c5f00484d9cf
+---------------------------------------------------
