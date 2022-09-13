@@ -1438,3 +1438,7 @@ https://dev.classmethod.jp/articles/free-domain-ec2-web-server-access/
 インスタンスの詳細 | EC2 Management Console
 https://ap-northeast-1.console.aws.amazon.com/ec2/home?region=ap-northeast-1#InstanceDetails:instanceId=i-0d1c3c5f00484d9cf
 ---------------------------------------------------
+
+チュートリアル: Amazon EC2 インスタンスでの Node.js のセットアップ - AWS SDK for JavaScript
+https://docs.aws.amazon.com/ja_jp/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html
+------------------------------------
