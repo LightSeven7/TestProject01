@@ -1442,3 +1442,7 @@ https://ap-northeast-1.console.aws.amazon.com/ec2/home?region=ap-northeast-1#Ins
 チュートリアル: Amazon EC2 インスタンスでの Node.js のセットアップ - AWS SDK for JavaScript
 https://docs.aws.amazon.com/ja_jp/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html
 ------------------------------------
+
+ToDoアプリをExpressで作成しよう｜Node.jsによるWebアプリケーション作成入門
+https://zenn.dev/wkb/books/node-tutorial/viewer/todo_03
+------------------------------------
