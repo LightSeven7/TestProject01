@@ -1470,3 +1470,30 @@ https://note.cman.jp/network/subnetmask.cgi
 セッションマネージャーを使用してプライベートサブネットのLinux用EC2にアクセス(NAT Gateway編) | DevelopersIO
 https://dev.classmethod.jp/articles/terraform-session-manager-linux-ec2-natgateway/
 ------------------------------------
+
+
+■Nodejs上でMySQLやSQLiteを使う際のライブラリ
+--------------------------------------------------------------
+SQLite Home Page
+https://www.sqlite.org/index.html
+
+--------------------------------------------------------------
+SQLiteの特徴や使い方を徹底解説！SQLiteを導入するメリットは？基本的なコマンド入力方法とダウンロード手順も紹介| ITフリーランスエンジニア案件ならA-STAR（エースター）
+https://agency-star.co.jp/column/sqlite
+
+--------------------------------------------------------------
+【ポイント解説】知っておきたいSQLiteの仕様と注意事項 | 趣味や仕事に役立つ初心者DIYプログラミング入門
+https://resanaplaza.com/%E3%80%90it%E6%A5%AD%E7%95%8C%E3%81%AE%E5%B8%B8%E8%AD%98%E3%80%91sqlite%E3%81%AF%E8%BB%BD%E9%87%8F%E3%80%81%E9%AB%98%E9%80%9F%E3%81%AA%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF/
+
+--------------------------------------------------------------
+SQLite入門 | Let'sプログラミング
+https://www.javadrive.jp/sqlite/#section_table
+
+--------------------------------------------------------------
+Node.jsでSQLiteを使う | IT底辺脱却ブログ
+https://moewe-net.com/nodejs/sqlite3
+
+--------------------------------------------------------------
+SQL Query Builder for Javascript | Knex.js
+https://knexjs.org/
+
