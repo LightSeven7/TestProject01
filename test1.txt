@@ -1504,3 +1504,10 @@ https://knexjs.org/
 プロの魅力的な色使い！参考にしたい配色カラーパレット20個まとめ | PhotoshopVIP
 https://photoshopvip.net/82700
 ------------------------------------
+
+
+■AWS
+------------------------------------
+AWS Fargateとは？Amazon ECSとの関係性やメリット・デメリットを解説｜コラム｜クラウドソリューション｜サービス｜法人のお客さま｜NTT東日本
+https://business.ntt-east.co.jp/content/cloudsolution/column-171.html
+------------------------------------
