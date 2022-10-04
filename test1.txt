@@ -1511,3 +1511,9 @@ https://photoshopvip.net/82700
 AWS Fargateとは？Amazon ECSとの関係性やメリット・デメリットを解説｜コラム｜クラウドソリューション｜サービス｜法人のお客さま｜NTT東日本
 https://business.ntt-east.co.jp/content/cloudsolution/column-171.html
 ------------------------------------
+
+
+■Vimプラグイン
+vim pluginsをインストールしてみましょう - Qiita
+https://qiita.com/mira010/items/6278d604eefb926db937
+------------------------------------
