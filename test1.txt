@@ -1517,3 +1517,7 @@ https://business.ntt-east.co.jp/content/cloudsolution/column-171.html
 vim pluginsをインストールしてみましょう - Qiita
 https://qiita.com/mira010/items/6278d604eefb926db937
 ------------------------------------
+
+GitHub - pangloss/vim-javascript: Vastly improved Javascript indentation and syntax support in Vim.
+https://github.com/pangloss/vim-javascript
+------------------------------------
