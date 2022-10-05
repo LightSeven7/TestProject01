@@ -1521,3 +1521,13 @@ https://qiita.com/mira010/items/6278d604eefb926db937
 GitHub - pangloss/vim-javascript: Vastly improved Javascript indentation and syntax support in Vim.
 https://github.com/pangloss/vim-javascript
 ------------------------------------
+
+
+
+特定のホームページのみアクセスできない場合の原因と対処方法を解説 | パソコン博士の知恵袋
+https://pcdr-chiebukuro.com/unable-to-access/
+------------------------------------
+
+特定サイトに繋がらないトラブルを 高確率 で治す方法 | Fukuro Press
+https://fukuro-press.com/wifi-cannot-access-specific-sites/
+------------------------------------
