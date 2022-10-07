@@ -18,9 +18,6 @@ https://qiita.com/chihiro/items/f373873d5c2dfbd03250
 【git branch コマンド - Qiita】
 https://qiita.com/chihiro/items/e178e45a7fd5a2fb4599
 ---------------------------------------------------------
-【web開発 CSS】Inputのtextデザイン - Qiita
-https://qiita.com/KengoShimizu/items/22c14b282fa9f53f4bd8
-------------------------------------------------------------------
 【Git入門】チェックアウト(checkout)とは？使い方を基礎から解説！ | 侍エンジニア塾ブログ（Samurai Blog） - プログラミング入門者向けサイト
 https://www.sejuku.net/blog/71457
 ------------------------------------------------------------------
@@ -29,9 +26,6 @@ https://www.sejuku.net/blog/category/tools/git
 ------------------------------------------------------------------
 Gitコマンド一覧 - Qiita
 https://qiita.com/fukumone/items/73e1a9a62c5e4454263b
-------------------------------------------------------------------
-【CSS】おしゃれなボックスデザイン（囲み枠）のサンプル30
-https://saruwakakun.com/html-css/reference/box
 ------------------------------------------------------------------
 【Git commit 取り消したい - Qiita】
 https://qiita.com/maejimayuto/items/30bfab250186a00ae884
@@ -58,10 +52,6 @@ https://docs.microsoft.com/ja-jp/cpp/build/walkthrough-compile-a-c-program-on-th
 
 Git の Pull コマンドの使い方 - yu8mada
 https://yu8mada.com/2018/06/07/how-to-use-git-s-pull-command/
-------------------------------------------------------------------
-
-【web開発 CSS】Inputのtextデザイン - Qiita
-https://qiita.com/KengoShimizu/items/22c14b282fa9f53f4bd8
 ------------------------------------------------------------------
 
 Gitでいろいろ取り消したい - Qiita
@@ -334,10 +324,6 @@ https://kamino.hatenablog.com/entry/vscode_alike_neovim
 
 
 ■2022/02/16
-Generate a CSS Color Gradient - Maker, and Background
-https://hexcolor.co/generate-color-gradient
-------------------------------------
-
 VS Codeの拡張機能でPythonの仮想環境構築からコード整形、Lintまでを体験してみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） - ＠IT
 https://atmarkit.itmedia.co.jp/ait/articles/2106/25/news028.html
 ------------------------------------
@@ -428,9 +414,6 @@ https://qiita.com/chihiro/items/f373873d5c2dfbd03250
 【git branch コマンド - Qiita】
 https://qiita.com/chihiro/items/e178e45a7fd5a2fb4599
 ---------------------------------------------------------
-【web開発 CSS】Inputのtextデザイン - Qiita
-https://qiita.com/KengoShimizu/items/22c14b282fa9f53f4bd8
-------------------------------------------------------------------
 【Git入門】チェックアウト(checkout)とは？使い方を基礎から解説！ | 侍エンジニア塾ブログ（Samurai Blog） - プログラミング入門者向けサイト
 https://www.sejuku.net/blog/71457
 ------------------------------------------------------------------
@@ -439,9 +422,6 @@ https://www.sejuku.net/blog/category/tools/git
 ------------------------------------------------------------------
 Gitコマンド一覧 - Qiita
 https://qiita.com/fukumone/items/73e1a9a62c5e4454263b
-------------------------------------------------------------------
-【CSS】おしゃれなボックスデザイン（囲み枠）のサンプル30
-https://saruwakakun.com/html-css/reference/box
 ------------------------------------------------------------------
 【Git commit 取り消したい - Qiita】
 https://qiita.com/maejimayuto/items/30bfab250186a00ae884
@@ -464,9 +444,7 @@ https://docs.microsoft.com/ja-jp/cpp/build/walkthrough-compile-a-c-program-on-th
 Git の Pull コマンドの使い方 - yu8mada
 https://yu8mada.com/2018/06/07/how-to-use-git-s-pull-command/
 ------------------------------------------------------------------
-【web開発 CSS】Inputのtextデザイン - Qiita
-https://qiita.com/KengoShimizu/items/22c14b282fa9f53f4bd8
-------------------------------------------------------------------
+
 Gitでいろいろ取り消したい - Qiita
 https://qiita.com/mk0812/items/c0526812e89249b93239
 ------------------------------------------------------------------
@@ -1523,11 +1501,29 @@ https://github.com/pangloss/vim-javascript
 ------------------------------------
 
 
-
+■DNS
 特定のホームページのみアクセスできない場合の原因と対処方法を解説 | パソコン博士の知恵袋
 https://pcdr-chiebukuro.com/unable-to-access/
 ------------------------------------
 
 特定サイトに繋がらないトラブルを 高確率 で治す方法 | Fukuro Press
 https://fukuro-press.com/wifi-cannot-access-specific-sites/
+------------------------------------
+
+
+■CSS
+Generate a CSS Color Gradient - Maker, and Background
+https://hexcolor.co/generate-color-gradient
+------------------------------------
+
+【web開発 CSS】Inputのtextデザイン - Qiita
+https://qiita.com/KengoShimizu/items/22c14b282fa9f53f4bd8
+------------------------------------------------------------------
+
+【CSS】おしゃれなボックスデザイン（囲み枠）のサンプル30
+https://saruwakakun.com/html-css/reference/box
+------------------------------------------------------------------
+
+【2021年版】おしゃれな配色パターンが見つかる！カラーパレット人気ツール20個まとめ | Web Design Trends
+https://webdesign-trends.net/entry/11846
 ------------------------------------
