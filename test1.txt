@@ -1527,3 +1527,9 @@ https://saruwakakun.com/html-css/reference/box
 【2021年版】おしゃれな配色パターンが見つかる！カラーパレット人気ツール20個まとめ | Web Design Trends
 https://webdesign-trends.net/entry/11846
 ------------------------------------
+
+
+
+【Electron】Felica連携デスクトップアプリケーションの開発 - Qiita
+https://qiita.com/yosida001/items/3051565dce7eff620273
+------------------------------------
