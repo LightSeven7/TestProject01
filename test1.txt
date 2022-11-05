@@ -1551,3 +1551,16 @@ Node.js(Express.js)でセキュリティを設定する(http脆弱性対策はhe
 https://kennejs.com/entry/2019/01/12/002142
 ------------------------------------
 
+
+■Nodejs
+・mysqlモジュール
+npm install mysql2
+
+・Cookie-session
+npm install cookie-session
+
+・パスワードをハッシュ化
+npm install bcrypt
+
+・ストラテジーの設定
+npm install passport passport-local
