@@ -1475,6 +1475,14 @@ https://moewe-net.com/nodejs/sqlite3
 SQL Query Builder for Javascript | Knex.js
 https://knexjs.org/
 
+--------------------------------------------------------------
+sqlite3のインストールと表示
+https://zenn.dev/urinco/articles/07c6a23361ebfc
+
+--------------------------------------------------------------
+node.jsでsqlite3を利用する - Qiita
+https://qiita.com/zaburo/items/a155cbc02832b501a8dd
+
 
 
 ■デザインサイト
@@ -1543,6 +1551,8 @@ Notionの使い方まとめ。必要な情報をこれひとつで管理する5�
 https://note.com/yriica/n/nc079db469d47
 ------------------------------------
 
+
+■Node.js Express
 実稼働環境における Express のセキュリティーに関するベスト・プラクティス
 https://expressjs.com/ja/advanced/best-practice-security.html
 ------------------------------------
@@ -1557,6 +1567,10 @@ https://qiita.com/king_dog_fun/items/d6b3565e624b96d6ea9c
 
 とほほのBootstrap 4入門 - ボタン - とほほのWWW入門
 https://www.tohoho-web.com/bootstrap/buttons.html
+------------------------------------
+
+AWSでどのようにNode.jsを利用したらいい？Node.jsを利用するメリットも解説 | FEnet コラム for AWS
+https://www.fenet.jp/aws/column/aws-beginner/940/
 ------------------------------------
 
 
