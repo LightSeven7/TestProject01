@@ -1551,6 +1551,14 @@ Node.js(Express.js)でセキュリティを設定する(http脆弱性対策はhe
 https://kennejs.com/entry/2019/01/12/002142
 ------------------------------------
 
+[認証]SNSのテンプレートを作成してみた[解説編] - Qiita
+https://qiita.com/king_dog_fun/items/d6b3565e624b96d6ea9c
+------------------------------------
+
+とほほのBootstrap 4入門 - ボタン - とほほのWWW入門
+https://www.tohoho-web.com/bootstrap/buttons.html
+------------------------------------
+
 
 ■Nodejs
 ・mysqlモジュール
@@ -1564,3 +1572,7 @@ npm install bcrypt
 
 ・ストラテジーの設定
 npm install passport passport-local
+※現バージョン(2022/08/11)のv4.5.1において、passportはどうやら一部のメソッドでエラーが発生する
+passport のダウングレード
+>npm install passport@0.5
+
