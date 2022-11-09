@@ -94,3 +94,7 @@ Modeは、OneTime、OneWay、TwoWay、OneWayToSourceなどがある。
             </ResourceDictionary.MergedDictionaries>
 
 DeskInfo3
+
+Node.js(Express.js)アプリケーションをWeb公開する際のセキュリティ設定 | ノード・ラボ
+https://kennejs.com/entry/2019/03/22/005300
+------------------------------------
