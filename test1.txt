@@ -173,10 +173,6 @@ Visual Studio Code を使用して Azure で初めての関数を作成する | 
 https://gti.page.link/4RbjTeUHjQpvh4Vf6
 =============================================
 
-クイック スタート:Node.js Web アプリを作成する - Azure App Service | Microsoft Docs
-https://gti.page.link/2hHu3VREQqScbXfy9
-=============================================
-
 Azure Functions の開発に関するガイダンス | Microsoft Docs
 https://gti.page.link/LwjS5Cyk7sChCWb37
 =============================================
@@ -553,10 +549,6 @@ https://gti.page.link/2YXttqzSVNZa83rM6
 
 Visual Studio Code を使用して Azure で初めての関数を作成する | Microsoft Docs
 https://gti.page.link/4RbjTeUHjQpvh4Vf6
-=============================================
-
-クイック スタート:Node.js Web アプリを作成する - Azure App Service | Microsoft Docs
-https://gti.page.link/2hHu3VREQqScbXfy9
 =============================================
 
 Chromeの拡張機能を自作する - 虎の穴開発室ブログ
@@ -1589,4 +1581,3 @@ npm install passport passport-local
 ※現バージョン(2022/08/11)のv4.5.1において、passportはどうやら一部のメソッドでエラーが発生する
 passport のダウングレード
 >npm install passport@0.5
-
