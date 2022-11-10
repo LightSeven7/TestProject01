@@ -1565,6 +1565,10 @@ AWSでどのようにNode.jsを利用したらいい？Node.jsを利用するメ
 https://www.fenet.jp/aws/column/aws-beginner/940/
 ------------------------------------
 
+Node.js(Express.js)アプリケーションをWeb公開する際のセキュリティ設定 | ノード・ラボ
+https://kennejs.com/entry/2019/03/22/005300
+------------------------------------
+
 
 ■Nodejs
 ・mysqlモジュール
@@ -1581,3 +1585,14 @@ npm install passport passport-local
 ※現バージョン(2022/08/11)のv4.5.1において、passportはどうやら一部のメソッドでエラーが発生する
 passport のダウングレード
 >npm install passport@0.5
+
+・knex.js (クエリビルダ)
+npm install knex
+
+・httpヘッダの設定をサポート(Webの脆弱性対策)
+npm install helmet
+
+const helmet = require('helmet')
+~~~
+const app = express();
+app.use(helmet())
