@@ -1609,3 +1609,7 @@ Tab Manager Pulas
 https://www.ipentec.com/document/javascript-exec-javascript-on-hyperlink-click
 ------------------------------------
 
+Expressで定数を定義する | Webエンジニアブログ
+http://dim5.net/nodejs/express-const-value.html
+------------------------------------
+
