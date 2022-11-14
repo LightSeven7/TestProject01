@@ -1604,3 +1604,8 @@ https://officeforest.org/wp/2021/07/05/sqlite_matome/#i-21
 
 ・クローム拡張機能
 Tab Manager Pulas
+
+リンクのクリック時にJavaScriptを実行する - リンクのonClickの実装 : JavaScript | iPentec
+https://www.ipentec.com/document/javascript-exec-javascript-on-hyperlink-click
+------------------------------------
+
