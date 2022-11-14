@@ -1613,3 +1613,7 @@ Expressで定数を定義する | Webエンジニアブログ
 http://dim5.net/nodejs/express-const-value.html
 ------------------------------------
 
+指定したURLにページ遷移する / 指定したURLを開く : JavaScript | iPentec
+https://www.ipentec.com/document/javascript-open-url
+------------------------------------
+
