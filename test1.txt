@@ -1617,3 +1617,7 @@ http://dim5.net/nodejs/express-const-value.html
 https://www.ipentec.com/document/javascript-open-url
 ------------------------------------
 
+Node.jsでUUIDを生成する（crypto.randomUUID） - Qiita
+https://qiita.com/aosho235/items/79a7bb234af047ca5460
+------------------------------------
+
