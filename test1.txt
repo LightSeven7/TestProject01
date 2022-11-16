@@ -1621,3 +1621,9 @@ Node.jsでUUIDを生成する（crypto.randomUUID） - Qiita
 https://qiita.com/aosho235/items/79a7bb234af047ca5460
 ------------------------------------
 
+SQLiteで持つ情報
+・ログ
+・ゲスト用ユニークID
+・固定文字列
+・キャッシュ情報
+
