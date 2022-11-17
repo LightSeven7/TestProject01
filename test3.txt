@@ -99,3 +99,18 @@ Vue.jsとは、どんなことができるフレームワーク？特徴と勉�
 https://www.webstaff.jp/guide/trend/vuejs/
 ------------------------------------
 
+create table m_system_config (
+    class_number text,
+    class_name text,
+    sub_class_number text,
+    sub_class_name text,
+    class_value text,
+    remarks text,
+    ins_datetime text,
+    upd_datetime text
+ );
+
+
+class_number	class_name	sub_class_number	sub_class_name	class_value	remarks	ins_datetime	upd_datetime
+001	セッション情報	001	クッキー名	session	« NULL »	« NULL »	« NULL »
+001	セッション情報	002	暗号化キー	secretFrailAi-alphaAs01!	« NULL »	« NULL »	« NULL »
