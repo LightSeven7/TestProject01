@@ -39,3 +39,63 @@ change1
 
 change2
 
+--------------------------------------------------------------
+SQLite | データの取得(SELECT文)
+https://www.javadrive.jp/sqlite/select/index1.html#section1
+
+--------------------------------------------------------------
+Node.jsでSQLiteを使う | IT底辺脱却ブログ
+https://moewe-net.com/nodejs/sqlite3
+
+--------------------------------------------------------------
+SQLite入門 | Let'sプログラミング
+https://www.javadrive.jp/sqlite/
+
+--------------------------------------------------------------
+SQLiteのデータ型 ほとんどのSQLデータベースエンジン(私たちの知る限りではSQLite以外のすべて)は静的で硬直した型付けを使用しています。
+https://runebook.dev/ja/docs/sqlite/datatype3
+
+--------------------------------------------------------------
+sqliteで同期的に複数行を操作する（node.js） | Once and Only
+http://once-and-only.com/programing/javascript/sqlite%E3%81%A7%E5%90%8C%E6%9C%9F%E7%9A%84%E3%81%AB%E8%A4%87%E6%95%B0%E8%A1%8C%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%EF%BC%88node-js%EF%BC%89/
+
+--------------------------------------------------------------
+sqlite3にbind parameterを利用する(javascript) | Once and Only
+http://once-and-only.com/programing/javascript/sqlite3%e3%81%abbind-parameter%e3%82%92%e5%88%a9%e7%94%a8%e3%81%99%e3%82%8bjavascript/
+
+--------------------------------------------------------------
+mysql プリペア バインド javascript - Google 検索
+https://www.google.com/search?q=mysql+%E3%83%97%E3%83%AA%E3%83%9A%E3%82%A2+%E3%83%90%E3%82%A4%E3%83%B3%E3%83%89+javascript&rlz=1C1CHBD_jaJP839JP845&sxsrf=ALiCzsYbTbazIrJ0-WvMcSkUIRXpulGMxQ%3A1668692053203&ei=VTh2Y8yGDI3b-Qa4h57wCw&ved=0ahUKEwiMhcioqrX7AhWNbd4KHbiDB74Q4dUDCA8&uact=5&oq=mysql+%E3%83%97%E3%83%AA%E3%83%9A%E3%82%A2+%E3%83%90%E3%82%A4%E3%83%B3%E3%83%89+javascript&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQyBQgAEKIEMgUIABCiBDoKCAAQRxDWBBCwAzoECCEQFToFCCEQoAE6BwgAEB4QogRKBAhBGABKBAhGGABQmAdY8Sxggy5oA3ABeACAAXWIAaALkgEEMTIuM5gBAKABAcgBCsABAQ&sclient=gws-wiz-serp
+
+--------------------------------------------------------------
+Node.jsでMySQLを使うメモ - Qiita
+https://qiita.com/PianoScoreJP/items/7ed172cd0e7846641e13
+
+--------------------------------------------------------------
+javascriptでsqlite3の非同期関数の処理順序を制御できない
+https://teratail.com/questions/332111
+
+--------------------------------------------------------------
+【ポイント解説】知っておきたいSQLiteの仕様と注意事項 | 趣味や仕事に役立つ初心者DIYプログラミング入門
+https://resanaplaza.com/%E3%80%90it%E6%A5%AD%E7%95%8C%E3%81%AE%E5%B8%B8%E8%AD%98%E3%80%91sqlite%E3%81%AF%E8%BB%BD%E9%87%8F%E3%80%81%E9%AB%98%E9%80%9F%E3%81%AA%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF/#SQLite-3
+
+--------------------------------------------------------------
+SQLiteの特徴や使い方を徹底解説！SQLiteを導入するメリットは？基本的なコマンド入力方法とダウンロード手順も紹介| ITフリーランスエンジニア案件ならA-STAR（エースター）
+https://agency-star.co.jp/column/sqlite
+
+--------------------------------------------------------------
+sqlite3のインストールと表示
+https://zenn.dev/urinco/articles/07c6a23361ebfc
+
+--------------------------------------------------------------
+node.jsでsqlite3を利用する - Qiita
+https://qiita.com/zaburo/items/a155cbc02832b501a8dd
+
+javascriptのforEach内で処理を止めるには？breakの代わりになるコード | PisukeCode - Web開発まとめ
+https://pisuke-code.com/javascript-foreach-break/
+------------------------------------
+
+Vue.jsとは、どんなことができるフレームワーク？特徴と勉強方法をカンタン解説【入門編】｜IT・Web業界の転職準備【ウェブスタッフ 転職ガイド】
+https://www.webstaff.jp/guide/trend/vuejs/
+------------------------------------
+
