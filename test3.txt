@@ -99,6 +99,10 @@ Vue.jsとは、どんなことができるフレームワーク？特徴と勉�
 https://www.webstaff.jp/guide/trend/vuejs/
 ------------------------------------
 
+Node.jsでSQLite3にトランザクション張って列追加したり一括更新したり - キリウ君が読まないノート
+https://note.kiriukun.com/entry/20190815-sqlite3-in-nodejs
+------------------------------------
+
 create table m_system_config (
     class_number text,
     class_name text,
