@@ -114,3 +114,14 @@ create table m_system_config (
 class_number	class_name	sub_class_number	sub_class_name	class_value	remarks	ins_datetime	upd_datetime
 001	セッション情報	001	クッキー名	session	« NULL »	« NULL »	« NULL »
 001	セッション情報	002	暗号化キー	secretFrailAi-alphaAs01!	« NULL »	« NULL »	« NULL »
+
+
+■
+SQLiteデータベースの活用まとめ – 前編 🌴 officeの杜 🥥
+https://officeforest.org/wp/2021/07/05/sqlite_matome/#SELECT
+------------------------------------
+
+javascriptでsqlite3の非同期関数の処理順序を制御できない
+https://teratail.com/questions/332111
+------------------------------------
+
