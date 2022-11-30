@@ -1632,3 +1632,7 @@ SQLiteで持つ情報
 【修正あり】jsとcanvasで画像の容量を落とす - MATz Tech
 https://matz.hatenablog.jp/entry/2017/03/26/014615
 ------------------------------------
+
+【CentOS】LVMでディスク容量を拡張（VMwareのHDD容量を増やす） - wzhang85
+https://sites.google.com/site/wzhang85/linux/--centos--lvmde-disuku-youryou-wo-kakuchou--vmwareno-hddyouryou-wo-fuyasu
+------------------------------------
